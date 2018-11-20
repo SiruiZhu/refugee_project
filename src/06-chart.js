@@ -184,7 +184,7 @@ function ready(datapoints) {
 
   // turn into usa
   d3.select('#usa').on('stepin', () => {
-    console.log('I am step to usa')
+    // console.log('I am step to usa')
     let usaDatapoints = datapoints.filter(
       d => d.country === 'United States of America'
     )
@@ -290,7 +290,7 @@ function ready(datapoints) {
 
   // turn it to China
   d3.select('#china').on('stepin', () => {
-    console.log('I am step into china')
+    // console.log('I am step into china')
     let chinaDatapoints = datapoints.filter(d => d.country === 'China')
     // console.log(chinaDatapoints)
     chinaDatapoints.push(chinaDatapoints[0])

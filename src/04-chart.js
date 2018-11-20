@@ -362,7 +362,7 @@ function ready(datapoints) {
     .attr('text-anchor', 'middle')
 
   d3.select('#origin').on('stepin', () => {
-    console.log('I scroll back')
+    // console.log('I scroll back')
     svg.selectAll('.countries').attr('fill', d => colorScale(d.total_number))
     svg.selectAll('.countries-label').style('visibility', 'hidden')
     simulation
@@ -376,7 +376,7 @@ function ready(datapoints) {
 
   // scroll to Asia
   d3.select('#asia').on('stepin', () => {
-    console.log('I scroll down to asia')
+    // console.log('I scroll down to asia')
     svg
       .selectAll('.arab-spring')
       .transition()
@@ -415,7 +415,7 @@ function ready(datapoints) {
 
   // scroll to Arab spring
   d3.select('#arab-spring').on('stepin', () => {
-    console.log('I scroll down to arab spring')
+    // console.log('I scroll down to arab spring')
     svg
       .selectAll('.countries')
       .transition()
@@ -449,7 +449,7 @@ function ready(datapoints) {
 
   // scroll to separate bubbles based on continent
   d3.select('#split').on('stepin', () => {
-    console.log('I scroll down to separate step')
+    // console.log('I scroll down to separate step')
     svg
       .selectAll('.countries')
       .transition()

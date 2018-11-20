@@ -115,7 +115,7 @@ function ready([json, coordinateData, transitData, usaData]) {
       return 'country' + i
     })
     .on('mousemove', function(d) {
-      console.log(d)
+      // console.log(d)
       div
         .html(d.country)
         .style('left', d3.event.pageX + 'px')
@@ -284,7 +284,7 @@ function ready([json, coordinateData, transitData, usaData]) {
         let fromCoords = coordinateStore.get(d.Origin)
         // console.log(fromCoords)
         let toCoords = coordinateStore.get(d.country)
-        console.log(toCoords)
+        // console.log(toCoords)
         var geoLine = {
           type: 'LineString',
           coordinates: [fromCoords, toCoords]

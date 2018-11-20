@@ -115,3 +115,11 @@ function ready(datapoints) {
     .attr('transform', 'translate(0,' + height + ')')
     .call(xAxis)
 }
+
+  function topFunction() {
+        // console.log('GOT CLICKED')
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+      }
+
+d3.select('#myBtn').on('click', topFunction)
