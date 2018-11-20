@@ -1,0 +1,5211 @@
+Year,country,Origin,value
+1975,Argentina,Bolivia (Plurinational State of),90
+1975,Argentina,Chile,14400
+1975,Argentina,Uruguay,570
+1975,Burundi,Rwanda,49500
+1975,Botswana,Angola,1790
+1975,Botswana,Lesotho,190
+1975,Botswana,Namibia,150
+1975,Botswana,South Africa,190
+1975,Botswana,Zimbabwe,80
+1975,Côte d'Ivoire,Guinea,300000
+1975,Cameroon,Equatorial Guinea,30000
+1975,Dem. Rep. of the Congo,Angola,460000
+1975,Dem. Rep. of the Congo,Burundi,24000
+1975,Dem. Rep. of the Congo,Rwanda,24300
+1975,Dem. Rep. of the Congo,Zambia,750
+1975,Congo,Angola,5000
+1975,Algeria,Chile,350
+1975,Algeria,Western Sahara,20000
+1975,Ethiopia,Sudan,11000
+1975,Gabon,Equatorial Guinea,60000
+1975,Greece,Greece,510
+1975,Kenya,Ethiopia,300
+1975,Kenya,Mozambique,600
+1975,Kenya,Namibia,100
+1975,Kenya,Rwanda,700
+1975,Kenya,South Africa,90
+1975,Kenya,Zimbabwe,60
+1975,Lesotho,South Africa,190
+1975,Morocco,Czech Rep.,50
+1975,Morocco,Spain,140
+1975,Morocco,Hungary,70
+1975,Morocco,Poland,60
+1975,Morocco,Russian Federation,70
+1975,Mozambique,Malawi,30000
+1975,Mozambique,South Africa,70
+1975,Mozambique,Zimbabwe,14500
+1975,Nepal,Tibetan,8200
+1975,Peru,Chile,600
+1975,Philippines,Viet Nam,690
+1975,Rwanda,Burundi,7400
+1975,Sudan,Dem. Rep. of the Congo,4500
+1975,Sudan,Ethiopia,91000
+1975,Senegal,Guinea-Bissau,46000
+1975,Thailand,Cambodia,18830
+1975,Thailand,Lao People's Dem. Rep.,55510
+1975,Thailand,Viet Nam,1420
+1975,Turkey,Albania,380
+1975,Turkey,Bulgaria,300
+1975,Turkey,Hungary,70
+1975,Turkey,Romania,70
+1975,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),120
+1975,United Rep. of Tanzania,Burundi,110540
+1975,United Rep. of Tanzania,Dem. Rep. of the Congo,400
+1975,United Rep. of Tanzania,Mozambique,33700
+1975,United Rep. of Tanzania,Malawi,80
+1975,United Rep. of Tanzania,Rwanda,23100
+1975,United Rep. of Tanzania,Uganda,2300
+1975,United Rep. of Tanzania,South Africa,60
+1975,United Rep. of Tanzania,Zimbabwe,80
+1975,Uganda,Dem. Rep. of the Congo,34450
+1975,Uganda,Rwanda,78120
+1975,Zambia,Angola,30040
+1975,Zambia,Dem. Rep. of the Congo,60
+1975,Zambia,Congo,110
+1975,Zambia,Ethiopia,110
+1975,Zambia,Kenya,90
+1975,Zambia,Lesotho,120
+1975,Zambia,Mozambique,450
+1975,Zambia,Malawi,270
+1975,Zambia,Namibia,3720
+1975,Zambia,Somalia,110
+1975,Zambia,Uganda,210
+1975,Zambia,South Africa,760
+1995,Afghanistan,Iran (Islamic Rep. of),3
+1995,Afghanistan,Iraq,2
+1995,Afghanistan,Tajikistan,19600
+1995,Angola,Burundi,2
+1995,Angola,Dem. Rep. of the Congo,10846
+1995,Angola,Congo,1
+1995,Angola,Liberia,5
+1995,Angola,Mauritania,1
+1995,Angola,Rwanda,22
+1995,Angola,Somalia,1
+1995,Angola,Chad,5
+1995,Angola,Uganda,1
+1995,Albania,Bosnia and Herzegovina,45
+1995,Albania,China,150
+1995,Albania,Iraq,203
+1995,Albania,Sri Lanka,50
+1995,Albania,The former Yugoslav Republic of Macedonia,100
+1995,Albania,Serbia and Kosovo (S/RES/1244 (1999)),4018
+1995,Albania,Syrian Arab Rep.,3
+1995,Albania,Tunisia,1
+1995,Albania,Turkey,150
+1995,United Arab Emirates,Bosnia and Herzegovina,3
+1995,United Arab Emirates,Iran (Islamic Rep. of),29
+1995,United Arab Emirates,Iraq,37
+1995,United Arab Emirates,Palestinian,9
+1995,United Arab Emirates,Sudan,13
+1995,United Arab Emirates,Somalia,202
+1995,United Arab Emirates,Syrian Arab Rep.,13
+1995,United Arab Emirates,Uganda,90
+1995,Armenia,Azerbaijan,200000
+1995,Azerbaijan,Armenia,200000
+1995,Burundi,Dem. Rep. of the Congo,20000
+1995,Burundi,Ethiopia,1
+1995,Burundi,Rwanda,153000
+1995,Burundi,Somalia,10
+1995,Benin,Burundi,11
+1995,Benin,Cameroon,35
+1995,Benin,Dem. Rep. of the Congo,20
+1995,Benin,Rwanda,72
+1995,Benin,Chad,329
+1995,Benin,Togo,23370
+1995,Bangladesh,Iran (Islamic Rep. of),29
+1995,Bangladesh,Iraq,7
+1995,Bangladesh,Sri Lanka,5
+1995,Bangladesh,Myanmar,50985
+1995,Bangladesh,Palestinian,1
+1995,Bangladesh,Somalia,91
+1995,Bulgaria,Afghanistan,475
+1995,Bulgaria,Angola,2
+1995,Bulgaria,Armenia,79
+1995,Bulgaria,Azerbaijan,20
+1995,Bulgaria,Bangladesh,15
+1995,Bulgaria,Cameroon,3
+1995,Bulgaria,Dem. Rep. of the Congo,27
+1995,Bulgaria,Congo,1
+1995,Bulgaria,Algeria,39
+1995,Bulgaria,Ethiopia,77
+1995,Bulgaria,Georgia,2
+1995,Bulgaria,Guinea,3
+1995,Bulgaria,Iran (Islamic Rep. of),42
+1995,Bulgaria,Iraq,71
+1995,Bulgaria,Jordan,1
+1995,Bulgaria,Lebanon,9
+1995,Bulgaria,Liberia,6
+1995,Bulgaria,Lithuania,1
+1995,Bulgaria,Rep. of Moldova,2
+1995,Bulgaria,Mongolia,2
+1995,Bulgaria,Nigeria,3
+1995,Bulgaria,Pakistan,4
+1995,Bulgaria,Rwanda,3
+1995,Bulgaria,Sudan,9
+1995,Bulgaria,Senegal,1
+1995,Bulgaria,Sierra Leone,1
+1995,Bulgaria,Somalia,19
+1995,Bulgaria,Serbia and Kosovo (S/RES/1244 (1999)),259
+1995,Bulgaria,Syrian Arab Rep.,31
+1995,Bulgaria,Tajikistan,3
+1995,Bulgaria,Turkey,30
+1995,Bulgaria,Stateless,75
+1995,Bulgaria,Yemen,5
+1995,Bahamas,Cuba,8
+1995,Belize,Guatemala,2149
+1995,Belize,Honduras,221
+1995,Belize,Nicaragua,309
+1995,Belize,El Salvador,5945
+1995,Bolivia (Plurinational State of),Chile,4
+1995,Bolivia (Plurinational State of),Guatemala,44
+1995,Bolivia (Plurinational State of),Sri Lanka,6
+1995,Bolivia (Plurinational State of),Peru,625
+1995,Bolivia (Plurinational State of),Romania,1
+1995,Bolivia (Plurinational State of),Serbia and Kosovo (S/RES/1244 (1999)),1
+1995,Brazil,Angola,1264
+1995,Brazil,Argentina,15
+1995,Brazil,Chile,20
+1995,Brazil,Dem. Rep. of the Congo,143
+1995,Brazil,Cuba,62
+1995,Brazil,Ghana,6
+1995,Brazil,Croatia,17
+1995,Brazil,Iran (Islamic Rep. of),12
+1995,Brazil,Iraq,48
+1995,Brazil,Lebanon,19
+1995,Brazil,Liberia,150
+1995,Brazil,Nigeria,11
+1995,Brazil,Peru,35
+1995,Brazil,Rwanda,9
+1995,Brazil,Sudan,15
+1995,Brazil,Somalia,11
+1995,Brazil,Serbia and Kosovo (S/RES/1244 (1999)),28
+1995,Brazil,Viet Nam,21
+1995,Botswana,Angola,175
+1995,Botswana,Burundi,6
+1995,Botswana,Dem. Rep. of the Congo,3
+1995,Botswana,Ethiopia,5
+1995,Botswana,Kenya,1
+1995,Botswana,Mozambique,1
+1995,Botswana,Rwanda,8
+1995,Botswana,Sudan,7
+1995,Botswana,Somalia,15
+1995,Botswana,Uganda,12
+1995,Botswana,South Africa,14
+1995,Central African Rep.,Angola,13
+1995,Central African Rep.,Burundi,210
+1995,Central African Rep.,Rwanda,237
+1995,Central African Rep.,Sudan,27252
+1995,Central African Rep.,Chad,6101
+1995,Canada,Afghanistan,4575
+1995,Canada,Angola,110
+1995,Canada,Albania,239
+1995,Canada,Andorra,1
+1995,Canada,Argentina,247
+1995,Canada,Armenia,43
+1995,Canada,Australia,1
+1995,Canada,Austria,49
+1995,Canada,Azerbaijan,56
+1995,Canada,Burundi,637
+1995,Canada,Belgium,3
+1995,Canada,Benin,15
+1995,Canada,Burkina Faso,9
+1995,Canada,Bangladesh,1639
+1995,Canada,Bulgaria,1053
+1995,Canada,Bahrain,11
+1995,Canada,Bosnia and Herzegovina,12171
+1995,Canada,Belarus,36
+1995,Canada,Belize,8
+1995,Canada,Bolivia (Plurinational State of),72
+1995,Canada,Brazil,24
+1995,Canada,Barbados,2
+1995,Canada,Bhutan,6
+1995,Canada,Botswana,22
+1995,Canada,Central African Rep.,5
+1995,Canada,Switzerland,27
+1995,Canada,Chile,501
+1995,Canada,China,1597
+1995,Canada,Côte d'Ivoire,50
+1995,Canada,Cameroon,89
+1995,Canada,Dem. Rep. of the Congo,1564
+1995,Canada,Congo,19
+1995,Canada,Colombia,112
+1995,Canada,Comoros,4
+1995,Canada,Costa Rica,204
+1995,Canada,Cuba,696
+1995,Canada,Cyprus,9
+1995,Canada,Czech Rep.,394
+1995,Canada,Germany,376
+1995,Canada,Djibouti,57
+1995,Canada,Denmark,18
+1995,Canada,Dominican Rep.,25
+1995,Canada,Algeria,905
+1995,Canada,Ecuador,130
+1995,Canada,Egypt,181
+1995,Canada,Eritrea,17
+1995,Canada,Spain,29
+1995,Canada,Estonia,193
+1995,Canada,Ethiopia,5673
+1995,Canada,Finland,1
+1995,Canada,Fiji,28
+1995,Canada,France,14
+1995,Canada,Gabon,5
+1995,Canada,United Kingdom,65
+1995,Canada,Georgia,45
+1995,Canada,Ghana,751
+1995,Canada,Guinea,60
+1995,Canada,Gambia,2
+1995,Canada,Guinea-Bissau,5
+1995,Canada,Equatorial Guinea,2
+1995,Canada,Greece,129
+1995,Canada,Grenada,6
+1995,Canada,Guatemala,3052
+1995,Canada,Guyana,59
+1995,Canada,"China, Hong Kong SAR",202
+1995,Canada,Honduras,497
+1995,Canada,Croatia,984
+1995,Canada,Haiti,1145
+1995,Canada,Hungary,651
+1995,Canada,Indonesia,62
+1995,Canada,India,1528
+1995,Canada,Ireland,2
+1995,Canada,Iran (Islamic Rep. of),8131
+1995,Canada,Iraq,7308
+1995,Canada,Israel,794
+1995,Canada,Italy,114
+1995,Canada,Jamaica,6
+1995,Canada,Jordan,148
+1995,Canada,Japan,3
+1995,Canada,Kazakhstan,115
+1995,Canada,Kenya,453
+1995,Canada,Kyrgyzstan,14
+1995,Canada,Cambodia,822
+1995,Canada,Rep. of Korea,13
+1995,Canada,Kuwait,616
+1995,Canada,Lao People's Dem. Rep.,1055
+1995,Canada,Lebanon,3177
+1995,Canada,Liberia,205
+1995,Canada,Libya,120
+1995,Canada,Saint Lucia,2
+1995,Canada,Sri Lanka,17975
+1995,Canada,Lithuania,43
+1995,Canada,Latvia,81
+1995,Canada,Morocco,46
+1995,Canada,Rep. of Moldova,499
+1995,Canada,Madagascar,1
+1995,Canada,Mexico,250
+1995,Canada,The former Yugoslav Republic of Macedonia,17
+1995,Canada,Mali,103
+1995,Canada,Malta,13
+1995,Canada,Myanmar,208
+1995,Canada,Mongolia,1
+1995,Canada,Mozambique,21
+1995,Canada,Mauritania,22
+1995,Canada,Mauritius,1
+1995,Canada,Malawi,27
+1995,Canada,Malaysia,72
+1995,Canada,Namibia,1
+1995,Canada,Niger,4
+1995,Canada,Nigeria,492
+1995,Canada,Nicaragua,541
+1995,Canada,Netherlands,81
+1995,Canada,Norway,1
+1995,Canada,Nepal,5
+1995,Canada,Oman,9
+1995,Canada,Pakistan,2573
+1995,Canada,Panama,102
+1995,Canada,Peru,1266
+1995,Canada,Philippines,268
+1995,Canada,Poland,15690
+1995,Canada,Puerto Rico,12
+1995,Canada,Dem. People's Rep. of Korea,1
+1995,Canada,Portugal,23
+1995,Canada,Paraguay,35
+1995,Canada,Qatar,30
+1995,Canada,Romania,1813
+1995,Canada,Russian Federation,1613
+1995,Canada,Rwanda,519
+1995,Canada,Saudi Arabia,251
+1995,Canada,Sudan,1992
+1995,Canada,Senegal,16
+1995,Canada,Singapore,8
+1995,Canada,Sierra Leone,52
+1995,Canada,El Salvador,7261
+1995,Canada,Somalia,14673
+1995,Canada,Serbia and Kosovo (S/RES/1244 (1999)),1953
+1995,Canada,Sao Tome and Principe,1
+1995,Canada,Suriname,14
+1995,Canada,Slovakia,7
+1995,Canada,Slovenia,23
+1995,Canada,Sweden,25
+1995,Canada,Swaziland,15
+1995,Canada,Seychelles,305
+1995,Canada,Syrian Arab Rep.,365
+1995,Canada,Chad,46
+1995,Canada,Togo,65
+1995,Canada,Thailand,163
+1995,Canada,Tajikistan,1
+1995,Canada,Trinidad and Tobago,12
+1995,Canada,Tunisia,60
+1995,Canada,Turkey,558
+1995,Canada,United Rep. of Tanzania,33
+1995,Canada,Uganda,268
+1995,Canada,Ukraine,594
+1995,Canada,Uruguay,236
+1995,Canada,United States of America,233
+1995,Canada,Uzbekistan,50
+1995,Canada,Saint Vincent and the Grenadines,7
+1995,Canada,Venezuela (Bolivarian Republic of),466
+1995,Canada,Viet Nam,8853
+1995,Canada,Yemen,90
+1995,Canada,South Africa,71
+1995,Canada,Zambia,17
+1995,Canada,Zimbabwe,20
+1995,Switzerland,Afghanistan,455
+1995,Switzerland,Angola,44
+1995,Switzerland,Albania,38
+1995,Switzerland,Bangladesh,7
+1995,Switzerland,Bosnia and Herzegovina,4499
+1995,Switzerland,Dem. Rep. of the Congo,120
+1995,Switzerland,Czech Rep.,587
+1995,Switzerland,Algeria,12
+1995,Switzerland,Ethiopia,271
+1995,Switzerland,India,9
+1995,Switzerland,Iran (Islamic Rep. of),792
+1995,Switzerland,Iraq,378
+1995,Switzerland,Sri Lanka,297
+1995,Switzerland,Pakistan,121
+1995,Switzerland,Rwanda,48
+1995,Switzerland,Somalia,213
+1995,Switzerland,Serbia and Kosovo (S/RES/1244 (1999)),710
+1995,Switzerland,Turkey,3750
+1995,Switzerland,Viet Nam,4197
+1995,Chile,Angola,5
+1995,Chile,Burundi,1
+1995,Chile,Bosnia and Herzegovina,3
+1995,Chile,Colombia,12
+1995,Chile,Cuba,43
+1995,Chile,Ecuador,1
+1995,Chile,Egypt,1
+1995,Chile,Croatia,3
+1995,Chile,Iraq,5
+1995,Chile,Liberia,1
+1995,Chile,Peru,205
+1995,Chile,Russian Federation,1
+1995,Chile,Serbia and Kosovo (S/RES/1244 (1999)),1
+1995,Chile,Viet Nam,1
+1995,China,Burundi,7
+1995,China,Iran (Islamic Rep. of),3
+1995,China,Cambodia,30
+1995,China,Lao People's Dem. Rep.,1451
+1995,China,Sri Lanka,1
+1995,China,Rwanda,4
+1995,China,Sudan,1
+1995,China,Somalia,29
+1995,China,Viet Nam,286783
+1995,Côte d'Ivoire,Burundi,14
+1995,Côte d'Ivoire,Cameroon,115
+1995,Côte d'Ivoire,Ghana,75
+1995,Côte d'Ivoire,Liberia,297117
+1995,Côte d'Ivoire,Rwanda,84
+1995,Côte d'Ivoire,Viet Nam,253
+1995,Cameroon,Burundi,180
+1995,Cameroon,Central African Rep.,166
+1995,Cameroon,Dem. Rep. of the Congo,19
+1995,Cameroon,Ghana,112
+1995,Cameroon,Equatorial Guinea,59
+1995,Cameroon,Liberia,52
+1995,Cameroon,Rwanda,547
+1995,Cameroon,Sudan,126
+1995,Cameroon,Chad,44445
+1995,Dem. Rep. of the Congo,Angola,108338
+1995,Dem. Rep. of the Congo,Burundi,117902
+1995,Dem. Rep. of the Congo,Rwanda,1100642
+1995,Dem. Rep. of the Congo,Sudan,94192
+1995,Dem. Rep. of the Congo,Uganda,12611
+1995,Congo,Angola,19404
+1995,Colombia,Chile,35
+1995,Colombia,Cuba,12
+1995,Colombia,Haiti,8
+1995,Colombia,Hungary,30
+1995,Colombia,Iran (Islamic Rep. of),10
+1995,Colombia,Nicaragua,74
+1995,Colombia,Peru,15
+1995,Colombia,Serbia and Kosovo (S/RES/1244 (1999)),9
+1995,Colombia,Stateless,3
+1995,Costa Rica,Colombia,34
+1995,Costa Rica,Cuba,584
+1995,Costa Rica,Nicaragua,18984
+1995,Costa Rica,El Salvador,4154
+1995,Cuba,Ethiopia,4
+1995,Cuba,Namibia,5
+1995,Cuba,Rwanda,4
+1995,Cuba,Sudan,271
+1995,Cuba,South Africa,8
+1995,Cyprus,Bosnia and Herzegovina,43
+1995,Cyprus,Iran (Islamic Rep. of),2
+1995,Cyprus,Iraq,3
+1995,Cyprus,Palestinian,1
+1995,Cyprus,Sudan,2
+1995,Cyprus,Somalia,4
+1995,Germany,Bosnia and Herzegovina,320000
+1995,Germany,Stateless,18800
+1995,Djibouti,Burundi,3
+1995,Djibouti,Ethiopia,5979
+1995,Djibouti,Iraq,1
+1995,Djibouti,Rwanda,4
+1995,Djibouti,Somalia,21321
+1995,Djibouti,Yemen,2
+1995,Denmark,Afghanistan,748
+1995,Denmark,Albania,3
+1995,Denmark,Argentina,7
+1995,Denmark,Armenia,93
+1995,Denmark,Burundi,5
+1995,Denmark,Benin,1
+1995,Denmark,Bangladesh,12
+1995,Denmark,Bulgaria,18
+1995,Denmark,Bahrain,44
+1995,Denmark,Bosnia and Herzegovina,23629
+1995,Denmark,Botswana,3
+1995,Denmark,Chile,39
+1995,Denmark,China,180
+1995,Denmark,Cameroon,1
+1995,Denmark,Dem. Rep. of the Congo,35
+1995,Denmark,Comoros,2
+1995,Denmark,Costa Rica,1
+1995,Denmark,Cuba,3
+1995,Denmark,Czech Rep.,39
+1995,Denmark,Algeria,1
+1995,Denmark,Egypt,9
+1995,Denmark,Ethiopia,288
+1995,Denmark,Ghana,16
+1995,Denmark,Guinea,1
+1995,Denmark,Gambia,1
+1995,Denmark,Honduras,4
+1995,Denmark,Croatia,7
+1995,Denmark,Hungary,26
+1995,Denmark,India,3
+1995,Denmark,Iran (Islamic Rep. of),4243
+1995,Denmark,Iraq,5271
+1995,Denmark,Israel,13
+1995,Denmark,Jordan,35
+1995,Denmark,Kazakhstan,1
+1995,Denmark,Kenya,8
+1995,Denmark,Cambodia,24
+1995,Denmark,Kuwait,4
+1995,Denmark,Lebanon,1763
+1995,Denmark,Liberia,15
+1995,Denmark,Libya,9
+1995,Denmark,Sri Lanka,4124
+1995,Denmark,Morocco,5
+1995,Denmark,Myanmar,4
+1995,Denmark,Mauritania,3
+1995,Denmark,Pakistan,32
+1995,Denmark,Peru,16
+1995,Denmark,Philippines,1
+1995,Denmark,Poland,643
+1995,Denmark,Palestinian,7640
+1995,Denmark,Romania,221
+1995,Denmark,Russian Federation,190
+1995,Denmark,Rwanda,4
+1995,Denmark,Sudan,25
+1995,Denmark,Sierra Leone,3
+1995,Denmark,El Salvador,1
+1995,Denmark,Somalia,4677
+1995,Denmark,Serbia and Kosovo (S/RES/1244 (1999)),750
+1995,Denmark,Syrian Arab Rep.,129
+1995,Denmark,Chad,1
+1995,Denmark,Togo,2
+1995,Denmark,Tunisia,5
+1995,Denmark,Turkey,167
+1995,Denmark,Uganda,107
+1995,Denmark,Ukraine,4
+1995,Denmark,Viet Nam,730
+1995,Denmark,Stateless,120
+1995,Denmark,Yemen,4
+1995,Denmark,South Africa,3
+1995,Dominican Rep.,Chile,4
+1995,Dominican Rep.,Cuba,30
+1995,Dominican Rep.,Haiti,947
+1995,Dominican Rep.,Peru,2
+1995,Dominican Rep.,Russian Federation,2
+1995,Algeria,Western Sahara,165000
+1995,Algeria,Mali,17265
+1995,Algeria,Niger,10181
+1995,Ecuador,Afghanistan,8
+1995,Ecuador,Chile,10
+1995,Ecuador,Dem. Rep. of the Congo,4
+1995,Ecuador,Colombia,92
+1995,Ecuador,Croatia,5
+1995,Ecuador,Iran (Islamic Rep. of),35
+1995,Ecuador,Serbia and Kosovo (S/RES/1244 (1999)),4
+1995,Ecuador,Syrian Arab Rep.,15
+1995,Ecuador,Viet Nam,8
+1995,Egypt,Afghanistan,23
+1995,Egypt,Armenia,1
+1995,Egypt,Burundi,36
+1995,Egypt,Bosnia and Herzegovina,5
+1995,Egypt,Dem. Rep. of the Congo,7
+1995,Egypt,Djibouti,1
+1995,Egypt,Algeria,1
+1995,Egypt,Eritrea,9
+1995,Egypt,Ethiopia,37
+1995,Egypt,Iran (Islamic Rep. of),2
+1995,Egypt,Iraq,29
+1995,Egypt,Kuwait,4
+1995,Egypt,Liberia,43
+1995,Egypt,Libya,4
+1995,Egypt,Nigeria,1
+1995,Egypt,Palestinian,5
+1995,Egypt,Rwanda,57
+1995,Egypt,Sudan,1221
+1995,Egypt,Somalia,3579
+1995,Egypt,Serbia and Kosovo (S/RES/1244 (1999)),25
+1995,Egypt,Syrian Arab Rep.,2
+1995,Egypt,Chad,5
+1995,Egypt,Stateless,188
+1995,Egypt,Yemen,122
+1995,Eritrea,Burundi,1
+1995,Eritrea,Liberia,1
+1995,Eritrea,Sudan,37
+1995,Eritrea,Somalia,1044
+1995,Spain,Afghanistan,69
+1995,Spain,Angola,133
+1995,Spain,Albania,9
+1995,Spain,Armenia,72
+1995,Spain,Azerbaijan,13
+1995,Spain,Burundi,2
+1995,Spain,Bangladesh,4
+1995,Spain,Bulgaria,3
+1995,Spain,Bahrain,1
+1995,Spain,Bosnia and Herzegovina,722
+1995,Spain,Chile,93
+1995,Spain,China,8
+1995,Spain,Cameroon,10
+1995,Spain,Dem. Rep. of the Congo,59
+1995,Spain,Congo,1
+1995,Spain,Colombia,45
+1995,Spain,Cuba,650
+1995,Spain,Czech Rep.,1
+1995,Spain,Algeria,81
+1995,Spain,Ethiopia,48
+1995,Spain,Georgia,12
+1995,Spain,Ghana,4
+1995,Spain,Gambia,1
+1995,Spain,Guinea-Bissau,4
+1995,Spain,Equatorial Guinea,136
+1995,Spain,Guatemala,1
+1995,Spain,Croatia,1
+1995,Spain,Hungary,4
+1995,Spain,India,3
+1995,Spain,Iran (Islamic Rep. of),287
+1995,Spain,Iraq,249
+1995,Spain,Jordan,1
+1995,Spain,Kyrgyzstan,1
+1995,Spain,Cambodia,2
+1995,Spain,Lao People's Dem. Rep.,88
+1995,Spain,Lebanon,1
+1995,Spain,Liberia,34
+1995,Spain,Sri Lanka,7
+1995,Spain,Morocco,15
+1995,Spain,Rep. of Moldova,1
+1995,Spain,The former Yugoslav Republic of Macedonia,2
+1995,Spain,Myanmar,4
+1995,Spain,Mozambique,4
+1995,Spain,Mauritania,5
+1995,Spain,Nigeria,9
+1995,Spain,Pakistan,8
+1995,Spain,Peru,200
+1995,Spain,Poland,10
+1995,Spain,Palestinian,1
+1995,Spain,Romania,42
+1995,Spain,Russian Federation,16
+1995,Spain,Rwanda,9
+1995,Spain,Sudan,12
+1995,Spain,Senegal,2
+1995,Spain,El Salvador,11
+1995,Spain,Somalia,75
+1995,Spain,Serbia and Kosovo (S/RES/1244 (1999)),16
+1995,Spain,Syrian Arab Rep.,24
+1995,Spain,Chad,1
+1995,Spain,Tajikistan,4
+1995,Spain,Tunisia,2
+1995,Spain,Turkey,6
+1995,Spain,Ukraine,3
+1995,Spain,Uzbekistan,1
+1995,Spain,Viet Nam,314
+1995,Spain,Stateless,15
+1995,Spain,Yemen,2
+1995,Ethiopia,Angola,5
+1995,Ethiopia,Burundi,8
+1995,Ethiopia,Dem. Rep. of the Congo,38
+1995,Ethiopia,Djibouti,18000
+1995,Ethiopia,Kenya,8680
+1995,Ethiopia,Rwanda,61
+1995,Ethiopia,Sudan,61113
+1995,Ethiopia,Somalia,305351
+1995,Ethiopia,Uganda,108
+1995,Ethiopia,Yemen,33
+1995,Fiji,Sri Lanka,9
+1995,France,Afghanistan,1294
+1995,France,Angola,1505
+1995,France,Albania,713
+1995,France,Argentina,8
+1995,France,Armenia,463
+1995,France,Burundi,101
+1995,France,Benin,12
+1995,France,Burkina Faso,40
+1995,France,Bangladesh,286
+1995,France,Bulgaria,436
+1995,France,Bosnia and Herzegovina,649
+1995,France,Belarus,9
+1995,France,Bolivia (Plurinational State of),49
+1995,France,Central African Rep.,65
+1995,France,Chile,1239
+1995,France,China,1003
+1995,France,Côte d'Ivoire,19
+1995,France,Cameroon,77
+1995,France,Dem. Rep. of the Congo,5232
+1995,France,Congo,146
+1995,France,Colombia,352
+1995,France,Comoros,4
+1995,France,Cabo Verde,1
+1995,France,Cuba,90
+1995,France,Czech Rep.,59
+1995,France,Djibouti,25
+1995,France,Dominican Rep.,1
+1995,France,Algeria,150
+1995,France,Ecuador,13
+1995,France,Egypt,127
+1995,France,Eritrea,1
+1995,France,Estonia,22
+1995,France,Ethiopia,338
+1995,France,Gabon,3
+1995,France,Georgia,43
+1995,France,Ghana,861
+1995,France,Guinea,255
+1995,France,Gambia,44
+1995,France,Guinea-Bissau,815
+1995,France,Equatorial Guinea,25
+1995,France,Guatemala,29
+1995,France,Guyana,1
+1995,France,Honduras,2
+1995,France,Croatia,29
+1995,France,Haiti,2379
+1995,France,Hungary,130
+1995,France,Indonesia,19
+1995,France,India,51
+1995,France,Iran (Islamic Rep. of),3535
+1995,France,Iraq,1128
+1995,France,Israel,4
+1995,France,Jordan,9
+1995,France,Kazakhstan,4
+1995,France,Kenya,2
+1995,France,Cambodia,25344
+1995,France,Rep. of Korea,6
+1995,France,Lao People's Dem. Rep.,15242
+1995,France,Lebanon,71
+1995,France,Liberia,140
+1995,France,Libya,5
+1995,France,Sri Lanka,15531
+1995,France,Lithuania,27
+1995,France,Latvia,38
+1995,France,Morocco,132
+1995,France,Rep. of Moldova,1
+1995,France,Madagascar,77
+1995,France,Mexico,6
+1995,France,Mali,156
+1995,France,Myanmar,38
+1995,France,Mozambique,14
+1995,France,Mauritania,1328
+1995,France,Mauritius,12
+1995,France,Malawi,1
+1995,France,Malaysia,3
+1995,France,Namibia,7
+1995,France,Niger,17
+1995,France,Nigeria,107
+1995,France,Nicaragua,2
+1995,France,Nepal,3
+1995,France,Pakistan,142
+1995,France,Panama,2
+1995,France,Peru,519
+1995,France,Philippines,5
+1995,France,Poland,478
+1995,France,Dem. People's Rep. of Korea,1
+1995,France,Paraguay,6
+1995,France,Palestinian,82
+1995,France,Romania,2852
+1995,France,Russian Federation,1180
+1995,France,Rwanda,263
+1995,France,Sudan,108
+1995,France,Senegal,35
+1995,France,Sierra Leone,16
+1995,France,El Salvador,28
+1995,France,Somalia,530
+1995,France,Serbia and Kosovo (S/RES/1244 (1999)),5208
+1995,France,Sao Tome and Principe,2
+1995,France,Slovakia,2
+1995,France,Seychelles,9
+1995,France,Syrian Arab Rep.,213
+1995,France,Chad,310
+1995,France,Togo,139
+1995,France,Tibetan,30
+1995,France,Tunisia,120
+1995,France,Turkey,12770
+1995,France,United Rep. of Tanzania,3
+1995,France,Uganda,44
+1995,France,Ukraine,295
+1995,France,Uruguay,4
+1995,France,Viet Nam,20618
+1995,France,Stateless,916
+1995,France,South Africa,41
+1995,France,Zimbabwe,3
+1995,Gabon,Angola,111
+1995,Gabon,Burundi,49
+1995,Gabon,Cameroon,4
+1995,Gabon,Dem. Rep. of the Congo,49
+1995,Gabon,Ghana,6
+1995,Gabon,Equatorial Guinea,112
+1995,Gabon,Liberia,39
+1995,Gabon,Mali,2
+1995,Gabon,Mauritania,126
+1995,Gabon,Rwanda,77
+1995,Gabon,Sierra Leone,5
+1995,Gabon,Somalia,18
+1995,Gabon,Sao Tome and Principe,32
+1995,Gabon,Chad,145
+1995,Gabon,Togo,16
+1995,United Kingdom,Afghanistan,820
+1995,United Kingdom,Angola,133
+1995,United Kingdom,Bangladesh,25
+1995,United Kingdom,Bulgaria,39
+1995,United Kingdom,China,283
+1995,United Kingdom,Dem. Rep. of the Congo,264
+1995,United Kingdom,Colombia,159
+1995,United Kingdom,Djibouti,10
+1995,United Kingdom,Algeria,25
+1995,United Kingdom,Ethiopia,5045
+1995,United Kingdom,Ghana,504
+1995,United Kingdom,India,940
+1995,United Kingdom,Iran (Islamic Rep. of),3397
+1995,United Kingdom,Iraq,4208
+1995,United Kingdom,Jordan,5
+1995,United Kingdom,Kenya,35
+1995,United Kingdom,Rep. of Korea,5
+1995,United Kingdom,Lebanon,1551
+1995,United Kingdom,Liberia,115
+1995,United Kingdom,Libya,20
+1995,United Kingdom,Sri Lanka,11499
+1995,United Kingdom,Myanmar,15
+1995,United Kingdom,Nigeria,29
+1995,United Kingdom,Pakistan,769
+1995,United Kingdom,Peru,20
+1995,United Kingdom,Poland,5
+1995,United Kingdom,Romania,79
+1995,United Kingdom,Russian Federation,154
+1995,United Kingdom,Sudan,1845
+1995,United Kingdom,Sierra Leone,40
+1995,United Kingdom,Somalia,11197
+1995,United Kingdom,Serbia and Kosovo (S/RES/1244 (1999)),2320
+1995,United Kingdom,Seychelles,25
+1995,United Kingdom,Syrian Arab Rep.,5
+1995,United Kingdom,Togo,5
+1995,United Kingdom,Turkey,5637
+1995,United Kingdom,Uganda,3849
+1995,United Kingdom,Viet Nam,5
+1995,United Kingdom,Stateless,86
+1995,United Kingdom,Yemen,10
+1995,United Kingdom,South Africa,20
+1995,United Kingdom,Zimbabwe,5
+1995,Ghana,Central African Rep.,1
+1995,Ghana,Cameroon,1
+1995,Ghana,Czech Rep.,3
+1995,Ghana,Ethiopia,7
+1995,Ghana,Liberia,13899
+1995,Ghana,Nigeria,3
+1995,Ghana,Rwanda,1
+1995,Ghana,Sudan,5
+1995,Ghana,Togo,69280
+1995,Guinea,Burundi,4
+1995,Guinea,Burkina Faso,1
+1995,Guinea,Central African Rep.,1
+1995,Guinea,Algeria,1
+1995,Guinea,Liberia,418210
+1995,Guinea,Nigeria,1
+1995,Guinea,Rwanda,8
+1995,Guinea,Sierra Leone,254070
+1995,Guinea,Togo,2
+1995,Gambia,Ethiopia,1
+1995,Gambia,Liberia,150
+1995,Gambia,Senegal,2393
+1995,Gambia,Sierra Leone,4050
+1995,Gambia,Somalia,5
+1995,Guinea-Bissau,Liberia,43
+1995,Guinea-Bissau,Senegal,15100
+1995,Guinea-Bissau,Sierra Leone,207
+1995,Greece,Iran (Islamic Rep. of),1077
+1995,Greece,Iraq,1543
+1995,Greece,Sri Lanka,136
+1995,Greece,Serbia and Kosovo (S/RES/1244 (1999)),21
+1995,Greece,Turkey,1395
+1995,Guatemala,Angola,4
+1995,Guatemala,Colombia,1
+1995,Guatemala,Cuba,11
+1995,Guatemala,Ghana,1
+1995,Guatemala,Honduras,14
+1995,Guatemala,Haiti,16
+1995,Guatemala,Iran (Islamic Rep. of),3
+1995,Guatemala,Jordan,1
+1995,Guatemala,Liberia,4
+1995,Guatemala,Nigeria,3
+1995,Guatemala,Nicaragua,1040
+1995,Guatemala,Panama,1
+1995,Guatemala,Peru,9
+1995,Guatemala,Palestinian,1
+1995,Guatemala,El Salvador,382
+1995,Guatemala,Somalia,1
+1995,Guatemala,Venezuela (Bolivarian Republic of),3
+1995,Guatemala,South Africa,1
+1995,"China, Hong Kong SAR",Sri Lanka,1
+1995,"China, Hong Kong SAR",Nigeria,1
+1995,"China, Hong Kong SAR",Viet Nam,1479
+1995,Croatia,Bosnia and Herzegovina,193544
+1995,Croatia,Serbia and Kosovo (S/RES/1244 (1999)),5103
+1995,Hungary,Serbia and Kosovo (S/RES/1244 (1999)),8553
+1995,Indonesia,Viet Nam,19
+1995,India,Afghanistan,19916
+1995,India,Angola,1
+1995,India,Armenia,4
+1995,India,Bangladesh,53500
+1995,India,China,98000
+1995,India,Ethiopia,13
+1995,India,Croatia,1
+1995,India,Iran (Islamic Rep. of),220
+1995,India,Iraq,36
+1995,India,Israel,15
+1995,India,Lao People's Dem. Rep.,3
+1995,India,Liberia,3
+1995,India,Sri Lanka,55062
+1995,India,Myanmar,307
+1995,India,Rwanda,5
+1995,India,Sudan,101
+1995,India,Somalia,286
+1995,India,Serbia and Kosovo (S/RES/1244 (1999)),5
+1995,India,Viet Nam,2
+1995,Iran (Islamic Rep. of),Afghanistan,1429038
+1995,Iran (Islamic Rep. of),Iraq,595500
+1995,Iraq,Eritrea,621
+1995,Iraq,Iran (Islamic Rep. of),38128
+1995,Iraq,Palestinian,62635
+1995,Iraq,Sudan,227
+1995,Iraq,Somalia,320
+1995,Iraq,Turkey,14791
+1995,Iceland,Serbia and Kosovo (S/RES/1244 (1999)),32
+1995,Iceland,Viet Nam,122
+1995,Italy,Afghanistan,52
+1995,Italy,Angola,58
+1995,Italy,Albania,1260
+1995,Italy,Armenia,5
+1995,Italy,Burundi,7
+1995,Italy,Benin,1
+1995,Italy,Burkina Faso,2
+1995,Italy,Bangladesh,5
+1995,Italy,Bulgaria,39
+1995,Italy,Bosnia and Herzegovina,8276
+1995,Italy,Chile,35
+1995,Italy,China,15
+1995,Italy,Côte d'Ivoire,3
+1995,Italy,Cameroon,3
+1995,Italy,Dem. Rep. of the Congo,61
+1995,Italy,Colombia,4
+1995,Italy,Cuba,18
+1995,Italy,Czech Rep.,45
+1995,Italy,Algeria,4
+1995,Italy,Egypt,7
+1995,Italy,Ethiopia,542
+1995,Italy,Georgia,2
+1995,Italy,Ghana,14
+1995,Italy,Guinea,1
+1995,Italy,Guinea-Bissau,2
+1995,Italy,Croatia,10099
+1995,Italy,Hungary,14
+1995,Italy,India,2
+1995,Italy,Iran (Islamic Rep. of),1301
+1995,Italy,Iraq,508
+1995,Italy,Israel,1
+1995,Italy,Jordan,4
+1995,Italy,Cambodia,21
+1995,Italy,Lebanon,68
+1995,Italy,Liberia,10
+1995,Italy,Libya,48
+1995,Italy,Sri Lanka,126
+1995,Italy,Morocco,6
+1995,Italy,The former Yugoslav Republic of Macedonia,12360
+1995,Italy,Myanmar,4
+1995,Italy,Mauritania,1
+1995,Italy,Nigeria,9
+1995,Italy,Pakistan,22
+1995,Italy,Peru,5
+1995,Italy,Poland,312
+1995,Italy,Palestinian,19
+1995,Italy,Romania,447
+1995,Italy,Russian Federation,16
+1995,Italy,Rwanda,70
+1995,Italy,Sudan,150
+1995,Italy,Senegal,6
+1995,Italy,Sierra Leone,1
+1995,Italy,El Salvador,3
+1995,Italy,Somalia,10000
+1995,Italy,Serbia and Kosovo (S/RES/1244 (1999)),27873
+1995,Italy,Syrian Arab Rep.,41
+1995,Italy,Chad,1
+1995,Italy,Tunisia,2
+1995,Italy,Turkey,52
+1995,Italy,Uganda,8
+1995,Italy,Ukraine,2
+1995,Italy,Uruguay,3
+1995,Italy,Viet Nam,202
+1995,Italy,Stateless,5
+1995,Italy,South Africa,3
+1995,Jamaica,Cuba,12
+1995,Jamaica,Haiti,9
+1995,Jamaica,Liberia,1
+1995,Jamaica,Sri Lanka,1
+1995,Jordan,Armenia,9
+1995,Jordan,Bosnia and Herzegovina,249
+1995,Jordan,Egypt,5
+1995,Jordan,Iraq,415
+1995,Jordan,Russian Federation,6
+1995,Jordan,Sudan,4
+1995,Jordan,Somalia,9
+1995,Jordan,Stateless,1
+1995,Japan,China,1
+1995,Japan,Iran (Islamic Rep. of),1
+1995,Japan,Liberia,1
+1995,Japan,Viet Nam,5432
+1995,Kazakhstan,Afghanistan,3500
+1995,Kazakhstan,Russian Federation,6000
+1995,Kazakhstan,Tajikistan,6000
+1995,Kenya,Burundi,114
+1995,Kenya,Dem. Rep. of the Congo,306
+1995,Kenya,Ethiopia,8535
+1995,Kenya,Mozambique,499
+1995,Kenya,Rwanda,5861
+1995,Kenya,Sudan,41215
+1995,Kenya,Somalia,172164
+1995,Kenya,Uganda,5907
+1995,Kenya,South Africa,39
+1995,Kyrgyzstan,Russian Federation,96
+1995,Kyrgyzstan,Tajikistan,13311
+1995,Cambodia,Iran (Islamic Rep. of),1
+1995,Cambodia,Iraq,6
+1995,Cambodia,Dem. People's Rep. of Korea,2
+1995,Cambodia,Viet Nam,6
+1995,Rep. of Korea,Iran (Islamic Rep. of),4
+1995,Rep. of Korea,Liberia,1
+1995,Kuwait,Afghanistan,22
+1995,Kuwait,Iraq,1723
+1995,Kuwait,Palestinian,1485
+1995,Kuwait,Somalia,68
+1995,Lebanon,Afghanistan,550
+1995,Lebanon,Iraq,981
+1995,Lebanon,Sudan,167
+1995,Lebanon,Somalia,109
+1995,Liberia,Ethiopia,4
+1995,Liberia,Ghana,6
+1995,Liberia,Equatorial Guinea,4
+1995,Liberia,Iraq,3
+1995,Liberia,Lebanon,13
+1995,Liberia,Mozambique,6
+1995,Liberia,Palestinian,6
+1995,Liberia,Sudan,16
+1995,Liberia,Sierra Leone,120002
+1995,Liberia,Uganda,2
+1995,Liberia,South Africa,11
+1995,Liberia,Zimbabwe,7
+1995,Libya,Bosnia and Herzegovina,16
+1995,Libya,Eritrea,395
+1995,Libya,Ethiopia,142
+1995,Libya,Iraq,106
+1995,Libya,Palestinian,25
+1995,Libya,Sudan,341
+1995,Libya,Somalia,2829
+1995,Libya,Syrian Arab Rep.,57
+1995,Sri Lanka,Afghanistan,7
+1995,Sri Lanka,Bosnia and Herzegovina,1
+1995,Sri Lanka,Pakistan,1
+1995,Sri Lanka,Russian Federation,1
+1995,Sri Lanka,Rwanda,1
+1995,Sri Lanka,Sudan,1
+1995,Sri Lanka,Somalia,3
+1995,Sri Lanka,Uganda,1
+1995,"China, Macao SAR",Viet Nam,8
+1995,Morocco,Angola,1
+1995,Morocco,Armenia,1
+1995,Morocco,Bulgaria,1
+1995,Morocco,Bosnia and Herzegovina,2
+1995,Morocco,Brazil,1
+1995,Morocco,Algeria,3
+1995,Morocco,Ethiopia,1
+1995,Morocco,Iraq,7
+1995,Morocco,Liberia,15
+1995,Morocco,Libya,2
+1995,Morocco,Mauritania,1
+1995,Morocco,Martinique,1
+1995,Morocco,Poland,1
+1995,Morocco,Palestinian,1
+1995,Morocco,Russian Federation,1
+1995,Morocco,Rwanda,1
+1995,Morocco,Sudan,5
+1995,Morocco,Sierra Leone,2
+1995,Morocco,Somalia,6
+1995,Morocco,Syrian Arab Rep.,1
+1995,Morocco,Chad,1
+1995,Mexico,Colombia,88
+1995,Mexico,Guatemala,35583
+1995,Mexico,Honduras,104
+1995,Mexico,Nicaragua,185
+1995,Mexico,Peru,65
+1995,Mexico,El Salvador,2432
+1995,The former Yugoslav Republic of Macedonia,Bosnia and Herzegovina,9048
+1995,Mali,Burundi,13
+1995,Mali,Cameroon,14
+1995,Mali,Liberia,218
+1995,Mali,Mauritania,16997
+1995,Mali,Nigeria,42
+1995,Mali,Rwanda,22
+1995,Mali,Sierra Leone,531
+1995,Mali,Chad,17
+1995,Mali,Togo,24
+1995,Malta,Burundi,2
+1995,Malta,Algeria,22
+1995,Malta,Egypt,1
+1995,Malta,Iraq,157
+1995,Malta,Lebanon,1
+1995,Malta,Liberia,2
+1995,Malta,Sri Lanka,5
+1995,Malta,Palestinian,26
+1995,Malta,Sudan,52
+1995,Malta,Somalia,37
+1995,Malta,Serbia and Kosovo (S/RES/1244 (1999)),106
+1995,Malta,Syrian Arab Rep.,4
+1995,Malta,Tunisia,1
+1995,Mozambique,Angola,6
+1995,Mozambique,Burundi,42
+1995,Mozambique,Dem. Rep. of the Congo,21
+1995,Mozambique,Rwanda,32
+1995,Mozambique,Sudan,3
+1995,Mozambique,Somalia,24
+1995,Mauritania,Libya,5
+1995,Mauritania,Mali,34387
+1995,Mauritania,Rwanda,2
+1995,Malawi,Angola,11
+1995,Malawi,Burundi,90
+1995,Malawi,Dem. Rep. of the Congo,302
+1995,Malawi,Ethiopia,8
+1995,Malawi,Liberia,1
+1995,Malawi,Rwanda,258
+1995,Malawi,Sudan,1
+1995,Malawi,Somalia,332
+1995,Malawi,United Rep. of Tanzania,3
+1995,Malawi,Uganda,12
+1995,Malaysia,Afghanistan,24
+1995,Malaysia,Bosnia and Herzegovina,16
+1995,Malaysia,Dem. Rep. of the Congo,5
+1995,Malaysia,Indonesia,9
+1995,Malaysia,Iran (Islamic Rep. of),15
+1995,Malaysia,Iraq,19
+1995,Malaysia,Sri Lanka,4
+1995,Malaysia,Myanmar,5117
+1995,Malaysia,Somalia,61
+1995,Namibia,Angola,1580
+1995,Namibia,Burundi,36
+1995,Namibia,Dem. Rep. of the Congo,5
+1995,Namibia,Ethiopia,5
+1995,Namibia,Cambodia,1
+1995,Namibia,Rwanda,53
+1995,Namibia,Somalia,1
+1995,Namibia,Uganda,1
+1995,Niger,Burundi,7
+1995,Niger,China,2
+1995,Niger,Cameroon,6
+1995,Niger,Algeria,3
+1995,Niger,Liberia,10
+1995,Niger,Mali,25000
+1995,Niger,Rwanda,27
+1995,Niger,Sudan,10
+1995,Niger,Sierra Leone,2
+1995,Niger,Somalia,71
+1995,Niger,Chad,2433
+1995,Niger,Togo,51
+1995,Nigeria,Benin,23
+1995,Nigeria,Cameroon,1307
+1995,Nigeria,Dem. Rep. of the Congo,50
+1995,Nigeria,Ethiopia,40
+1995,Nigeria,Ghana,133
+1995,Nigeria,Liberia,4931
+1995,Nigeria,Sudan,53
+1995,Nigeria,Somalia,51
+1995,Nigeria,Chad,1418
+1995,Nicaragua,Cuba,18
+1995,Nicaragua,Guatemala,30
+1995,Nicaragua,Honduras,5
+1995,Nicaragua,El Salvador,524
+1995,Netherlands,Afghanistan,3644
+1995,Netherlands,Angola,818
+1995,Netherlands,Albania,67
+1995,Netherlands,Argentina,5
+1995,Netherlands,Armenia,84
+1995,Netherlands,Azerbaijan,24
+1995,Netherlands,Burundi,19
+1995,Netherlands,Burkina Faso,4
+1995,Netherlands,Bangladesh,43
+1995,Netherlands,Bulgaria,63
+1995,Netherlands,Bosnia and Herzegovina,18299
+1995,Netherlands,Belarus,3
+1995,Netherlands,Bolivia (Plurinational State of),5
+1995,Netherlands,Bhutan,2
+1995,Netherlands,Chile,166
+1995,Netherlands,China,805
+1995,Netherlands,Côte d'Ivoire,10
+1995,Netherlands,Cameroon,15
+1995,Netherlands,Dem. Rep. of the Congo,548
+1995,Netherlands,Colombia,13
+1995,Netherlands,Cuba,5
+1995,Netherlands,Czech Rep.,47
+1995,Netherlands,Djibouti,1
+1995,Netherlands,Algeria,39
+1995,Netherlands,Ecuador,2
+1995,Netherlands,Egypt,61
+1995,Netherlands,Eritrea,7
+1995,Netherlands,Estonia,1
+1995,Netherlands,Ethiopia,2645
+1995,Netherlands,Georgia,85
+1995,Netherlands,Ghana,113
+1995,Netherlands,Guinea,60
+1995,Netherlands,Gambia,6
+1995,Netherlands,Guinea-Bissau,3
+1995,Netherlands,Equatorial Guinea,5
+1995,Netherlands,French Guiana,5
+1995,Netherlands,Guyana,1
+1995,Netherlands,"China, Hong Kong SAR",1
+1995,Netherlands,Croatia,617
+1995,Netherlands,Haiti,3
+1995,Netherlands,Hungary,62
+1995,Netherlands,Indonesia,140
+1995,Netherlands,India,36
+1995,Netherlands,Iran (Islamic Rep. of),8131
+1995,Netherlands,Iraq,8658
+1995,Netherlands,Israel,13
+1995,Netherlands,Italy,1
+1995,Netherlands,Jordan,13
+1995,Netherlands,Kazakhstan,1
+1995,Netherlands,Kenya,2
+1995,Netherlands,Cambodia,95
+1995,Netherlands,Kuwait,5
+1995,Netherlands,Lao People's Dem. Rep.,3
+1995,Netherlands,Lebanon,294
+1995,Netherlands,Liberia,470
+1995,Netherlands,Libya,10
+1995,Netherlands,Sri Lanka,1716
+1995,Netherlands,Lithuania,4
+1995,Netherlands,Latvia,5
+1995,Netherlands,Morocco,35
+1995,Netherlands,Rep. of Moldova,4
+1995,Netherlands,The former Yugoslav Republic of Macedonia,6
+1995,Netherlands,Mali,4
+1995,Netherlands,Myanmar,12
+1995,Netherlands,Mozambique,1
+1995,Netherlands,Mauritania,41
+1995,Netherlands,Malawi,3
+1995,Netherlands,Malaysia,1
+1995,Netherlands,Niger,7
+1995,Netherlands,Nigeria,54
+1995,Netherlands,Nicaragua,5
+1995,Netherlands,Nepal,2
+1995,Netherlands,Pakistan,126
+1995,Netherlands,Panama,5
+1995,Netherlands,Peru,36
+1995,Netherlands,Philippines,6
+1995,Netherlands,Poland,197
+1995,Netherlands,Paraguay,4
+1995,Netherlands,Romania,312
+1995,Netherlands,Russian Federation,790
+1995,Netherlands,Rwanda,45
+1995,Netherlands,Sudan,422
+1995,Netherlands,Senegal,2
+1995,Netherlands,Singapore,1
+1995,Netherlands,Solomon Islands,34
+1995,Netherlands,Sierra Leone,90
+1995,Netherlands,El Salvador,11
+1995,Netherlands,Somalia,12154
+1995,Netherlands,Serbia and Kosovo (S/RES/1244 (1999)),5401
+1995,Netherlands,Suriname,798
+1995,Netherlands,Slovakia,8
+1995,Netherlands,Syrian Arab Rep.,1274
+1995,Netherlands,Chad,1
+1995,Netherlands,Togo,44
+1995,Netherlands,Thailand,2
+1995,Netherlands,Tajikistan,6
+1995,Netherlands,Turkmenistan,1
+1995,Netherlands,Tunisia,16
+1995,Netherlands,Turkey,1910
+1995,Netherlands,Tuvalu,3
+1995,Netherlands,United Rep. of Tanzania,11
+1995,Netherlands,Uganda,32
+1995,Netherlands,Ukraine,133
+1995,Netherlands,Uruguay,2
+1995,Netherlands,United States of America,2
+1995,Netherlands,Viet Nam,1729
+1995,Netherlands,Stateless,256
+1995,Netherlands,Yemen,6
+1995,Netherlands,South Africa,72
+1995,Netherlands,Zimbabwe,1
+1995,Nepal,Afghanistan,2
+1995,Nepal,Bhutan,104740
+1995,Nepal,Iraq,6
+1995,Nepal,Somalia,1
+1995,Nepal,Tibetan,20005
+1995,New Zealand,Afghanistan,4
+1995,New Zealand,Bangladesh,4
+1995,New Zealand,Bosnia and Herzegovina,135
+1995,New Zealand,China,4
+1995,New Zealand,Czech Rep.,28
+1995,New Zealand,Ethiopia,95
+1995,New Zealand,Ghana,4
+1995,New Zealand,Guatemala,4
+1995,New Zealand,India,12
+1995,New Zealand,Iran (Islamic Rep. of),89
+1995,New Zealand,Iraq,840
+1995,New Zealand,Cambodia,418
+1995,New Zealand,Kuwait,11
+1995,New Zealand,Lao People's Dem. Rep.,82
+1995,New Zealand,Sri Lanka,55
+1995,New Zealand,Myanmar,7
+1995,New Zealand,Nigeria,3
+1995,New Zealand,Poland,50
+1995,New Zealand,Russian Federation,5
+1995,New Zealand,Saudi Arabia,1
+1995,New Zealand,Sudan,8
+1995,New Zealand,El Salvador,22
+1995,New Zealand,Somalia,450
+1995,New Zealand,Syrian Arab Rep.,7
+1995,New Zealand,Tunisia,3
+1995,New Zealand,Viet Nam,993
+1995,Pakistan,Afghanistan,1200000
+1995,Pakistan,Iran (Islamic Rep. of),286
+1995,Pakistan,Iraq,1185
+1995,Pakistan,Somalia,972
+1995,Peru,Bulgaria,20
+1995,Peru,Bosnia and Herzegovina,17
+1995,Peru,Cuba,422
+1995,Peru,Iran (Islamic Rep. of),9
+1995,Peru,Lithuania,1
+1995,Peru,Palestinian,6
+1995,Peru,Russian Federation,79
+1995,Peru,Serbia and Kosovo (S/RES/1244 (1999)),30
+1995,Peru,Syrian Arab Rep.,3
+1995,Peru,Viet Nam,1
+1995,Philippines,Afghanistan,5
+1995,Philippines,Ethiopia,6
+1995,Philippines,Iran (Islamic Rep. of),93
+1995,Philippines,Iraq,44
+1995,Philippines,Kuwait,6
+1995,Philippines,Liberia,2
+1995,Philippines,Libya,1
+1995,Philippines,Sri Lanka,24
+1995,Philippines,Myanmar,5
+1995,Philippines,Nigeria,1
+1995,Philippines,Palestinian,54
+1995,Philippines,Rwanda,18
+1995,Philippines,Somalia,40
+1995,Philippines,Serbia and Kosovo (S/RES/1244 (1999)),2
+1995,Philippines,Viet Nam,481
+1995,Philippines,Stateless,1
+1995,Papua New Guinea,Indonesia,9600
+1995,Papua New Guinea,Pakistan,1
+1995,Paraguay,Angola,1
+1995,Paraguay,Bulgaria,4
+1995,Paraguay,Cuba,10
+1995,Paraguay,Russian Federation,12
+1995,Paraguay,Viet Nam,26
+1995,Romania,Afghanistan,10
+1995,Romania,Iran (Islamic Rep. of),52
+1995,Romania,Iraq,101
+1995,Romania,Somalia,29
+1995,Rwanda,Burundi,3228
+1995,Rwanda,Dem. Rep. of the Congo,4559
+1995,Saudi Arabia,Afghanistan,149
+1995,Saudi Arabia,Iraq,13020
+1995,Sudan,Eritrea,282795
+1995,Sudan,Ethiopia,48107
+1995,Sudan,Somalia,100
+1995,Sudan,Chad,4400
+1995,Senegal,Angola,5
+1995,Senegal,Burundi,55
+1995,Senegal,Burkina Faso,1
+1995,Senegal,Central African Rep.,3
+1995,Senegal,Côte d'Ivoire,12
+1995,Senegal,Cameroon,26
+1995,Senegal,Dem. Rep. of the Congo,29
+1995,Senegal,Congo,2
+1995,Senegal,Algeria,16
+1995,Senegal,Ethiopia,8
+1995,Senegal,Ghana,4
+1995,Senegal,Guinea,9
+1995,Senegal,Gambia,20
+1995,Senegal,Iraq,2
+1995,Senegal,Liberia,220
+1995,Senegal,Sri Lanka,10
+1995,Senegal,Mali,265
+1995,Senegal,Mauritania,65485
+1995,Senegal,Nigeria,10
+1995,Senegal,Rwanda,300
+1995,Senegal,Sudan,2
+1995,Senegal,Sierra Leone,200
+1995,Senegal,Somalia,11
+1995,Senegal,Chad,48
+1995,Senegal,Togo,23
+1995,Senegal,Tunisia,1
+1995,Senegal,United Rep. of Tanzania,2
+1995,Singapore,Iraq,1
+1995,Singapore,Sri Lanka,7
+1995,Singapore,Dem. People's Rep. of Korea,1
+1995,Singapore,Somalia,1
+1995,Singapore,Viet Nam,102
+1995,Solomon Islands,Papua New Guinea,2000
+1995,Sierra Leone,Liberia,4667
+1995,Sierra Leone,Sudan,3
+1995,Sierra Leone,Chad,3
+1995,Sierra Leone,Viet Nam,1
+1995,Sierra Leone,South Africa,1
+1995,El Salvador,Bosnia and Herzegovina,1
+1995,El Salvador,Gambia,1
+1995,El Salvador,Guatemala,3
+1995,El Salvador,Iran (Islamic Rep. of),1
+1995,El Salvador,Nicaragua,148
+1995,Somalia,Brunei Darussalam,3
+1995,Somalia,Ethiopia,623
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Afghanistan,11
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Albania,1
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Bosnia and Herzegovina,84747
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Dem. Rep. of the Congo,1
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Croatia,232749
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Iran (Islamic Rep. of),7
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Iraq,11
+1995,Serbia and Kosovo (S/RES/1244 (1999)),The former Yugoslav Republic of Macedonia,160
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Sudan,1
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Somalia,1
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Slovenia,12816
+1995,Serbia and Kosovo (S/RES/1244 (1999)),Syrian Arab Rep.,1
+1995,Slovakia,Afghanistan,119
+1995,Slovakia,Angola,11
+1995,Slovakia,Iraq,188
+1995,Slovakia,Russian Federation,32
+1995,Slovakia,Stateless,184
+1995,Slovenia,Bosnia and Herzegovina,18804
+1995,Sweden,Afghanistan,833
+1995,Sweden,Angola,110
+1995,Sweden,Albania,36
+1995,Sweden,Andorra,1
+1995,Sweden,Argentina,48
+1995,Sweden,Armenia,59
+1995,Sweden,Azerbaijan,25
+1995,Sweden,Burundi,7
+1995,Sweden,Benin,2
+1995,Sweden,Burkina Faso,6
+1995,Sweden,Bangladesh,823
+1995,Sweden,Bulgaria,1401
+1995,Sweden,Bahrain,15
+1995,Sweden,Bosnia and Herzegovina,49340
+1995,Sweden,Belarus,15
+1995,Sweden,Bolivia (Plurinational State of),40
+1995,Sweden,Brazil,7
+1995,Sweden,Barbados,1
+1995,Sweden,Bhutan,2
+1995,Sweden,Canada,4
+1995,Sweden,Chile,11061
+1995,Sweden,China,411
+1995,Sweden,Côte d'Ivoire,30
+1995,Sweden,Cameroon,2
+1995,Sweden,Dem. Rep. of the Congo,188
+1995,Sweden,Congo,7
+1995,Sweden,Colombia,711
+1995,Sweden,Costa Rica,5
+1995,Sweden,Cuba,412
+1995,Sweden,Czech Rep.,641
+1995,Sweden,Germany,8
+1995,Sweden,Djibouti,1
+1995,Sweden,Dominican Rep.,3
+1995,Sweden,Algeria,96
+1995,Sweden,Ecuador,48
+1995,Sweden,Egypt,179
+1995,Sweden,Eritrea,56
+1995,Sweden,Estonia,120
+1995,Sweden,Ethiopia,8206
+1995,Sweden,Gabon,17
+1995,Sweden,United Kingdom,2
+1995,Sweden,Georgia,31
+1995,Sweden,Ghana,57
+1995,Sweden,Guinea,7
+1995,Sweden,Gambia,14
+1995,Sweden,Greece,1
+1995,Sweden,Guatemala,76
+1995,Sweden,"China, Hong Kong SAR",2
+1995,Sweden,Honduras,12
+1995,Sweden,Croatia,927
+1995,Sweden,Haiti,5
+1995,Sweden,Hungary,1370
+1995,Sweden,India,97
+1995,Sweden,Iran (Islamic Rep. of),30471
+1995,Sweden,Iraq,19492
+1995,Sweden,Israel,31
+1995,Sweden,Italy,6
+1995,Sweden,Jordan,131
+1995,Sweden,Kazakhstan,1
+1995,Sweden,Kenya,59
+1995,Sweden,Cambodia,10
+1995,Sweden,Rep. of Korea,5
+1995,Sweden,Kuwait,47
+1995,Sweden,Lao People's Dem. Rep.,193
+1995,Sweden,Lebanon,6125
+1995,Sweden,Liberia,36
+1995,Sweden,Libya,26
+1995,Sweden,Sri Lanka,518
+1995,Sweden,Lithuania,14
+1995,Sweden,Latvia,15
+1995,Sweden,Morocco,61
+1995,Sweden,Rep. of Moldova,5
+1995,Sweden,Madagascar,1
+1995,Sweden,The former Yugoslav Republic of Macedonia,225
+1995,Sweden,Mali,7
+1995,Sweden,Myanmar,40
+1995,Sweden,Mongolia,1
+1995,Sweden,Mauritania,5
+1995,Sweden,Malawi,5
+1995,Sweden,Malaysia,3
+1995,Sweden,Niger,2
+1995,Sweden,Nigeria,26
+1995,Sweden,Nicaragua,19
+1995,Sweden,Pakistan,76
+1995,Sweden,Panama,32
+1995,Sweden,Peru,1156
+1995,Sweden,Philippines,12
+1995,Sweden,Poland,1753
+1995,Sweden,Paraguay,5
+1995,Sweden,Romania,4040
+1995,Sweden,Russian Federation,1800
+1995,Sweden,Rwanda,45
+1995,Sweden,Saudi Arabia,5
+1995,Sweden,Sudan,130
+1995,Sweden,Senegal,6
+1995,Sweden,Sierra Leone,2
+1995,Sweden,El Salvador,1888
+1995,Sweden,Somalia,7288
+1995,Sweden,Serbia and Kosovo (S/RES/1244 (1999)),22188
+1995,Sweden,Sao Tome and Principe,1
+1995,Sweden,Slovenia,19
+1995,Sweden,Syrian Arab Rep.,3364
+1995,Sweden,Chad,14
+1995,Sweden,Togo,37
+1995,Sweden,Thailand,46
+1995,Sweden,Tajikistan,17
+1995,Sweden,Turkmenistan,45
+1995,Sweden,Trinidad and Tobago,1
+1995,Sweden,Tunisia,121
+1995,Sweden,Turkey,3605
+1995,Sweden,United Rep. of Tanzania,15
+1995,Sweden,Uganda,745
+1995,Sweden,Ukraine,135
+1995,Sweden,Uruguay,17
+1995,Sweden,United States of America,10
+1995,Sweden,Uzbekistan,28
+1995,Sweden,Venezuela (Bolivarian Republic of),7
+1995,Sweden,Viet Nam,4325
+1995,Sweden,Stateless,5467
+1995,Sweden,Yemen,22
+1995,Sweden,South Africa,26
+1995,Swaziland,Angola,125
+1995,Swaziland,Burundi,103
+1995,Swaziland,Dem. Rep. of the Congo,158
+1995,Swaziland,Ethiopia,54
+1995,Swaziland,Sri Lanka,7
+1995,Swaziland,Mozambique,53
+1995,Swaziland,Rwanda,40
+1995,Swaziland,Somalia,116
+1995,Swaziland,Uganda,46
+1995,Syrian Arab Rep.,Bosnia and Herzegovina,431
+1995,Syrian Arab Rep.,Algeria,5
+1995,Syrian Arab Rep.,Eritrea,306
+1995,Syrian Arab Rep.,Iran (Islamic Rep. of),15
+1995,Syrian Arab Rep.,Iraq,33912
+1995,Syrian Arab Rep.,Sudan,5
+1995,Syrian Arab Rep.,Somalia,1199
+1995,Syrian Arab Rep.,Yemen,15
+1995,Togo,Burundi,16
+1995,Togo,Cameroon,4
+1995,Togo,Ghana,10722
+1995,Togo,Liberia,2
+1995,Togo,Rwanda,124
+1995,Togo,Chad,3
+1995,Thailand,Afghanistan,21
+1995,Thailand,China,61
+1995,Thailand,Iran (Islamic Rep. of),2
+1995,Thailand,Cambodia,3
+1995,Thailand,Lao People's Dem. Rep.,6290
+1995,Thailand,Sri Lanka,184
+1995,Thailand,Myanmar,94910
+1995,Thailand,Somalia,53
+1995,Thailand,Viet Nam,5014
+1995,Tajikistan,Afghanistan,620
+1995,Turkmenistan,Afghanistan,3000
+1995,Turkmenistan,Azerbaijan,300
+1995,Turkmenistan,Iran (Islamic Rep. of),14
+1995,Turkmenistan,Russian Federation,5
+1995,Turkmenistan,Tajikistan,20000
+1995,Tunisia,Burundi,13
+1995,Tunisia,Bulgaria,1
+1995,Tunisia,Bosnia and Herzegovina,21
+1995,Tunisia,Dem. Rep. of the Congo,3
+1995,Tunisia,Czech Rep.,7
+1995,Tunisia,Algeria,16
+1995,Tunisia,Spain,7
+1995,Tunisia,Iran (Islamic Rep. of),12
+1995,Tunisia,Iraq,28
+1995,Tunisia,Liberia,1
+1995,Tunisia,Mauritania,1
+1995,Tunisia,Niger,1
+1995,Tunisia,Nigeria,4
+1995,Tunisia,Palestinian,42
+1995,Tunisia,Russian Federation,2
+1995,Tunisia,Somalia,34
+1995,Tunisia,Serbia and Kosovo (S/RES/1244 (1999)),1
+1995,Tunisia,Syrian Arab Rep.,5
+1995,Turkey,Afghanistan,1550
+1995,Turkey,Bulgaria,67
+1995,Turkey,Bosnia and Herzegovina,5614
+1995,Turkey,Greece,92
+1995,Turkey,Iran (Islamic Rep. of),1942
+1995,Turkey,Iraq,3274
+1995,Turkey,Palestinian,28
+1995,Turkey,Serbia and Kosovo (S/RES/1244 (1999)),40
+1995,Turkey,Syrian Arab Rep.,43
+1995,United Rep. of Tanzania,Burundi,227216
+1995,United Rep. of Tanzania,Dem. Rep. of the Congo,16022
+1995,United Rep. of Tanzania,Mozambique,34702
+1995,United Rep. of Tanzania,Rwanda,547976
+1995,United Rep. of Tanzania,Somalia,3623
+1995,United Rep. of Tanzania,South Africa,132
+1995,Uganda,Burundi,2
+1995,Uganda,Dem. Rep. of the Congo,12313
+1995,Uganda,Ethiopia,22
+1995,Uganda,Kenya,44
+1995,Uganda,Liberia,10
+1995,Uganda,Rwanda,6450
+1995,Uganda,Sudan,209860
+1995,Uganda,Somalia,649
+1995,Uruguay,Azerbaijan,1
+1995,Uruguay,Belarus,2
+1995,Uruguay,Colombia,15
+1995,Uruguay,Georgia,4
+1995,Uruguay,Kyrgyzstan,1
+1995,Uruguay,Lithuania,1
+1995,Uruguay,Latvia,2
+1995,Uruguay,Rep. of Moldova,2
+1995,Uruguay,Peru,25
+1995,Uruguay,Paraguay,1
+1995,Uruguay,Russian Federation,61
+1995,Uruguay,El Salvador,2
+1995,Uruguay,Ukraine,15
+1995,United States of America,Afghanistan,4992
+1995,United States of America,Angola,33
+1995,United States of America,Albania,3437
+1995,United States of America,Armenia,527
+1995,United States of America,Azerbaijan,81
+1995,United States of America,Burundi,146
+1995,United States of America,Bangladesh,493
+1995,United States of America,Bulgaria,1011
+1995,United States of America,Bosnia and Herzegovina,19413
+1995,United States of America,Belarus,19
+1995,United States of America,Bolivia (Plurinational State of),14
+1995,United States of America,Brazil,21
+1995,United States of America,Central African Rep.,1
+1995,United States of America,Chile,1
+1995,United States of America,China,2120
+1995,United States of America,Côte d'Ivoire,77
+1995,United States of America,Cameroon,304
+1995,United States of America,Dem. Rep. of the Congo,791
+1995,United States of America,Colombia,250
+1995,United States of America,Costa Rica,1
+1995,United States of America,Cuba,21519
+1995,United States of America,Czech Rep.,188
+1995,United States of America,Germany,2
+1995,United States of America,Dominican Rep.,1
+1995,United States of America,Algeria,101
+1995,United States of America,Ecuador,12
+1995,United States of America,Egypt,301
+1995,United States of America,Eritrea,5
+1995,United States of America,Estonia,15
+1995,United States of America,Ethiopia,13305
+1995,United States of America,Fiji,194
+1995,United States of America,France,1
+1995,United States of America,United Kingdom,10
+1995,United States of America,Georgia,84
+1995,United States of America,Ghana,203
+1995,United States of America,Guinea,45
+1995,United States of America,Gambia,72
+1995,United States of America,Guinea-Bissau,1
+1995,United States of America,Guatemala,1928
+1995,United States of America,Guyana,1
+1995,United States of America,Honduras,360
+1995,United States of America,Croatia,133
+1995,United States of America,Haiti,9279
+1995,United States of America,Hungary,53
+1995,United States of America,Indonesia,6
+1995,United States of America,India,2328
+1995,United States of America,Iran (Islamic Rep. of),9936
+1995,United States of America,Iraq,17985
+1995,United States of America,Israel,66
+1995,United States of America,Jamaica,4
+1995,United States of America,Jordan,165
+1995,United States of America,Kazakhstan,17
+1995,United States of America,Kenya,41
+1995,United States of America,Kyrgyzstan,6
+1995,United States of America,Cambodia,55
+1995,United States of America,Rep. of Korea,1
+1995,United States of America,Kuwait,69
+1995,United States of America,Lao People's Dem. Rep.,33786
+1995,United States of America,Lebanon,423
+1995,United States of America,Liberia,3768
+1995,United States of America,Libya,374
+1995,United States of America,Sri Lanka,229
+1995,United States of America,Lithuania,13
+1995,United States of America,Latvia,19
+1995,United States of America,Morocco,1
+1995,United States of America,Rep. of Moldova,15
+1995,United States of America,Mexico,105
+1995,United States of America,The former Yugoslav Republic of Macedonia,13
+1995,United States of America,Mali,23
+1995,United States of America,Myanmar,642
+1995,United States of America,Mozambique,21
+1995,United States of America,Mauritania,296
+1995,United States of America,Malawi,1
+1995,United States of America,Niger,79
+1995,United States of America,Nigeria,184
+1995,United States of America,Nicaragua,2577
+1995,United States of America,Netherlands,4
+1995,United States of America,Nepal,17
+1995,United States of America,Oman,1
+1995,United States of America,Pakistan,1074
+1995,United States of America,Panama,14
+1995,United States of America,Peru,1684
+1995,United States of America,Philippines,224
+1995,United States of America,Poland,572
+1995,United States of America,Portugal,2
+1995,United States of America,Romania,7171
+1995,United States of America,Russian Federation,194956
+1995,United States of America,Rwanda,285
+1995,United States of America,Saudi Arabia,3
+1995,United States of America,Sudan,4223
+1995,United States of America,Senegal,31
+1995,United States of America,Sierra Leone,218
+1995,United States of America,El Salvador,871
+1995,United States of America,Somalia,11414
+1995,United States of America,Serbia and Kosovo (S/RES/1244 (1999)),1445
+1995,United States of America,Suriname,5
+1995,United States of America,Slovakia,9
+1995,United States of America,Slovenia,2
+1995,United States of America,Syrian Arab Rep.,2394
+1995,United States of America,Togo,93
+1995,United States of America,Tajikistan,11
+1995,United States of America,Turkmenistan,1
+1995,United States of America,Trinidad and Tobago,1
+1995,United States of America,Tunisia,1
+1995,United States of America,Turkey,45
+1995,United States of America,United Rep. of Tanzania,1
+1995,United States of America,Uganda,313
+1995,United States of America,Ukraine,520
+1995,United States of America,Uzbekistan,64
+1995,United States of America,Viet Nam,201816
+1995,United States of America,Stateless,11
+1995,United States of America,Yemen,58
+1995,United States of America,South Africa,43
+1995,United States of America,Zambia,3
+1995,Uzbekistan,Afghanistan,2597
+1995,Uzbekistan,Armenia,2
+1995,Uzbekistan,India,2
+1995,Uzbekistan,Pakistan,4
+1995,Uzbekistan,Dem. People's Rep. of Korea,2
+1995,Uzbekistan,Palestinian,1
+1995,Uzbekistan,Russian Federation,16
+1995,Uzbekistan,Tajikistan,3
+1995,Venezuela (Bolivarian Republic of),Bosnia and Herzegovina,10
+1995,Venezuela (Bolivarian Republic of),Chile,1065
+1995,Venezuela (Bolivarian Republic of),Colombia,14
+1995,Venezuela (Bolivarian Republic of),Cuba,245
+1995,Venezuela (Bolivarian Republic of),Haiti,134
+1995,Venezuela (Bolivarian Republic of),Hungary,8
+1995,Venezuela (Bolivarian Republic of),Iran (Islamic Rep. of),2
+1995,Venezuela (Bolivarian Republic of),Lithuania,5
+1995,Venezuela (Bolivarian Republic of),Nicaragua,54
+1995,Venezuela (Bolivarian Republic of),Panama,4
+1995,Venezuela (Bolivarian Republic of),Peru,21
+1995,Venezuela (Bolivarian Republic of),Poland,21
+1995,Venezuela (Bolivarian Republic of),Serbia and Kosovo (S/RES/1244 (1999)),5
+1995,Viet Nam,Cambodia,34400
+1995,Yemen,Eritrea,2500
+1995,Yemen,Ethiopia,687
+1995,Yemen,Iraq,20
+1995,Yemen,Palestinian,700
+1995,Yemen,Somalia,49516
+1995,South Africa,Angola,3049
+1995,South Africa,Bangladesh,100
+1995,South Africa,China,53
+1995,South Africa,Dem. Rep. of the Congo,2579
+1995,South Africa,Ethiopia,128
+1995,South Africa,Mozambique,89299
+1995,South Africa,Nigeria,944
+1995,South Africa,Pakistan,324
+1995,South Africa,Rwanda,206
+1995,South Africa,Somalia,857
+1995,Zambia,Angola,109545
+1995,Zambia,Burundi,260
+1995,Zambia,Dem. Rep. of the Congo,13320
+1995,Zambia,Mozambique,941
+1995,Zambia,Rwanda,1724
+1995,Zambia,Somalia,675
+1995,Zimbabwe,Angola,57
+1995,Zimbabwe,Burundi,27
+1995,Zimbabwe,Cameroon,1
+1995,Zimbabwe,Dem. Rep. of the Congo,47
+1995,Zimbabwe,Cuba,4
+1995,Zimbabwe,Ethiopia,37
+1995,Zimbabwe,Kenya,2
+1995,Zimbabwe,Liberia,39
+1995,Zimbabwe,Mali,7
+1995,Zimbabwe,Nigeria,2
+1995,Zimbabwe,Rwanda,138
+1995,Zimbabwe,Sudan,34
+1995,Zimbabwe,Sierra Leone,3
+1995,Zimbabwe,Somalia,78
+1995,Zimbabwe,Serbia and Kosovo (S/RES/1244 (1999)),13
+1995,Zimbabwe,Togo,4
+1995,Zimbabwe,Uganda,9
+1995,Zimbabwe,South Africa,3
+2017,Afghanistan,Iran (Islamic Rep. of),34
+2017,Afghanistan,Pakistan,75893
+2017,Angola,Burundi,9
+2017,Angola,Central African Rep.,9
+2017,Angola,Côte d'Ivoire,510
+2017,Angola,Dem. Rep. of the Congo,38516
+2017,Angola,Eritrea,34
+2017,Angola,Western Sahara,18
+2017,Angola,Guinea,107
+2017,Angola,Liberia,155
+2017,Angola,Mauritania,306
+2017,Angola,Rwanda,273
+2017,Angola,Sudan,313
+2017,Angola,Sierra Leone,374
+2017,Angola,Somalia,288
+2017,Angola,Chad,184
+2017,Angola,Uganda,6
+2017,Angola,Zambia,7
+2017,Albania,China,12
+2017,Albania,Iran (Islamic Rep. of),12
+2017,Albania,Serbia and Kosovo (S/RES/1244 (1999)),60
+2017,Albania,Turkey,5
+2017,United Arab Emirates,Afghanistan,5
+2017,United Arab Emirates,Ethiopia,8
+2017,United Arab Emirates,Iraq,697
+2017,United Arab Emirates,Lebanon,6
+2017,United Arab Emirates,Palestinian,5
+2017,United Arab Emirates,Sudan,8
+2017,United Arab Emirates,Somalia,17
+2017,United Arab Emirates,Syrian Arab Rep.,128
+2017,Argentina,Afghanistan,5
+2017,Argentina,Angola,14
+2017,Argentina,Albania,18
+2017,Argentina,Armenia,78
+2017,Argentina,Bangladesh,5
+2017,Argentina,Bosnia and Herzegovina,6
+2017,Argentina,Chile,33
+2017,Argentina,Côte d'Ivoire,20
+2017,Argentina,Cameroon,6
+2017,Argentina,Dem. Rep. of the Congo,22
+2017,Argentina,Colombia,544
+2017,Argentina,Costa Rica,5
+2017,Argentina,Cuba,255
+2017,Argentina,Algeria,30
+2017,Argentina,Ecuador,17
+2017,Argentina,Ghana,38
+2017,Argentina,Guinea,9
+2017,Argentina,Guinea-Bissau,8
+2017,Argentina,Haiti,66
+2017,Argentina,India,22
+2017,Argentina,Iran (Islamic Rep. of),23
+2017,Argentina,Iraq,22
+2017,Argentina,Kazakhstan,18
+2017,Argentina,Liberia,44
+2017,Argentina,Sri Lanka,37
+2017,Argentina,The former Yugoslav Republic of Macedonia,9
+2017,Argentina,Mali,9
+2017,Argentina,Nigeria,42
+2017,Argentina,Pakistan,32
+2017,Argentina,Peru,547
+2017,Argentina,Paraguay,8
+2017,Argentina,Palestinian,10
+2017,Argentina,Romania,51
+2017,Argentina,Russian Federation,65
+2017,Argentina,Senegal,42
+2017,Argentina,Sierra Leone,37
+2017,Argentina,El Salvador,22
+2017,Argentina,Somalia,5
+2017,Argentina,Syrian Arab Rep.,370
+2017,Argentina,Turkey,11
+2017,Argentina,Ukraine,94
+2017,Argentina,Stateless,6
+2017,Argentina,Yemen,15
+2017,Armenia,Azerbaijan,2034
+2017,Armenia,Côte d'Ivoire,6
+2017,Armenia,Georgia,8
+2017,Armenia,Iran (Islamic Rep. of),31
+2017,Armenia,Iraq,1061
+2017,Armenia,Lebanon,19
+2017,Armenia,Palestinian,6
+2017,Armenia,Syrian Arab Rep.,14680
+2017,Armenia,Ukraine,113
+2017,Armenia,Yemen,5
+2017,Australia,Afghanistan,10922
+2017,Australia,Albania,59
+2017,Australia,United Arab Emirates,7
+2017,Australia,Azerbaijan,9
+2017,Australia,Burundi,50
+2017,Australia,Bangladesh,434
+2017,Australia,Bahrain,97
+2017,Australia,Belarus,7
+2017,Australia,China,2543
+2017,Australia,Côte d'Ivoire,5
+2017,Australia,Cameroon,42
+2017,Australia,Dem. Rep. of the Congo,48
+2017,Australia,Congo,13
+2017,Australia,Colombia,116
+2017,Australia,Germany,5
+2017,Australia,Algeria,10
+2017,Australia,Egypt,1560
+2017,Australia,Eritrea,138
+2017,Australia,Ethiopia,282
+2017,Australia,Fiji,406
+2017,Australia,United Kingdom,5
+2017,Australia,Georgia,16
+2017,Australia,Ghana,32
+2017,Australia,Guinea,12
+2017,Australia,Gambia,8
+2017,Australia,Greece,6
+2017,Australia,Indonesia,205
+2017,Australia,India,388
+2017,Australia,Iran (Islamic Rep. of),8077
+2017,Australia,Iraq,4042
+2017,Australia,Israel,15
+2017,Australia,Italy,5
+2017,Australia,Jordan,149
+2017,Australia,Japan,10
+2017,Australia,Kazakhstan,7
+2017,Australia,Kenya,117
+2017,Australia,Kyrgyzstan,14
+2017,Australia,Cambodia,31
+2017,Australia,Rep. of Korea,45
+2017,Australia,Kuwait,54
+2017,Australia,Lebanon,548
+2017,Australia,Liberia,37
+2017,Australia,Libya,992
+2017,Australia,Sri Lanka,4489
+2017,Australia,Morocco,12
+2017,Australia,Maldives,10
+2017,Australia,Mexico,10
+2017,Australia,Myanmar,516
+2017,Australia,Mongolia,27
+2017,Australia,Mauritius,7
+2017,Australia,Malaysia,240
+2017,Australia,Nigeria,187
+2017,Australia,Nepal,182
+2017,Australia,New Zealand,26
+2017,Australia,Pakistan,4496
+2017,Australia,Peru,9
+2017,Australia,Philippines,51
+2017,Australia,Papua New Guinea,396
+2017,Australia,Dem. People's Rep. of Korea,19
+2017,Australia,Palestinian,378
+2017,Australia,Romania,9
+2017,Australia,Russian Federation,55
+2017,Australia,Rwanda,64
+2017,Australia,Saudi Arabia,94
+2017,Australia,Sudan,239
+2017,Australia,Singapore,6
+2017,Australia,Solomon Islands,21
+2017,Australia,Sierra Leone,29
+2017,Australia,El Salvador,10
+2017,Australia,Somalia,139
+2017,Australia,South Sudan,7
+2017,Australia,Syrian Arab Rep.,477
+2017,Australia,Thailand,15
+2017,Australia,Tibetan,17
+2017,Australia,Timor-Leste,8
+2017,Australia,Tonga,34
+2017,Australia,Tunisia,5
+2017,Australia,Turkey,476
+2017,Australia,United Rep. of Tanzania,14
+2017,Australia,Uganda,65
+2017,Australia,Ukraine,18
+2017,Australia,United States of America,20
+2017,Australia,Uzbekistan,29
+2017,Australia,Venezuela (Bolivarian Republic of),26
+2017,Australia,Viet Nam,200
+2017,Australia,Stateless,2609
+2017,Australia,Yemen,27
+2017,Australia,South Africa,36
+2017,Australia,Zambia,10
+2017,Australia,Zimbabwe,986
+2017,Austria,Afghanistan,26939
+2017,Austria,Angola,82
+2017,Austria,Albania,88
+2017,Austria,Armenia,692
+2017,Austria,Azerbaijan,323
+2017,Austria,Burundi,16
+2017,Austria,Burkina Faso,9
+2017,Austria,Bangladesh,276
+2017,Austria,Bosnia and Herzegovina,117
+2017,Austria,Belarus,82
+2017,Austria,Bolivia (Plurinational State of),11
+2017,Austria,China,559
+2017,Austria,Côte d'Ivoire,70
+2017,Austria,Cameroon,233
+2017,Austria,Dem. Rep. of the Congo,406
+2017,Austria,Congo,131
+2017,Austria,Cuba,14
+2017,Austria,Algeria,43
+2017,Austria,Egypt,185
+2017,Austria,Eritrea,303
+2017,Austria,Ethiopia,188
+2017,Austria,Georgia,555
+2017,Austria,Ghana,31
+2017,Austria,Guinea,142
+2017,Austria,Gambia,134
+2017,Austria,Guatemala,9
+2017,Austria,India,63
+2017,Austria,Iran (Islamic Rep. of),4565
+2017,Austria,Iraq,7414
+2017,Austria,Israel,11
+2017,Austria,Jordan,62
+2017,Austria,Kazakhstan,100
+2017,Austria,Kenya,30
+2017,Austria,Kyrgyzstan,244
+2017,Austria,Lebanon,68
+2017,Austria,Liberia,18
+2017,Austria,Libya,80
+2017,Austria,Sri Lanka,67
+2017,Austria,Morocco,30
+2017,Austria,Rep. of Moldova,66
+2017,Austria,The former Yugoslav Republic of Macedonia,75
+2017,Austria,Mali,11
+2017,Austria,Myanmar,36
+2017,Austria,Montenegro,12
+2017,Austria,Mongolia,177
+2017,Austria,Nigeria,407
+2017,Austria,Nepal,39
+2017,Austria,Pakistan,270
+2017,Austria,Philippines,10
+2017,Austria,Romania,9
+2017,Austria,Russian Federation,11301
+2017,Austria,Rwanda,19
+2017,Austria,Sudan,298
+2017,Austria,Senegal,13
+2017,Austria,Sierra Leone,26
+2017,Austria,Somalia,5671
+2017,Austria,Serbia and Kosovo (S/RES/1244 (1999)),1216
+2017,Austria,South Sudan,5
+2017,Austria,Syrian Arab Rep.,43888
+2017,Austria,Togo,12
+2017,Austria,Tajikistan,166
+2017,Austria,Turkmenistan,7
+2017,Austria,Tunisia,7
+2017,Austria,Turkey,802
+2017,Austria,Uganda,23
+2017,Austria,Ukraine,292
+2017,Austria,Uzbekistan,113
+2017,Austria,Viet Nam,17
+2017,Austria,Stateless,2326
+2017,Austria,Yemen,163
+2017,Austria,Zimbabwe,22
+2017,Azerbaijan,Afghanistan,587
+2017,Azerbaijan,Iran (Islamic Rep. of),56
+2017,Azerbaijan,Iraq,8
+2017,Azerbaijan,Pakistan,16
+2017,Azerbaijan,Russian Federation,419
+2017,Azerbaijan,Syrian Arab Rep.,15
+2017,Azerbaijan,Ukraine,6
+2017,Azerbaijan,Yemen,8
+2017,Burundi,Dem. Rep. of the Congo,61867
+2017,Burundi,Mali,13
+2017,Burundi,Rwanda,422
+2017,Burundi,Somalia,23
+2017,Burundi,Turkey,21
+2017,Burundi,Uganda,7
+2017,Belgium,Afghanistan,3201
+2017,Belgium,Angola,91
+2017,Belgium,Albania,534
+2017,Belgium,Armenia,127
+2017,Belgium,Azerbaijan,75
+2017,Belgium,Burundi,454
+2017,Belgium,Benin,30
+2017,Belgium,Burkina Faso,76
+2017,Belgium,Bangladesh,18
+2017,Belgium,Bulgaria,14
+2017,Belgium,Bosnia and Herzegovina,50
+2017,Belgium,Belarus,41
+2017,Belgium,Central African Rep.,41
+2017,Belgium,Chile,48
+2017,Belgium,China,1197
+2017,Belgium,Côte d'Ivoire,153
+2017,Belgium,Cameroon,404
+2017,Belgium,Dem. Rep. of the Congo,1015
+2017,Belgium,Congo,31
+2017,Belgium,Colombia,33
+2017,Belgium,Cuba,8
+2017,Belgium,Czech Rep.,6
+2017,Belgium,Djibouti,267
+2017,Belgium,Algeria,46
+2017,Belgium,Egypt,50
+2017,Belgium,Eritrea,1000
+2017,Belgium,Ethiopia,121
+2017,Belgium,Gabon,16
+2017,Belgium,Georgia,49
+2017,Belgium,Ghana,36
+2017,Belgium,Guinea,2690
+2017,Belgium,Gambia,15
+2017,Belgium,Guinea-Bissau,11
+2017,Belgium,Guatemala,6
+2017,Belgium,Croatia,5
+2017,Belgium,Hungary,49
+2017,Belgium,India,20
+2017,Belgium,Iran (Islamic Rep. of),960
+2017,Belgium,Iraq,4000
+2017,Belgium,Israel,13
+2017,Belgium,Jordan,24
+2017,Belgium,Kazakhstan,38
+2017,Belgium,Kenya,22
+2017,Belgium,Kyrgyzstan,64
+2017,Belgium,Cambodia,8
+2017,Belgium,Kuwait,7
+2017,Belgium,Lao People's Dem. Rep.,13
+2017,Belgium,Lebanon,99
+2017,Belgium,Liberia,15
+2017,Belgium,Libya,60
+2017,Belgium,Sri Lanka,394
+2017,Belgium,Lithuania,7
+2017,Belgium,Morocco,70
+2017,Belgium,The former Yugoslav Republic of Macedonia,113
+2017,Belgium,Mali,61
+2017,Belgium,Myanmar,9
+2017,Belgium,Mauritania,206
+2017,Belgium,Niger,91
+2017,Belgium,Nigeria,43
+2017,Belgium,Nepal,13
+2017,Belgium,Pakistan,222
+2017,Belgium,Poland,154
+2017,Belgium,Dem. People's Rep. of Korea,36
+2017,Belgium,Palestinian,117
+2017,Belgium,Romania,38
+2017,Belgium,Russian Federation,2558
+2017,Belgium,Rwanda,803
+2017,Belgium,Sudan,174
+2017,Belgium,Senegal,435
+2017,Belgium,Sierra Leone,26
+2017,Belgium,El Salvador,7
+2017,Belgium,Somalia,1280
+2017,Belgium,Serbia and Kosovo (S/RES/1244 (1999)),155
+2017,Belgium,Syrian Arab Rep.,9080
+2017,Belgium,Chad,34
+2017,Belgium,Togo,176
+2017,Belgium,Tajikistan,10
+2017,Belgium,Tunisia,37
+2017,Belgium,Turkey,587
+2017,Belgium,United Rep. of Tanzania,50
+2017,Belgium,Uganda,20
+2017,Belgium,Ukraine,166
+2017,Belgium,Uzbekistan,32
+2017,Belgium,Venezuela (Bolivarian Republic of),6
+2017,Belgium,Viet Nam,40
+2017,Belgium,Yemen,24
+2017,Benin,Burundi,5
+2017,Benin,Central African Rep.,848
+2017,Benin,Côte d'Ivoire,162
+2017,Benin,Dem. Rep. of the Congo,7
+2017,Benin,Sri Lanka,7
+2017,Benin,Mali,5
+2017,Benin,Pakistan,5
+2017,Benin,Syrian Arab Rep.,7
+2017,Benin,Turkey,5
+2017,Burkina Faso,Burundi,30
+2017,Burkina Faso,Central African Rep.,167
+2017,Burkina Faso,Cameroon,6
+2017,Burkina Faso,Dem. Rep. of the Congo,33
+2017,Burkina Faso,Congo,26
+2017,Burkina Faso,Mali,23766
+2017,Burkina Faso,Rwanda,23
+2017,Burkina Faso,Chad,82
+2017,Burkina Faso,Togo,14
+2017,Bangladesh,Myanmar,932204
+2017,Bangladesh,Somalia,5
+2017,Bulgaria,Afghanistan,169
+2017,Bulgaria,Armenia,15
+2017,Bulgaria,Bangladesh,8
+2017,Bulgaria,Congo,8
+2017,Bulgaria,Egypt,8
+2017,Bulgaria,Ethiopia,13
+2017,Bulgaria,Iran (Islamic Rep. of),60
+2017,Bulgaria,Iraq,1221
+2017,Bulgaria,Jordan,7
+2017,Bulgaria,Lebanon,23
+2017,Bulgaria,Pakistan,12
+2017,Bulgaria,Sudan,16
+2017,Bulgaria,Somalia,50
+2017,Bulgaria,Syrian Arab Rep.,16549
+2017,Bulgaria,Turkey,12
+2017,Bulgaria,Stateless,959
+2017,Bulgaria,Yemen,11
+2017,Bahrain,Iraq,246
+2017,Bahrain,Yemen,9
+2017,Bahamas,Cuba,8
+2017,Bosnia and Herzegovina,Croatia,5120
+2017,Bosnia and Herzegovina,Serbia and Kosovo (S/RES/1244 (1999)),69
+2017,Bosnia and Herzegovina,Syrian Arab Rep.,15
+2017,Bosnia and Herzegovina,Turkey,5
+2017,Belarus,Afghanistan,209
+2017,Belarus,Azerbaijan,5
+2017,Belarus,Egypt,5
+2017,Belarus,Ethiopia,5
+2017,Belarus,Georgia,59
+2017,Belarus,Iran (Islamic Rep. of),5
+2017,Belarus,Iraq,13
+2017,Belarus,Libya,9
+2017,Belarus,Syrian Arab Rep.,87
+2017,Belarus,Tajikistan,12
+2017,Belarus,Ukraine,1694
+2017,Belarus,Yemen,42
+2017,Bolivia (Plurinational State of),Chile,8
+2017,Bolivia (Plurinational State of),Colombia,195
+2017,Bolivia (Plurinational State of),Cuba,9
+2017,Bolivia (Plurinational State of),Iraq,16
+2017,Bolivia (Plurinational State of),Peru,515
+2017,Bolivia (Plurinational State of),Russian Federation,5
+2017,Bolivia (Plurinational State of),Syrian Arab Rep.,13
+2017,Brazil,Afghanistan,99
+2017,Brazil,Angola,1112
+2017,Brazil,Argentina,11
+2017,Brazil,Burundi,39
+2017,Brazil,Bangladesh,10
+2017,Brazil,Bolivia (Plurinational State of),153
+2017,Brazil,Bhutan,30
+2017,Brazil,Central African Rep.,5
+2017,Brazil,Chile,21
+2017,Brazil,Côte d'Ivoire,48
+2017,Brazil,Cameroon,56
+2017,Brazil,Dem. Rep. of the Congo,1368
+2017,Brazil,Congo,20
+2017,Brazil,Colombia,1291
+2017,Brazil,Cuba,153
+2017,Brazil,Dominican Rep.,5
+2017,Brazil,Algeria,7
+2017,Brazil,Ecuador,57
+2017,Brazil,Egypt,32
+2017,Brazil,Eritrea,25
+2017,Brazil,Ethiopia,26
+2017,Brazil,Georgia,10
+2017,Brazil,Ghana,33
+2017,Brazil,Guinea,86
+2017,Brazil,Gambia,6
+2017,Brazil,Guinea-Bissau,19
+2017,Brazil,Croatia,5
+2017,Brazil,Haiti,8
+2017,Brazil,Iran (Islamic Rep. of),60
+2017,Brazil,Iraq,287
+2017,Brazil,Jordan,8
+2017,Brazil,Lebanon,406
+2017,Brazil,Liberia,259
+2017,Brazil,Libya,5
+2017,Brazil,Sri Lanka,18
+2017,Brazil,Morocco,8
+2017,Brazil,Mexico,6
+2017,Brazil,The former Yugoslav Republic of Macedonia,6
+2017,Brazil,Mali,74
+2017,Brazil,Nigeria,119
+2017,Brazil,Nepal,6
+2017,Brazil,Pakistan,260
+2017,Brazil,Peru,45
+2017,Brazil,Paraguay,8
+2017,Brazil,Palestinian,490
+2017,Brazil,Russian Federation,13
+2017,Brazil,Rwanda,18
+2017,Brazil,Sudan,71
+2017,Brazil,Senegal,14
+2017,Brazil,Sierra Leone,152
+2017,Brazil,El Salvador,13
+2017,Brazil,Somalia,47
+2017,Brazil,Serbia and Kosovo (S/RES/1244 (1999)),92
+2017,Brazil,Syrian Arab Rep.,2905
+2017,Brazil,Togo,30
+2017,Brazil,Turkey,5
+2017,Brazil,United Rep. of Tanzania,7
+2017,Brazil,Uganda,5
+2017,Brazil,Ukraine,10
+2017,Brazil,Venezuela (Bolivarian Republic of),30
+2017,Brazil,Stateless,13
+2017,Brazil,South Africa,5
+2017,Botswana,Burundi,46
+2017,Botswana,Dem. Rep. of the Congo,84
+2017,Botswana,Eritrea,10
+2017,Botswana,Namibia,923
+2017,Botswana,Rwanda,20
+2017,Botswana,Sudan,12
+2017,Botswana,Somalia,314
+2017,Botswana,Uganda,21
+2017,Botswana,Zimbabwe,676
+2017,Central African Rep.,Angola,14
+2017,Central African Rep.,Burundi,24
+2017,Central African Rep.,Côte d'Ivoire,9
+2017,Central African Rep.,Dem. Rep. of the Congo,4025
+2017,Central African Rep.,Congo,13
+2017,Central African Rep.,Guinea,7
+2017,Central African Rep.,Rwanda,184
+2017,Central African Rep.,Sudan,502
+2017,Central African Rep.,South Sudan,2049
+2017,Central African Rep.,Chad,3184
+2017,Central African Rep.,Turkey,7
+2017,Central African Rep.,Uganda,5
+2017,Canada,Afghanistan,3356
+2017,Canada,Angola,99
+2017,Canada,Albania,853
+2017,Canada,United Arab Emirates,35
+2017,Canada,Argentina,26
+2017,Canada,Armenia,85
+2017,Canada,Antigua and Barbuda,94
+2017,Canada,Azerbaijan,297
+2017,Canada,Burundi,2022
+2017,Canada,Belgium,14
+2017,Canada,Benin,54
+2017,Canada,Burkina Faso,95
+2017,Canada,Bangladesh,905
+2017,Canada,Bulgaria,135
+2017,Canada,Bahrain,46
+2017,Canada,Bahamas,194
+2017,Canada,Bosnia and Herzegovina,35
+2017,Canada,Belarus,95
+2017,Canada,Belize,16
+2017,Canada,Bolivia (Plurinational State of),50
+2017,Canada,Brazil,64
+2017,Canada,Barbados,167
+2017,Canada,Bhutan,7
+2017,Canada,Botswana,255
+2017,Canada,Central African Rep.,70
+2017,Canada,Chile,52
+2017,Canada,China,7180
+2017,Canada,Côte d'Ivoire,253
+2017,Canada,Cameroon,1039
+2017,Canada,Dem. Rep. of the Congo,1816
+2017,Canada,Congo,281
+2017,Canada,Colombia,8049
+2017,Canada,Costa Rica,15
+2017,Canada,Cuba,836
+2017,Canada,Czech Rep.,420
+2017,Canada,Djibouti,801
+2017,Canada,Dominica,5
+2017,Canada,Dominican Rep.,124
+2017,Canada,Algeria,390
+2017,Canada,Ecuador,59
+2017,Canada,Egypt,1329
+2017,Canada,Eritrea,2131
+2017,Canada,Spain,6
+2017,Canada,Estonia,5
+2017,Canada,Ethiopia,1631
+2017,Canada,Fiji,60
+2017,Canada,France,10
+2017,Canada,Gabon,36
+2017,Canada,United Kingdom,11
+2017,Canada,Georgia,276
+2017,Canada,Ghana,298
+2017,Canada,Guinea,442
+2017,Canada,Gambia,82
+2017,Canada,Guinea-Bissau,9
+2017,Canada,Equatorial Guinea,13
+2017,Canada,Greece,14
+2017,Canada,Grenada,64
+2017,Canada,Guatemala,554
+2017,Canada,Guyana,148
+2017,Canada,"China, Hong Kong SAR",6
+2017,Canada,Honduras,934
+2017,Canada,Croatia,204
+2017,Canada,Haiti,6874
+2017,Canada,Hungary,2912
+2017,Canada,Indonesia,119
+2017,Canada,India,1281
+2017,Canada,Iran (Islamic Rep. of),2197
+2017,Canada,Iraq,2792
+2017,Canada,Israel,181
+2017,Canada,Jamaica,893
+2017,Canada,Jordan,353
+2017,Canada,Kazakhstan,126
+2017,Canada,Kenya,463
+2017,Canada,Kyrgyzstan,61
+2017,Canada,Cambodia,71
+2017,Canada,Saint Kitts and Nevis,40
+2017,Canada,Rep. of Korea,102
+2017,Canada,Kuwait,86
+2017,Canada,Lao People's Dem. Rep.,5
+2017,Canada,Lebanon,838
+2017,Canada,Liberia,91
+2017,Canada,Libya,1118
+2017,Canada,Saint Lucia,967
+2017,Canada,Sri Lanka,4195
+2017,Canada,Lithuania,20
+2017,Canada,Latvia,75
+2017,Canada,Morocco,151
+2017,Canada,Rep. of Moldova,121
+2017,Canada,Madagascar,16
+2017,Canada,Mexico,3846
+2017,Canada,The former Yugoslav Republic of Macedonia,43
+2017,Canada,Mali,142
+2017,Canada,Myanmar,60
+2017,Canada,Montenegro,19
+2017,Canada,Mongolia,143
+2017,Canada,Mauritania,151
+2017,Canada,Mauritius,5
+2017,Canada,Malawi,16
+2017,Canada,Malaysia,32
+2017,Canada,Namibia,360
+2017,Canada,Niger,57
+2017,Canada,Nigeria,4800
+2017,Canada,Nicaragua,82
+2017,Canada,Nepal,557
+2017,Canada,Oman,9
+2017,Canada,Pakistan,4971
+2017,Canada,Panama,16
+2017,Canada,Peru,252
+2017,Canada,Philippines,96
+2017,Canada,Poland,125
+2017,Canada,Dem. People's Rep. of Korea,484
+2017,Canada,Paraguay,21
+2017,Canada,Palestinian,777
+2017,Canada,Qatar,12
+2017,Canada,Romania,193
+2017,Canada,Russian Federation,877
+2017,Canada,Rwanda,1013
+2017,Canada,Saudi Arabia,277
+2017,Canada,Sudan,802
+2017,Canada,Senegal,238
+2017,Canada,Singapore,15
+2017,Canada,Solomon Islands,28
+2017,Canada,Sierra Leone,72
+2017,Canada,El Salvador,1354
+2017,Canada,Somalia,3035
+2017,Canada,Serbia and Kosovo (S/RES/1244 (1999)),288
+2017,Canada,South Sudan,12
+2017,Canada,Suriname,8
+2017,Canada,Slovakia,696
+2017,Canada,Swaziland,141
+2017,Canada,Seychelles,5
+2017,Canada,Syrian Arab Rep.,3095
+2017,Canada,Chad,427
+2017,Canada,Togo,110
+2017,Canada,Thailand,17
+2017,Canada,Tajikistan,44
+2017,Canada,Turkmenistan,13
+2017,Canada,Trinidad and Tobago,135
+2017,Canada,Tunisia,189
+2017,Canada,Turkey,2833
+2017,Canada,United Rep. of Tanzania,147
+2017,Canada,Uganda,541
+2017,Canada,Ukraine,1126
+2017,Canada,Uruguay,7
+2017,Canada,United States of America,48
+2017,Canada,Uzbekistan,172
+2017,Canada,Saint Vincent and the Grenadines,1253
+2017,Canada,Venezuela (Bolivarian Republic of),1345
+2017,Canada,Viet Nam,44
+2017,Canada,Stateless,307
+2017,Canada,Yemen,648
+2017,Canada,South Africa,58
+2017,Canada,Zambia,28
+2017,Canada,Zimbabwe,1146
+2017,Switzerland,Afghanistan,8151
+2017,Switzerland,Angola,774
+2017,Switzerland,Albania,86
+2017,Switzerland,Armenia,132
+2017,Switzerland,Azerbaijan,80
+2017,Switzerland,Burundi,84
+2017,Switzerland,Benin,22
+2017,Switzerland,Burkina Faso,19
+2017,Switzerland,Bangladesh,62
+2017,Switzerland,Bulgaria,9
+2017,Switzerland,Bosnia and Herzegovina,2026
+2017,Switzerland,Belarus,43
+2017,Switzerland,Brazil,14
+2017,Switzerland,Central African Rep.,13
+2017,Switzerland,Chile,12
+2017,Switzerland,China,2973
+2017,Switzerland,Côte d'Ivoire,169
+2017,Switzerland,Cameroon,188
+2017,Switzerland,Dem. Rep. of the Congo,1288
+2017,Switzerland,Congo,67
+2017,Switzerland,Colombia,254
+2017,Switzerland,Cuba,40
+2017,Switzerland,Czech Rep.,7
+2017,Switzerland,Djibouti,14
+2017,Switzerland,Algeria,160
+2017,Switzerland,Ecuador,7
+2017,Switzerland,Egypt,106
+2017,Switzerland,Eritrea,30935
+2017,Switzerland,Western Sahara,7
+2017,Switzerland,Ethiopia,1418
+2017,Switzerland,Georgia,142
+2017,Switzerland,Ghana,17
+2017,Switzerland,Guinea,154
+2017,Switzerland,Gambia,46
+2017,Switzerland,Guinea-Bissau,60
+2017,Switzerland,Guatemala,6
+2017,Switzerland,Croatia,33
+2017,Switzerland,Hungary,7
+2017,Switzerland,India,39
+2017,Switzerland,Iran (Islamic Rep. of),1637
+2017,Switzerland,Iraq,4015
+2017,Switzerland,Italy,5
+2017,Switzerland,Jordan,57
+2017,Switzerland,Kazakhstan,12
+2017,Switzerland,Kenya,43
+2017,Switzerland,Kyrgyzstan,18
+2017,Switzerland,Cambodia,322
+2017,Switzerland,Lao People's Dem. Rep.,127
+2017,Switzerland,Lebanon,41
+2017,Switzerland,Liberia,44
+2017,Switzerland,Libya,297
+2017,Switzerland,Sri Lanka,5581
+2017,Switzerland,Morocco,62
+2017,Switzerland,Rep. of Moldova,7
+2017,Switzerland,Madagascar,5
+2017,Switzerland,The former Yugoslav Republic of Macedonia,188
+2017,Switzerland,Mali,29
+2017,Switzerland,Myanmar,40
+2017,Switzerland,Montenegro,45
+2017,Switzerland,Mongolia,118
+2017,Switzerland,Mauritania,6
+2017,Switzerland,Niger,11
+2017,Switzerland,Nigeria,185
+2017,Switzerland,Nepal,19
+2017,Switzerland,Pakistan,150
+2017,Switzerland,Peru,8
+2017,Switzerland,Philippines,6
+2017,Switzerland,Romania,20
+2017,Switzerland,Russian Federation,734
+2017,Switzerland,Rwanda,140
+2017,Switzerland,Sudan,277
+2017,Switzerland,Senegal,42
+2017,Switzerland,Sierra Leone,34
+2017,Switzerland,El Salvador,5
+2017,Switzerland,Somalia,4574
+2017,Switzerland,Serbia and Kosovo (S/RES/1244 (1999)),2777
+2017,Switzerland,South Sudan,7
+2017,Switzerland,Syrian Arab Rep.,13639
+2017,Switzerland,Chad,49
+2017,Switzerland,Togo,669
+2017,Switzerland,Tajikistan,11
+2017,Switzerland,Tunisia,273
+2017,Switzerland,Turkey,3440
+2017,Switzerland,United Rep. of Tanzania,15
+2017,Switzerland,Uganda,40
+2017,Switzerland,Ukraine,42
+2017,Switzerland,Uzbekistan,50
+2017,Switzerland,Venezuela (Bolivarian Republic of),5
+2017,Switzerland,Viet Nam,996
+2017,Switzerland,Stateless,519
+2017,Switzerland,Yemen,339
+2017,Switzerland,South Africa,14
+2017,Switzerland,Zimbabwe,15
+2017,Chile,Afghanistan,13
+2017,Chile,Dem. Rep. of the Congo,6
+2017,Chile,Congo,8
+2017,Chile,Colombia,1117
+2017,Chile,Cuba,18
+2017,Chile,Ecuador,23
+2017,Chile,Sri Lanka,5
+2017,Chile,Peru,113
+2017,Chile,Palestinian,11
+2017,Chile,El Salvador,9
+2017,Chile,Syrian Arab Rep.,85
+2017,China,Afghanistan,8
+2017,China,Burundi,5
+2017,China,Dem. Rep. of the Congo,5
+2017,China,Iraq,12
+2017,China,Pakistan,18
+2017,China,Palestinian,9
+2017,China,Somalia,91
+2017,China,Syrian Arab Rep.,42
+2017,China,Viet Nam,321502
+2017,China,Yemen,7
+2017,Côte d'Ivoire,Burundi,34
+2017,Côte d'Ivoire,Central African Rep.,332
+2017,Côte d'Ivoire,Dem. Rep. of the Congo,112
+2017,Côte d'Ivoire,Congo,51
+2017,Côte d'Ivoire,Liberia,907
+2017,Côte d'Ivoire,Mali,5
+2017,Côte d'Ivoire,Rwanda,47
+2017,Côte d'Ivoire,Sudan,9
+2017,Côte d'Ivoire,Syrian Arab Rep.,12
+2017,Côte d'Ivoire,Togo,15
+2017,Côte d'Ivoire,Turkey,20
+2017,Cameroon,Burundi,60
+2017,Cameroon,Central African Rep.,248843
+2017,Cameroon,Côte d'Ivoire,68
+2017,Cameroon,Dem. Rep. of the Congo,523
+2017,Cameroon,Congo,51
+2017,Cameroon,Guinea,11
+2017,Cameroon,Liberia,9
+2017,Cameroon,Morocco,7
+2017,Cameroon,Nigeria,85319
+2017,Cameroon,Rwanda,832
+2017,Cameroon,Sudan,79
+2017,Cameroon,South Sudan,12
+2017,Cameroon,Syrian Arab Rep.,15
+2017,Cameroon,Chad,1521
+2017,Cameroon,Togo,17
+2017,Dem. Rep. of the Congo,Angola,494
+2017,Dem. Rep. of the Congo,Burundi,44450
+2017,Dem. Rep. of the Congo,Central African Rep.,181917
+2017,Dem. Rep. of the Congo,Côte d'Ivoire,7
+2017,Dem. Rep. of the Congo,Congo,661
+2017,Dem. Rep. of the Congo,Rwanda,220377
+2017,Dem. Rep. of the Congo,Sudan,151
+2017,Dem. Rep. of the Congo,Somalia,14
+2017,Dem. Rep. of the Congo,South Sudan,88970
+2017,Dem. Rep. of the Congo,Syrian Arab Rep.,8
+2017,Dem. Rep. of the Congo,Uganda,25
+2017,Congo,Angola,318
+2017,Congo,Burundi,98
+2017,Congo,Central African Rep.,26403
+2017,Congo,Dem. Rep. of the Congo,12316
+2017,Congo,Mali,6
+2017,Congo,Nigeria,6
+2017,Congo,Rwanda,9275
+2017,Congo,Sudan,26
+2017,Congo,Syrian Arab Rep.,9
+2017,Congo,Chad,37
+2017,Colombia,Afghanistan,8
+2017,Colombia,Cuba,71
+2017,Colombia,Ecuador,9
+2017,Colombia,Ethiopia,17
+2017,Colombia,Hungary,7
+2017,Colombia,Iraq,9
+2017,Colombia,Nicaragua,14
+2017,Colombia,Romania,7
+2017,Colombia,El Salvador,11
+2017,Colombia,Somalia,11
+2017,Colombia,Serbia and Kosovo (S/RES/1244 (1999)),7
+2017,Colombia,Syrian Arab Rep.,8
+2017,Colombia,Venezuela (Bolivarian Republic of),61
+2017,Costa Rica,Colombia,2340
+2017,Costa Rica,Cuba,379
+2017,Costa Rica,Guatemala,26
+2017,Costa Rica,Honduras,144
+2017,Costa Rica,Haiti,12
+2017,Costa Rica,Iran (Islamic Rep. of),5
+2017,Costa Rica,Mexico,6
+2017,Costa Rica,Nigeria,19
+2017,Costa Rica,Nicaragua,461
+2017,Costa Rica,Peru,15
+2017,Costa Rica,Russian Federation,19
+2017,Costa Rica,El Salvador,667
+2017,Costa Rica,Somalia,7
+2017,Costa Rica,Syrian Arab Rep.,9
+2017,Costa Rica,Ukraine,17
+2017,Costa Rica,Venezuela (Bolivarian Republic of),338
+2017,Cuba,Afghanistan,45
+2017,Cuba,Eritrea,20
+2017,Cuba,Western Sahara,176
+2017,Cuba,Ethiopia,5
+2017,Cuba,Iran (Islamic Rep. of),26
+2017,Cuba,Palestinian,6
+2017,Cuba,Syrian Arab Rep.,43
+2017,Cuba,Yemen,17
+2017,Curaçao,Colombia,45
+2017,Curaçao,Cuba,6
+2017,Curaçao,Venezuela (Bolivarian Republic of),23
+2017,Cayman Islands,Cuba,24
+2017,Cyprus,Afghanistan,12
+2017,Cyprus,Armenia,26
+2017,Cyprus,Bosnia and Herzegovina,15
+2017,Cyprus,Cameroon,32
+2017,Cyprus,Dem. Rep. of the Congo,17
+2017,Cyprus,Algeria,8
+2017,Cyprus,Egypt,98
+2017,Cyprus,Eritrea,53
+2017,Cyprus,Ethiopia,5
+2017,Cyprus,Georgia,85
+2017,Cyprus,India,7
+2017,Cyprus,Iran (Islamic Rep. of),523
+2017,Cyprus,Iraq,854
+2017,Cyprus,Jordan,37
+2017,Cyprus,Lebanon,48
+2017,Cyprus,Sri Lanka,25
+2017,Cyprus,Rep. of Moldova,18
+2017,Cyprus,Nigeria,9
+2017,Cyprus,Pakistan,17
+2017,Cyprus,Philippines,12
+2017,Cyprus,Palestinian,1964
+2017,Cyprus,Russian Federation,76
+2017,Cyprus,Sudan,10
+2017,Cyprus,Sierra Leone,24
+2017,Cyprus,Somalia,148
+2017,Cyprus,Serbia and Kosovo (S/RES/1244 (1999)),59
+2017,Cyprus,Syrian Arab Rep.,5274
+2017,Cyprus,Turkey,193
+2017,Cyprus,Ukraine,30
+2017,Cyprus,Stateless,56
+2017,Cyprus,Yemen,10
+2017,Czech Rep.,Afghanistan,234
+2017,Czech Rep.,Angola,19
+2017,Czech Rep.,Albania,6
+2017,Czech Rep.,Armenia,69
+2017,Czech Rep.,Azerbaijan,31
+2017,Czech Rep.,Bulgaria,16
+2017,Czech Rep.,Bosnia and Herzegovina,13
+2017,Czech Rep.,Belarus,364
+2017,Czech Rep.,China,13
+2017,Czech Rep.,Cameroon,6
+2017,Czech Rep.,Dem. Rep. of the Congo,21
+2017,Czech Rep.,Cuba,228
+2017,Czech Rep.,Eritrea,17
+2017,Czech Rep.,Ethiopia,10
+2017,Czech Rep.,Georgia,34
+2017,Czech Rep.,Ghana,11
+2017,Czech Rep.,Guinea,7
+2017,Czech Rep.,Iran (Islamic Rep. of),26
+2017,Czech Rep.,Iraq,199
+2017,Czech Rep.,Kazakhstan,234
+2017,Czech Rep.,Kyrgyzstan,21
+2017,Czech Rep.,Libya,9
+2017,Czech Rep.,Sri Lanka,14
+2017,Czech Rep.,Rep. of Moldova,25
+2017,Czech Rep.,Myanmar,160
+2017,Czech Rep.,Nigeria,13
+2017,Czech Rep.,Pakistan,20
+2017,Czech Rep.,Romania,81
+2017,Czech Rep.,Russian Federation,319
+2017,Czech Rep.,Sudan,17
+2017,Czech Rep.,Sierra Leone,5
+2017,Czech Rep.,Somalia,22
+2017,Czech Rep.,Serbia and Kosovo (S/RES/1244 (1999)),9
+2017,Czech Rep.,Syrian Arab Rep.,365
+2017,Czech Rep.,Togo,6
+2017,Czech Rep.,Turkmenistan,5
+2017,Czech Rep.,Turkey,8
+2017,Czech Rep.,Ukraine,444
+2017,Czech Rep.,Uzbekistan,99
+2017,Czech Rep.,Viet Nam,70
+2017,Czech Rep.,Stateless,201
+2017,Germany,Afghanistan,104385
+2017,Germany,Angola,803
+2017,Germany,Albania,983
+2017,Germany,United Arab Emirates,27
+2017,Germany,Argentina,14
+2017,Germany,Armenia,2038
+2017,Germany,Azerbaijan,3313
+2017,Germany,Burundi,90
+2017,Germany,Belgium,6
+2017,Germany,Benin,73
+2017,Germany,Burkina Faso,72
+2017,Germany,Bangladesh,589
+2017,Germany,Bulgaria,82
+2017,Germany,Bahrain,73
+2017,Germany,Bosnia and Herzegovina,1478
+2017,Germany,Belarus,179
+2017,Germany,Bolivia (Plurinational State of),8
+2017,Germany,Brazil,32
+2017,Germany,Bhutan,21
+2017,Germany,Botswana,5
+2017,Germany,Central African Rep.,32
+2017,Germany,Canada,24
+2017,Germany,Chile,178
+2017,Germany,China,1588
+2017,Germany,Côte d'Ivoire,339
+2017,Germany,Cameroon,594
+2017,Germany,Dem. Rep. of the Congo,1594
+2017,Germany,Congo,249
+2017,Germany,Colombia,67
+2017,Germany,Cuba,97
+2017,Germany,Czech Rep.,777
+2017,Germany,Djibouti,24
+2017,Germany,Dominican Rep.,9
+2017,Germany,Algeria,524
+2017,Germany,Ecuador,12
+2017,Germany,Egypt,1798
+2017,Germany,Eritrea,49253
+2017,Germany,Spain,17
+2017,Germany,Ethiopia,4230
+2017,Germany,France,15
+2017,Germany,Gabon,8
+2017,Germany,United Kingdom,18
+2017,Germany,Georgia,502
+2017,Germany,Ghana,462
+2017,Germany,Guinea,1663
+2017,Germany,Gambia,558
+2017,Germany,Guinea-Bissau,75
+2017,Germany,Equatorial Guinea,22
+2017,Germany,Greece,48
+2017,Germany,Honduras,49
+2017,Germany,Croatia,311
+2017,Germany,Haiti,16
+2017,Germany,Hungary,259
+2017,Germany,Indonesia,12
+2017,Germany,India,351
+2017,Germany,Iran (Islamic Rep. of),38262
+2017,Germany,Iraq,130640
+2017,Germany,Israel,33
+2017,Germany,Italy,17
+2017,Germany,Jamaica,46
+2017,Germany,Jordan,318
+2017,Germany,Japan,28
+2017,Germany,Kazakhstan,95
+2017,Germany,Kenya,180
+2017,Germany,Kyrgyzstan,165
+2017,Germany,Cambodia,27
+2017,Germany,Rep. of Korea,45
+2017,Germany,Kuwait,31
+2017,Germany,Lao People's Dem. Rep.,44
+2017,Germany,Lebanon,1390
+2017,Germany,Liberia,73
+2017,Germany,Libya,1379
+2017,Germany,Sri Lanka,3863
+2017,Germany,Latvia,12
+2017,Germany,Morocco,576
+2017,Germany,Rep. of Moldova,86
+2017,Germany,Mexico,13
+2017,Germany,The former Yugoslav Republic of Macedonia,605
+2017,Germany,Mali,216
+2017,Germany,Myanmar,831
+2017,Germany,Montenegro,283
+2017,Germany,Mongolia,103
+2017,Germany,Mozambique,11
+2017,Germany,Mauritania,33
+2017,Germany,Malaysia,10
+2017,Germany,Niger,44
+2017,Germany,Nigeria,3971
+2017,Germany,Netherlands,21
+2017,Germany,Nepal,50
+2017,Germany,New Zealand,8
+2017,Germany,Oman,9
+2017,Germany,Pakistan,6572
+2017,Germany,Peru,38
+2017,Germany,Philippines,28
+2017,Germany,Poland,666
+2017,Germany,Dem. People's Rep. of Korea,92
+2017,Germany,Portugal,6
+2017,Germany,Romania,163
+2017,Germany,Russian Federation,6960
+2017,Germany,Rwanda,207
+2017,Germany,Saudi Arabia,105
+2017,Germany,Sudan,1974
+2017,Germany,Senegal,130
+2017,Germany,Singapore,7
+2017,Germany,Solomon Islands,8
+2017,Germany,Sierra Leone,563
+2017,Germany,El Salvador,11
+2017,Germany,Somalia,19508
+2017,Germany,Serbia and Kosovo (S/RES/1244 (1999)),9232
+2017,Germany,South Sudan,59
+2017,Germany,Slovakia,85
+2017,Germany,Slovenia,7
+2017,Germany,Sweden,6
+2017,Germany,Syrian Arab Rep.,496674
+2017,Germany,Chad,83
+2017,Germany,Togo,1081
+2017,Germany,Thailand,26
+2017,Germany,Tajikistan,490
+2017,Germany,Turkmenistan,50
+2017,Germany,Tunisia,160
+2017,Germany,Turkey,21120
+2017,Germany,United Rep. of Tanzania,34
+2017,Germany,Uganda,160
+2017,Germany,Ukraine,631
+2017,Germany,United States of America,141
+2017,Germany,Uzbekistan,101
+2017,Germany,Venezuela (Bolivarian Republic of),80
+2017,Germany,Viet Nam,1279
+2017,Germany,Stateless,8574
+2017,Germany,Yemen,1171
+2017,Germany,South Africa,17
+2017,Germany,Zambia,7
+2017,Germany,Zimbabwe,154
+2017,Djibouti,Eritrea,406
+2017,Djibouti,Ethiopia,527
+2017,Djibouti,Iraq,14
+2017,Djibouti,Kenya,10
+2017,Djibouti,Sudan,6
+2017,Djibouti,Somalia,13108
+2017,Djibouti,Syrian Arab Rep.,9
+2017,Djibouti,Yemen,3468
+2017,Denmark,Afghanistan,2668
+2017,Denmark,Albania,5
+2017,Denmark,Armenia,70
+2017,Denmark,Azerbaijan,50
+2017,Denmark,Burundi,5
+2017,Denmark,Bangladesh,20
+2017,Denmark,Bosnia and Herzegovina,5
+2017,Denmark,China,17
+2017,Denmark,Côte d'Ivoire,14
+2017,Denmark,Cameroon,6
+2017,Denmark,Dem. Rep. of the Congo,87
+2017,Denmark,Egypt,16
+2017,Denmark,Eritrea,4006
+2017,Denmark,Ethiopia,94
+2017,Denmark,India,5
+2017,Denmark,Iran (Islamic Rep. of),3107
+2017,Denmark,Iraq,661
+2017,Denmark,Kenya,6
+2017,Denmark,Kyrgyzstan,5
+2017,Denmark,Lebanon,26
+2017,Denmark,Libya,11
+2017,Denmark,Sri Lanka,71
+2017,Denmark,Morocco,8
+2017,Denmark,Myanmar,45
+2017,Denmark,Nigeria,12
+2017,Denmark,Nepal,7
+2017,Denmark,Pakistan,58
+2017,Denmark,Dem. People's Rep. of Korea,9
+2017,Denmark,Palestinian,24
+2017,Denmark,Russian Federation,1029
+2017,Denmark,Rwanda,20
+2017,Denmark,Sudan,77
+2017,Denmark,Somalia,1292
+2017,Denmark,Syrian Arab Rep.,19221
+2017,Denmark,Tajikistan,5
+2017,Denmark,Uganda,75
+2017,Denmark,Ukraine,26
+2017,Denmark,Uzbekistan,11
+2017,Denmark,Stateless,2676
+2017,Denmark,Zimbabwe,13
+2017,Dominican Rep.,Ecuador,5
+2017,Dominican Rep.,Haiti,574
+2017,Algeria,Central African Rep.,43
+2017,Algeria,Côte d'Ivoire,39
+2017,Algeria,Cameroon,16
+2017,Algeria,Dem. Rep. of the Congo,47
+2017,Algeria,Western Sahara,90000
+2017,Algeria,Iraq,13
+2017,Algeria,Libya,19
+2017,Algeria,Mali,34
+2017,Algeria,Palestinian,4014
+2017,Algeria,Syrian Arab Rep.,8
+2017,Algeria,Togo,5
+2017,Algeria,Yemen,5
+2017,Ecuador,Afghanistan,94
+2017,Ecuador,Albania,6
+2017,Ecuador,China,12
+2017,Ecuador,Colombia,46616
+2017,Ecuador,Cuba,212
+2017,Ecuador,Eritrea,11
+2017,Ecuador,Guinea,9
+2017,Ecuador,Haiti,21
+2017,Ecuador,Iran (Islamic Rep. of),23
+2017,Ecuador,Iraq,35
+2017,Ecuador,Sri Lanka,14
+2017,Ecuador,The former Yugoslav Republic of Macedonia,14
+2017,Ecuador,Nigeria,23
+2017,Ecuador,Pakistan,25
+2017,Ecuador,Peru,80
+2017,Ecuador,Palestinian,7
+2017,Ecuador,Russian Federation,30
+2017,Ecuador,Somalia,7
+2017,Ecuador,Syrian Arab Rep.,39
+2017,Ecuador,United States of America,6
+2017,Ecuador,Venezuela (Bolivarian Republic of),5
+2017,Ecuador,Zimbabwe,5
+2017,Egypt,Afghanistan,17
+2017,Egypt,Burundi,24
+2017,Egypt,Central African Rep.,17
+2017,Egypt,Côte d'Ivoire,113
+2017,Egypt,Cameroon,5
+2017,Egypt,Dem. Rep. of the Congo,40
+2017,Egypt,Congo,5
+2017,Egypt,Eritrea,2727
+2017,Egypt,Ethiopia,2676
+2017,Egypt,Iraq,4275
+2017,Egypt,Kenya,6
+2017,Egypt,Mali,9
+2017,Egypt,Nigeria,17
+2017,Egypt,Palestinian,70018
+2017,Egypt,Russian Federation,18
+2017,Egypt,Sudan,17298
+2017,Egypt,Somalia,3252
+2017,Egypt,South Sudan,5247
+2017,Egypt,Syrian Arab Rep.,126688
+2017,Egypt,Chad,46
+2017,Egypt,Tajikistan,12
+2017,Egypt,Uganda,10
+2017,Egypt,Yemen,85
+2017,Egypt,Zimbabwe,12
+2017,Eritrea,Ethiopia,30
+2017,Eritrea,Sudan,67
+2017,Eritrea,Somalia,2286
+2017,Eritrea,South Sudan,9
+2017,Spain,Afghanistan,287
+2017,Spain,Angola,10
+2017,Spain,Armenia,23
+2017,Spain,Azerbaijan,32
+2017,Spain,Bangladesh,20
+2017,Spain,Belarus,15
+2017,Spain,Bolivia (Plurinational State of),9
+2017,Spain,Central African Rep.,42
+2017,Spain,China,21
+2017,Spain,Côte d'Ivoire,193
+2017,Spain,Cameroon,47
+2017,Spain,Dem. Rep. of the Congo,74
+2017,Spain,Congo,10
+2017,Spain,Colombia,179
+2017,Spain,Cuba,894
+2017,Spain,Algeria,46
+2017,Spain,Egypt,14
+2017,Spain,Eritrea,213
+2017,Spain,Western Sahara,17
+2017,Spain,Ethiopia,60
+2017,Spain,Georgia,7
+2017,Spain,Guinea,6
+2017,Spain,Gambia,12
+2017,Spain,Equatorial Guinea,32
+2017,Spain,Guatemala,12
+2017,Spain,Honduras,35
+2017,Spain,Haiti,21
+2017,Spain,India,6
+2017,Spain,Iran (Islamic Rep. of),88
+2017,Spain,Iraq,319
+2017,Spain,Jordan,29
+2017,Spain,Kazakhstan,10
+2017,Spain,Kyrgyzstan,6
+2017,Spain,Lebanon,25
+2017,Spain,Liberia,6
+2017,Spain,Libya,24
+2017,Spain,Sri Lanka,100
+2017,Spain,Morocco,112
+2017,Spain,Mexico,16
+2017,Spain,Mali,30
+2017,Spain,Myanmar,5
+2017,Spain,Nigeria,47
+2017,Spain,Nicaragua,11
+2017,Spain,Pakistan,365
+2017,Spain,Palestinian,862
+2017,Spain,Russian Federation,139
+2017,Spain,Sudan,54
+2017,Spain,Senegal,6
+2017,Spain,Sierra Leone,11
+2017,Spain,El Salvador,7
+2017,Spain,Somalia,601
+2017,Spain,Syrian Arab Rep.,11752
+2017,Spain,Togo,14
+2017,Spain,Tibetan,5
+2017,Spain,Turkey,10
+2017,Spain,Ukraine,368
+2017,Spain,Uzbekistan,10
+2017,Spain,Venezuela (Bolivarian Republic of),44
+2017,Spain,Stateless,24
+2017,Spain,Yemen,21
+2017,Estonia,Afghanistan,23
+2017,Estonia,Belarus,7
+2017,Estonia,Eritrea,5
+2017,Estonia,Georgia,7
+2017,Estonia,Iraq,32
+2017,Estonia,Sri Lanka,12
+2017,Estonia,Russian Federation,26
+2017,Estonia,Sudan,24
+2017,Estonia,Serbia and Kosovo (S/RES/1244 (1999)),5
+2017,Estonia,Syrian Arab Rep.,151
+2017,Estonia,Ukraine,88
+2017,Ethiopia,Burundi,58
+2017,Ethiopia,Dem. Rep. of the Congo,530
+2017,Ethiopia,Djibouti,76
+2017,Ethiopia,Eritrea,164605
+2017,Ethiopia,Iraq,10
+2017,Ethiopia,Kenya,3459
+2017,Ethiopia,Rwanda,10
+2017,Ethiopia,Sudan,43892
+2017,Ethiopia,Somalia,253779
+2017,Ethiopia,South Sudan,421373
+2017,Ethiopia,Syrian Arab Rep.,9
+2017,Ethiopia,Uganda,18
+2017,Ethiopia,Yemen,1578
+2017,Finland,Afghanistan,2571
+2017,Finland,Angola,139
+2017,Finland,Azerbaijan,43
+2017,Finland,Burundi,5
+2017,Finland,Bangladesh,22
+2017,Finland,Belarus,13
+2017,Finland,China,90
+2017,Finland,Côte d'Ivoire,13
+2017,Finland,Cameroon,90
+2017,Finland,Dem. Rep. of the Congo,158
+2017,Finland,Congo,10
+2017,Finland,Cuba,5
+2017,Finland,Algeria,17
+2017,Finland,Egypt,13
+2017,Finland,Eritrea,564
+2017,Finland,Ethiopia,144
+2017,Finland,Ghana,52
+2017,Finland,Guinea,21
+2017,Finland,Gambia,29
+2017,Finland,Honduras,11
+2017,Finland,Croatia,10
+2017,Finland,India,8
+2017,Finland,Iran (Islamic Rep. of),877
+2017,Finland,Iraq,7849
+2017,Finland,Kazakhstan,13
+2017,Finland,Kenya,13
+2017,Finland,Kyrgyzstan,19
+2017,Finland,Lebanon,14
+2017,Finland,Libya,27
+2017,Finland,Sri Lanka,107
+2017,Finland,Morocco,37
+2017,Finland,Rep. of Moldova,6
+2017,Finland,Mali,6
+2017,Finland,Myanmar,30
+2017,Finland,Nigeria,161
+2017,Finland,Pakistan,66
+2017,Finland,Russian Federation,761
+2017,Finland,Rwanda,24
+2017,Finland,Sudan,38
+2017,Finland,Sierra Leone,6
+2017,Finland,El Salvador,10
+2017,Finland,Somalia,3257
+2017,Finland,Serbia and Kosovo (S/RES/1244 (1999)),96
+2017,Finland,South Sudan,5
+2017,Finland,Syrian Arab Rep.,2370
+2017,Finland,Togo,5
+2017,Finland,Turkey,145
+2017,Finland,Uganda,27
+2017,Finland,Ukraine,10
+2017,Finland,Uzbekistan,6
+2017,Finland,Viet Nam,5
+2017,Finland,Stateless,392
+2017,Finland,Yemen,139
+2017,Fiji,Afghanistan,7
+2017,France,Afghanistan,13425
+2017,France,Angola,3428
+2017,France,Albania,4349
+2017,France,Armenia,4113
+2017,France,Azerbaijan,2916
+2017,France,Burundi,607
+2017,France,Benin,36
+2017,France,Burkina Faso,193
+2017,France,Bangladesh,5160
+2017,France,Bulgaria,71
+2017,France,Bahrain,6
+2017,France,Bosnia and Herzegovina,4085
+2017,France,Belarus,514
+2017,France,Bolivia (Plurinational State of),36
+2017,France,Brazil,12
+2017,France,Bhutan,117
+2017,France,Central African Rep.,2642
+2017,France,Chile,67
+2017,France,China,4541
+2017,France,Côte d'Ivoire,3263
+2017,France,Cameroon,1041
+2017,France,Dem. Rep. of the Congo,15697
+2017,France,Congo,3317
+2017,France,Colombia,488
+2017,France,Comoros,575
+2017,France,Cuba,167
+2017,France,Czech Rep.,27
+2017,France,Germany,6
+2017,France,Djibouti,256
+2017,France,Dominican Rep.,49
+2017,France,Algeria,1654
+2017,France,Ecuador,26
+2017,France,Egypt,886
+2017,France,Eritrea,3768
+2017,France,Western Sahara,512
+2017,France,Estonia,7
+2017,France,Ethiopia,1109
+2017,France,Gabon,82
+2017,France,Georgia,3083
+2017,France,Ghana,516
+2017,France,Guinea,7788
+2017,France,Gambia,252
+2017,France,Guinea-Bissau,896
+2017,France,Equatorial Guinea,32
+2017,France,Guatemala,14
+2017,France,Guyana,16
+2017,France,Honduras,6
+2017,France,Croatia,62
+2017,France,Haiti,3497
+2017,France,Hungary,65
+2017,France,Indonesia,6
+2017,France,India,213
+2017,France,Iran (Islamic Rep. of),2580
+2017,France,Iraq,7265
+2017,France,Israel,7
+2017,France,Jamaica,14
+2017,France,Jordan,27
+2017,France,Kazakhstan,553
+2017,France,Kenya,107
+2017,France,Kyrgyzstan,306
+2017,France,Cambodia,11361
+2017,France,Kuwait,77
+2017,France,Lao People's Dem. Rep.,6721
+2017,France,Lebanon,135
+2017,France,Liberia,232
+2017,France,Libya,540
+2017,France,Sri Lanka,24110
+2017,France,Lithuania,11
+2017,France,Latvia,38
+2017,France,Morocco,473
+2017,France,Rep. of Moldova,322
+2017,France,Madagascar,221
+2017,France,Mexico,23
+2017,France,The former Yugoslav Republic of Macedonia,340
+2017,France,Mali,4381
+2017,France,Myanmar,316
+2017,France,Montenegro,86
+2017,France,Mongolia,422
+2017,France,Mozambique,9
+2017,France,Mauritania,5320
+2017,France,Mauritius,16
+2017,France,Malaysia,9
+2017,France,Niger,64
+2017,France,Nigeria,2101
+2017,France,Nepal,129
+2017,France,Pakistan,1399
+2017,France,Peru,298
+2017,France,Poland,140
+2017,France,Paraguay,6
+2017,France,Palestinian,813
+2017,France,Romania,151
+2017,France,Russian Federation,15634
+2017,France,Rwanda,2807
+2017,France,Saudi Arabia,12
+2017,France,Sudan,11337
+2017,France,Senegal,1094
+2017,France,Sierra Leone,541
+2017,France,El Salvador,38
+2017,France,Somalia,2964
+2017,France,Serbia and Kosovo (S/RES/1244 (1999)),13376
+2017,France,South Sudan,27
+2017,France,Slovakia,116
+2017,France,Syrian Arab Rep.,12520
+2017,France,Chad,1392
+2017,France,Togo,719
+2017,France,Thailand,6
+2017,France,Tajikistan,48
+2017,France,Turkmenistan,21
+2017,France,Tunisia,293
+2017,France,Turkey,10727
+2017,France,United Rep. of Tanzania,8
+2017,France,Uganda,120
+2017,France,Ukraine,1605
+2017,France,Uzbekistan,212
+2017,France,Venezuela (Bolivarian Republic of),123
+2017,France,Viet Nam,7911
+2017,France,Yemen,218
+2017,France,South Africa,32
+2017,France,Zimbabwe,44
+2017,Gabon,Burundi,8
+2017,Gabon,Central African Rep.,38
+2017,Gabon,Dem. Rep. of the Congo,74
+2017,Gabon,Congo,86
+2017,Gabon,Mauritania,8
+2017,Gabon,Sao Tome and Principe,26
+2017,Gabon,Chad,570
+2017,Gabon,Togo,15
+2017,United Kingdom,Afghanistan,9858
+2017,United Kingdom,Angola,195
+2017,United Kingdom,Albania,2423
+2017,United Kingdom,United Arab Emirates,18
+2017,United Kingdom,Armenia,50
+2017,United Kingdom,Azerbaijan,79
+2017,United Kingdom,Burundi,48
+2017,United Kingdom,Benin,6
+2017,United Kingdom,Burkina Faso,5
+2017,United Kingdom,Bangladesh,1170
+2017,United Kingdom,Bahrain,154
+2017,United Kingdom,Bosnia and Herzegovina,27
+2017,United Kingdom,Belarus,160
+2017,United Kingdom,Bolivia (Plurinational State of),15
+2017,United Kingdom,Brazil,13
+2017,United Kingdom,Bhutan,86
+2017,United Kingdom,Botswana,19
+2017,United Kingdom,Central African Rep.,9
+2017,United Kingdom,Canada,9
+2017,United Kingdom,China,1571
+2017,United Kingdom,Côte d'Ivoire,220
+2017,United Kingdom,Cameroon,534
+2017,United Kingdom,Dem. Rep. of the Congo,1103
+2017,United Kingdom,Congo,130
+2017,United Kingdom,Colombia,40
+2017,United Kingdom,Cuba,13
+2017,United Kingdom,Dominica,11
+2017,United Kingdom,Algeria,323
+2017,United Kingdom,Ecuador,14
+2017,United Kingdom,Egypt,651
+2017,United Kingdom,Eritrea,13590
+2017,United Kingdom,Western Sahara,11
+2017,United Kingdom,Ethiopia,1387
+2017,United Kingdom,Fiji,8
+2017,United Kingdom,Georgia,48
+2017,United Kingdom,Ghana,278
+2017,United Kingdom,Guinea,263
+2017,United Kingdom,Gambia,1312
+2017,United Kingdom,Guinea-Bissau,7
+2017,United Kingdom,Grenada,15
+2017,United Kingdom,Guatemala,5
+2017,United Kingdom,Guyana,16
+2017,United Kingdom,Honduras,34
+2017,United Kingdom,Indonesia,16
+2017,United Kingdom,India,351
+2017,United Kingdom,Iran (Islamic Rep. of),16085
+2017,United Kingdom,Iraq,4192
+2017,United Kingdom,Israel,10
+2017,United Kingdom,Jamaica,358
+2017,United Kingdom,Jordan,54
+2017,United Kingdom,Kazakhstan,13
+2017,United Kingdom,Kenya,277
+2017,United Kingdom,Kyrgyzstan,28
+2017,United Kingdom,Saint Kitts and Nevis,6
+2017,United Kingdom,Rep. of Korea,7
+2017,United Kingdom,Kuwait,542
+2017,United Kingdom,Lebanon,150
+2017,United Kingdom,Liberia,34
+2017,United Kingdom,Libya,1753
+2017,United Kingdom,Saint Lucia,19
+2017,United Kingdom,Sri Lanka,5804
+2017,United Kingdom,Morocco,167
+2017,United Kingdom,Rep. of Moldova,18
+2017,United Kingdom,Maldives,30
+2017,United Kingdom,Mexico,9
+2017,United Kingdom,The former Yugoslav Republic of Macedonia,21
+2017,United Kingdom,Mali,24
+2017,United Kingdom,Myanmar,836
+2017,United Kingdom,Mongolia,77
+2017,United Kingdom,Mozambique,5
+2017,United Kingdom,Mauritania,5
+2017,United Kingdom,Mauritius,43
+2017,United Kingdom,Malawi,319
+2017,United Kingdom,Malaysia,126
+2017,United Kingdom,Namibia,30
+2017,United Kingdom,Niger,6
+2017,United Kingdom,Nigeria,2205
+2017,United Kingdom,Nepal,24
+2017,United Kingdom,Oman,11
+2017,United Kingdom,Pakistan,7207
+2017,United Kingdom,Philippines,18
+2017,United Kingdom,Dem. People's Rep. of Korea,362
+2017,United Kingdom,Palestinian,486
+2017,United Kingdom,Qatar,6
+2017,United Kingdom,Russian Federation,484
+2017,United Kingdom,Rwanda,111
+2017,United Kingdom,Saudi Arabia,129
+2017,United Kingdom,Sudan,8132
+2017,United Kingdom,Senegal,79
+2017,United Kingdom,Sierra Leone,292
+2017,United Kingdom,El Salvador,81
+2017,United Kingdom,Somalia,4670
+2017,United Kingdom,Serbia and Kosovo (S/RES/1244 (1999)),105
+2017,United Kingdom,South Sudan,32
+2017,United Kingdom,Swaziland,57
+2017,United Kingdom,Syrian Arab Rep.,9100
+2017,United Kingdom,Chad,41
+2017,United Kingdom,Togo,17
+2017,United Kingdom,Thailand,29
+2017,United Kingdom,Tajikistan,12
+2017,United Kingdom,Turkmenistan,11
+2017,United Kingdom,Trinidad and Tobago,64
+2017,United Kingdom,Tunisia,39
+2017,United Kingdom,Turkey,864
+2017,United Kingdom,United Rep. of Tanzania,82
+2017,United Kingdom,Uganda,1156
+2017,United Kingdom,Ukraine,110
+2017,United Kingdom,United States of America,42
+2017,United Kingdom,Uzbekistan,69
+2017,United Kingdom,Saint Vincent and the Grenadines,17
+2017,United Kingdom,Venezuela (Bolivarian Republic of),31
+2017,United Kingdom,Viet Nam,1015
+2017,United Kingdom,Stateless,2179
+2017,United Kingdom,Yemen,453
+2017,United Kingdom,South Africa,168
+2017,United Kingdom,Zambia,71
+2017,United Kingdom,Zimbabwe,8236
+2017,Georgia,Azerbaijan,6
+2017,Georgia,Egypt,19
+2017,Georgia,Iran (Islamic Rep. of),34
+2017,Georgia,Iraq,630
+2017,Georgia,Lebanon,6
+2017,Georgia,Pakistan,10
+2017,Georgia,Russian Federation,259
+2017,Georgia,Sudan,6
+2017,Georgia,Syrian Arab Rep.,445
+2017,Georgia,Ukraine,654
+2017,Ghana,Burundi,10
+2017,Ghana,Central African Rep.,107
+2017,Ghana,Côte d'Ivoire,6687
+2017,Ghana,Cameroon,6
+2017,Ghana,Dem. Rep. of the Congo,41
+2017,Ghana,Congo,5
+2017,Ghana,Eritrea,13
+2017,Ghana,Ethiopia,6
+2017,Ghana,Iraq,11
+2017,Ghana,Lebanon,7
+2017,Ghana,Liberia,1209
+2017,Ghana,Nigeria,9
+2017,Ghana,Pakistan,26
+2017,Ghana,Palestinian,13
+2017,Ghana,Rwanda,36
+2017,Ghana,Sudan,299
+2017,Ghana,Sierra Leone,87
+2017,Ghana,Somalia,62
+2017,Ghana,South Sudan,6
+2017,Ghana,Syrian Arab Rep.,39
+2017,Ghana,Chad,30
+2017,Ghana,Togo,3425
+2017,Ghana,Uganda,5
+2017,Ghana,Uzbekistan,9
+2017,Guinea,Central African Rep.,37
+2017,Guinea,Côte d'Ivoire,4539
+2017,Guinea,Dem. Rep. of the Congo,30
+2017,Guinea,Liberia,298
+2017,Guinea,Sri Lanka,8
+2017,Guinea,Mali,6
+2017,Guinea,Nigeria,7
+2017,Guinea,Rwanda,10
+2017,Guinea,Sierra Leone,202
+2017,Guinea,Somalia,6
+2017,Guinea,Togo,8
+2017,Gambia,Côte d'Ivoire,188
+2017,Gambia,Dem. Rep. of the Congo,59
+2017,Gambia,Congo,9
+2017,Gambia,Guinea-Bissau,12
+2017,Gambia,Liberia,67
+2017,Gambia,Senegal,7557
+2017,Gambia,Sierra Leone,119
+2017,Gambia,Togo,23
+2017,Guinea-Bissau,Burundi,11
+2017,Guinea-Bissau,Côte d'Ivoire,15
+2017,Guinea-Bissau,Dem. Rep. of the Congo,5
+2017,Guinea-Bissau,Guinea,10
+2017,Guinea-Bissau,Gambia,6
+2017,Guinea-Bissau,Liberia,5
+2017,Guinea-Bissau,Senegal,10061
+2017,Guinea-Bissau,Sierra Leone,12
+2017,Greece,Afghanistan,4751
+2017,Greece,Albania,150
+2017,Greece,Armenia,11
+2017,Greece,Burundi,18
+2017,Greece,Burkina Faso,14
+2017,Greece,Bangladesh,244
+2017,Greece,Belarus,5
+2017,Greece,Central African Rep.,9
+2017,Greece,China,56
+2017,Greece,Côte d'Ivoire,68
+2017,Greece,Cameroon,151
+2017,Greece,Dem. Rep. of the Congo,304
+2017,Greece,Congo,61
+2017,Greece,Dominican Rep.,7
+2017,Greece,Algeria,62
+2017,Greece,Egypt,191
+2017,Greece,Eritrea,864
+2017,Greece,Ethiopia,296
+2017,Greece,Georgia,266
+2017,Greece,Ghana,49
+2017,Greece,Guinea,63
+2017,Greece,Gambia,25
+2017,Greece,Indonesia,12
+2017,Greece,India,27
+2017,Greece,Iran (Islamic Rep. of),1059
+2017,Greece,Iraq,4473
+2017,Greece,Jordan,8
+2017,Greece,Kenya,28
+2017,Greece,Kuwait,42
+2017,Greece,Lebanon,30
+2017,Greece,Libya,29
+2017,Greece,Sri Lanka,40
+2017,Greece,Morocco,107
+2017,Greece,Rep. of Moldova,11
+2017,Greece,Mali,39
+2017,Greece,Myanmar,30
+2017,Greece,Mauritania,49
+2017,Greece,Nigeria,265
+2017,Greece,Pakistan,726
+2017,Greece,Philippines,7
+2017,Greece,Palestinian,606
+2017,Greece,Russian Federation,11
+2017,Greece,Rwanda,8
+2017,Greece,Saudi Arabia,5
+2017,Greece,Sudan,398
+2017,Greece,Senegal,49
+2017,Greece,Sierra Leone,32
+2017,Greece,El Salvador,7
+2017,Greece,Somalia,335
+2017,Greece,Serbia and Kosovo (S/RES/1244 (1999)),22
+2017,Greece,South Sudan,7
+2017,Greece,Syrian Arab Rep.,13714
+2017,Greece,Togo,6
+2017,Greece,Tunisia,16
+2017,Greece,Turkey,199
+2017,Greece,United Rep. of Tanzania,13
+2017,Greece,Uganda,21
+2017,Greece,Ukraine,134
+2017,Greece,Uzbekistan,14
+2017,Greece,Viet Nam,7
+2017,Greece,Stateless,335
+2017,Greece,Yemen,158
+2017,Guatemala,Colombia,8
+2017,Guatemala,Honduras,36
+2017,Guatemala,Nicaragua,100
+2017,Guatemala,El Salvador,206
+2017,Guatemala,Venezuela (Bolivarian Republic of),10
+2017,Guyana,Dem. Rep. of the Congo,7
+2017,"China, Hong Kong SAR",Indonesia,5
+2017,"China, Hong Kong SAR",Sri Lanka,21
+2017,"China, Hong Kong SAR",Pakistan,8
+2017,"China, Hong Kong SAR",Rwanda,20
+2017,"China, Hong Kong SAR",Somalia,21
+2017,"China, Hong Kong SAR",Yemen,5
+2017,Honduras,Nicaragua,6
+2017,Honduras,El Salvador,11
+2017,Croatia,Afghanistan,45
+2017,Croatia,Azerbaijan,5
+2017,Croatia,Bosnia and Herzegovina,37
+2017,Croatia,Eritrea,19
+2017,Croatia,Iran (Islamic Rep. of),14
+2017,Croatia,Iraq,62
+2017,Croatia,Kazakhstan,5
+2017,Croatia,Nigeria,10
+2017,Croatia,Russian Federation,14
+2017,Croatia,Somalia,22
+2017,Croatia,Syrian Arab Rep.,194
+2017,Croatia,Turkey,16
+2017,Croatia,Ukraine,5
+2017,Hungary,Afghanistan,1412
+2017,Hungary,Angola,5
+2017,Hungary,Armenia,47
+2017,Hungary,Azerbaijan,16
+2017,Hungary,Bangladesh,9
+2017,Hungary,China,5
+2017,Hungary,Côte d'Ivoire,15
+2017,Hungary,Cameroon,35
+2017,Hungary,Dem. Rep. of the Congo,21
+2017,Hungary,Congo,13
+2017,Hungary,Cuba,80
+2017,Hungary,Algeria,15
+2017,Hungary,Egypt,13
+2017,Hungary,Eritrea,48
+2017,Hungary,Ethiopia,33
+2017,Hungary,Georgia,62
+2017,Hungary,Ghana,7
+2017,Hungary,Guinea,5
+2017,Hungary,Iran (Islamic Rep. of),142
+2017,Hungary,Iraq,598
+2017,Hungary,Lebanon,7
+2017,Hungary,Libya,6
+2017,Hungary,Sri Lanka,12
+2017,Hungary,Nigeria,54
+2017,Hungary,Nepal,11
+2017,Hungary,Pakistan,55
+2017,Hungary,Palestinian,87
+2017,Hungary,Russian Federation,36
+2017,Hungary,Sudan,68
+2017,Hungary,Somalia,651
+2017,Hungary,Serbia and Kosovo (S/RES/1244 (1999)),56
+2017,Hungary,Syrian Arab Rep.,925
+2017,Hungary,Tunisia,8
+2017,Hungary,Turkey,34
+2017,Hungary,Uganda,6
+2017,Hungary,Ukraine,19
+2017,Hungary,Uzbekistan,7
+2017,Hungary,Stateless,76
+2017,Hungary,Yemen,17
+2017,Indonesia,Afghanistan,5477
+2017,Indonesia,China,9
+2017,Indonesia,Egypt,14
+2017,Indonesia,Eritrea,32
+2017,Indonesia,Ethiopia,143
+2017,Indonesia,Iran (Islamic Rep. of),239
+2017,Indonesia,Iraq,560
+2017,Indonesia,Kuwait,11
+2017,Indonesia,Libya,6
+2017,Indonesia,Sri Lanka,389
+2017,Indonesia,Myanmar,766
+2017,Indonesia,Pakistan,372
+2017,Indonesia,Palestinian,388
+2017,Indonesia,Sudan,266
+2017,Indonesia,Somalia,976
+2017,Indonesia,Syrian Arab Rep.,35
+2017,Indonesia,Viet Nam,18
+2017,Indonesia,Yemen,76
+2017,India,Afghanistan,7758
+2017,India,China,108008
+2017,India,Côte d'Ivoire,5
+2017,India,Dem. Rep. of the Congo,49
+2017,India,Eritrea,29
+2017,India,Ethiopia,20
+2017,India,Iran (Islamic Rep. of),57
+2017,India,Iraq,344
+2017,India,Sri Lanka,61842
+2017,India,Myanmar,18089
+2017,India,Palestinian,75
+2017,India,Sudan,89
+2017,India,Somalia,664
+2017,India,South Sudan,6
+2017,India,Syrian Arab Rep.,87
+2017,Ireland,Afghanistan,230
+2017,Ireland,Angola,236
+2017,Ireland,Albania,78
+2017,Ireland,Armenia,11
+2017,Ireland,Azerbaijan,15
+2017,Ireland,Burundi,25
+2017,Ireland,Bangladesh,30
+2017,Ireland,Bosnia and Herzegovina,14
+2017,Ireland,Belarus,43
+2017,Ireland,Bolivia (Plurinational State of),7
+2017,Ireland,Bhutan,10
+2017,Ireland,Central African Rep.,9
+2017,Ireland,China,54
+2017,Ireland,Côte d'Ivoire,19
+2017,Ireland,Cameroon,85
+2017,Ireland,Dem. Rep. of the Congo,396
+2017,Ireland,Congo,186
+2017,Ireland,Cuba,22
+2017,Ireland,Algeria,189
+2017,Ireland,Egypt,29
+2017,Ireland,Eritrea,48
+2017,Ireland,Ethiopia,42
+2017,Ireland,Georgia,70
+2017,Ireland,Ghana,26
+2017,Ireland,Guinea,17
+2017,Ireland,Iran (Islamic Rep. of),135
+2017,Ireland,Iraq,491
+2017,Ireland,Jordan,7
+2017,Ireland,Kazakhstan,35
+2017,Ireland,Kenya,56
+2017,Ireland,Kuwait,46
+2017,Ireland,Lebanon,13
+2017,Ireland,Liberia,23
+2017,Ireland,Libya,255
+2017,Ireland,Sri Lanka,20
+2017,Ireland,Morocco,8
+2017,Ireland,Rep. of Moldova,105
+2017,Ireland,Mali,8
+2017,Ireland,Myanmar,9
+2017,Ireland,Montenegro,6
+2017,Ireland,Mozambique,6
+2017,Ireland,Mauritius,7
+2017,Ireland,Malawi,51
+2017,Ireland,Nigeria,421
+2017,Ireland,Pakistan,172
+2017,Ireland,Palestinian,94
+2017,Ireland,Russian Federation,159
+2017,Ireland,Rwanda,66
+2017,Ireland,Saudi Arabia,10
+2017,Ireland,Sudan,188
+2017,Ireland,Sierra Leone,53
+2017,Ireland,Somalia,480
+2017,Ireland,Serbia and Kosovo (S/RES/1244 (1999)),200
+2017,Ireland,Swaziland,15
+2017,Ireland,Syrian Arab Rep.,718
+2017,Ireland,Togo,37
+2017,Ireland,Tajikistan,12
+2017,Ireland,Turkey,14
+2017,Ireland,United Rep. of Tanzania,9
+2017,Ireland,Uganda,42
+2017,Ireland,Ukraine,110
+2017,Ireland,Uzbekistan,24
+2017,Ireland,Venezuela (Bolivarian Republic of),11
+2017,Ireland,Viet Nam,7
+2017,Ireland,Stateless,7
+2017,Ireland,South Africa,51
+2017,Ireland,Zimbabwe,252
+2017,Iran (Islamic Rep. of),Afghanistan,951142
+2017,Iran (Islamic Rep. of),Iraq,28268
+2017,Iran (Islamic Rep. of),Kuwait,8
+2017,Iran (Islamic Rep. of),Pakistan,10
+2017,Iran (Islamic Rep. of),Uzbekistan,7
+2017,Iraq,Afghanistan,11
+2017,Iraq,Iran (Islamic Rep. of),7143
+2017,Iraq,Jordan,9
+2017,Iraq,Palestinian,7865
+2017,Iraq,Sudan,64
+2017,Iraq,Syrian Arab Rep.,247057
+2017,Iraq,Turkey,15514
+2017,Iceland,Afghanistan,44
+2017,Iceland,Albania,6
+2017,Iceland,Eritrea,11
+2017,Iceland,Iran (Islamic Rep. of),33
+2017,Iceland,Iraq,70
+2017,Iceland,Sri Lanka,5
+2017,Iceland,Nigeria,6
+2017,Iceland,Pakistan,11
+2017,Iceland,Palestinian,10
+2017,Iceland,Russian Federation,11
+2017,Iceland,El Salvador,8
+2017,Iceland,Somalia,13
+2017,Iceland,Syrian Arab Rep.,58
+2017,Iceland,Ukraine,15
+2017,Iceland,Stateless,8
+2017,Israel,Dem. Rep. of the Congo,209
+2017,Israel,Eritrea,22010
+2017,Israel,Ethiopia,89
+2017,Israel,Iran (Islamic Rep. of),6
+2017,Israel,Iraq,10
+2017,Israel,Sudan,3187
+2017,Israel,South Sudan,126
+2017,Italy,Afghanistan,17171
+2017,Italy,Angola,35
+2017,Italy,Albania,538
+2017,Italy,Armenia,289
+2017,Italy,Azerbaijan,62
+2017,Italy,Burundi,19
+2017,Italy,Benin,228
+2017,Italy,Burkina Faso,1014
+2017,Italy,Bangladesh,5671
+2017,Italy,Bosnia and Herzegovina,618
+2017,Italy,Belarus,34
+2017,Italy,Bolivia (Plurinational State of),13
+2017,Italy,Brazil,100
+2017,Italy,Central African Rep.,90
+2017,Italy,Chile,8
+2017,Italy,China,166
+2017,Italy,Côte d'Ivoire,6412
+2017,Italy,Cameroon,1348
+2017,Italy,Dem. Rep. of the Congo,556
+2017,Italy,Congo,425
+2017,Italy,Colombia,353
+2017,Italy,Cuba,195
+2017,Italy,Dominican Rep.,17
+2017,Italy,Algeria,186
+2017,Italy,Ecuador,31
+2017,Italy,Egypt,1995
+2017,Italy,Eritrea,7940
+2017,Italy,Western Sahara,5
+2017,Italy,Ethiopia,1309
+2017,Italy,Gabon,29
+2017,Italy,Georgia,329
+2017,Italy,Ghana,4861
+2017,Italy,Guinea,3387
+2017,Italy,Gambia,10273
+2017,Italy,Guinea-Bissau,709
+2017,Italy,Equatorial Guinea,14
+2017,Italy,Guatemala,6
+2017,Italy,Honduras,42
+2017,Italy,Croatia,18
+2017,Italy,Haiti,9
+2017,Italy,India,205
+2017,Italy,Iran (Islamic Rep. of),1828
+2017,Italy,Iraq,5359
+2017,Italy,Israel,7
+2017,Italy,Jordan,27
+2017,Italy,Kazakhstan,8
+2017,Italy,Kenya,138
+2017,Italy,Kyrgyzstan,25
+2017,Italy,Lebanon,313
+2017,Italy,Liberia,320
+2017,Italy,Libya,837
+2017,Italy,Sri Lanka,517
+2017,Italy,Morocco,746
+2017,Italy,Rep. of Moldova,100
+2017,Italy,Madagascar,18
+2017,Italy,Mexico,5
+2017,Italy,The former Yugoslav Republic of Macedonia,56
+2017,Italy,Mali,13206
+2017,Italy,Myanmar,34
+2017,Italy,Montenegro,81
+2017,Italy,Mauritania,342
+2017,Italy,Mauritius,16
+2017,Italy,Niger,431
+2017,Italy,Nigeria,18026
+2017,Italy,Nicaragua,14
+2017,Italy,Nepal,95
+2017,Italy,Pakistan,15966
+2017,Italy,Peru,70
+2017,Italy,Philippines,29
+2017,Italy,Palestinian,954
+2017,Italy,Russian Federation,208
+2017,Italy,Rwanda,13
+2017,Italy,Saudi Arabia,7
+2017,Italy,Sudan,1665
+2017,Italy,Senegal,6197
+2017,Italy,Sierra Leone,539
+2017,Italy,El Salvador,674
+2017,Italy,Somalia,15641
+2017,Italy,Serbia and Kosovo (S/RES/1244 (1999)),1128
+2017,Italy,South Sudan,61
+2017,Italy,Swaziland,8
+2017,Italy,Syrian Arab Rep.,3618
+2017,Italy,Chad,448
+2017,Italy,Togo,963
+2017,Italy,Tajikistan,8
+2017,Italy,Tunisia,601
+2017,Italy,Turkey,2456
+2017,Italy,United Rep. of Tanzania,26
+2017,Italy,Uganda,67
+2017,Italy,Ukraine,4947
+2017,Italy,Uzbekistan,6
+2017,Italy,Venezuela (Bolivarian Republic of),177
+2017,Italy,Viet Nam,7
+2017,Italy,Stateless,19
+2017,Italy,Yemen,113
+2017,Italy,South Africa,8
+2017,Italy,Zimbabwe,24
+2017,Jamaica,Haiti,8
+2017,Jordan,Afghanistan,8
+2017,Jordan,Bosnia and Herzegovina,10
+2017,Jordan,Egypt,79
+2017,Jordan,Eritrea,25
+2017,Jordan,Ethiopia,8
+2017,Jordan,Iran (Islamic Rep. of),7
+2017,Jordan,Iraq,34037
+2017,Jordan,Lebanon,6
+2017,Jordan,Libya,27
+2017,Jordan,Sri Lanka,5
+2017,Jordan,Pakistan,5
+2017,Jordan,Russian Federation,25
+2017,Jordan,Sudan,2567
+2017,Jordan,Somalia,645
+2017,Jordan,South Sudan,12
+2017,Jordan,Syrian Arab Rep.,653031
+2017,Jordan,Tunisia,8
+2017,Jordan,Stateless,11
+2017,Jordan,Yemen,494
+2017,Japan,Afghanistan,51
+2017,Japan,Burundi,8
+2017,Japan,Bangladesh,27
+2017,Japan,China,69
+2017,Japan,Cameroon,17
+2017,Japan,Dem. Rep. of the Congo,7
+2017,Japan,Ethiopia,23
+2017,Japan,Iran (Islamic Rep. of),17
+2017,Japan,Iraq,13
+2017,Japan,Sri Lanka,59
+2017,Japan,Myanmar,1469
+2017,Japan,Pakistan,34
+2017,Japan,Sudan,15
+2017,Japan,Somalia,5
+2017,Japan,Syrian Arab Rep.,66
+2017,Japan,Turkey,39
+2017,Japan,Stateless,9
+2017,Kazakhstan,Afghanistan,561
+2017,Kazakhstan,China,6
+2017,Kazakhstan,Syrian Arab Rep.,17
+2017,Kazakhstan,Uzbekistan,18
+2017,Kenya,Afghanistan,8
+2017,Kenya,Burundi,1902
+2017,Kenya,Dem. Rep. of the Congo,13941
+2017,Kenya,Congo,26
+2017,Kenya,Eritrea,702
+2017,Kenya,Ethiopia,17873
+2017,Kenya,Sri Lanka,9
+2017,Kenya,Mozambique,7
+2017,Kenya,Pakistan,9
+2017,Kenya,Rwanda,576
+2017,Kenya,Sudan,2922
+2017,Kenya,Somalia,281692
+2017,Kenya,South Sudan,111510
+2017,Kenya,United Rep. of Tanzania,9
+2017,Kenya,Uganda,626
+2017,Kenya,Yemen,68
+2017,Kyrgyzstan,Afghanistan,236
+2017,Kyrgyzstan,Syrian Arab Rep.,69
+2017,Kyrgyzstan,Ukraine,17
+2017,Kyrgyzstan,Uzbekistan,12
+2017,Cambodia,Sri Lanka,5
+2017,Cambodia,Myanmar,19
+2017,Cambodia,Pakistan,5
+2017,Cambodia,Viet Nam,32
+2017,Rep. of Korea,Afghanistan,37
+2017,Rep. of Korea,Burundi,18
+2017,Rep. of Korea,Bangladesh,98
+2017,Rep. of Korea,China,39
+2017,Rep. of Korea,Côte d'Ivoire,30
+2017,Rep. of Korea,Cameroon,18
+2017,Rep. of Korea,Dem. Rep. of the Congo,49
+2017,Rep. of Korea,Algeria,5
+2017,Rep. of Korea,Egypt,19
+2017,Rep. of Korea,Ethiopia,130
+2017,Rep. of Korea,Ghana,6
+2017,Rep. of Korea,Iran (Islamic Rep. of),48
+2017,Rep. of Korea,Iraq,27
+2017,Rep. of Korea,Kenya,5
+2017,Rep. of Korea,Liberia,9
+2017,Rep. of Korea,Libya,5
+2017,Rep. of Korea,Sri Lanka,8
+2017,Rep. of Korea,Mali,6
+2017,Rep. of Korea,Myanmar,292
+2017,Rep. of Korea,Nigeria,10
+2017,Rep. of Korea,Nepal,5
+2017,Rep. of Korea,Pakistan,86
+2017,Rep. of Korea,Palestinian,5
+2017,Rep. of Korea,Russian Federation,13
+2017,Rep. of Korea,Sudan,12
+2017,Rep. of Korea,Syrian Arab Rep.,1122
+2017,Rep. of Korea,Uganda,31
+2017,Rep. of Korea,Ukraine,12
+2017,Rep. of Korea,Uzbekistan,8
+2017,Rep. of Korea,Yemen,50
+2017,Kuwait,Iran (Islamic Rep. of),9
+2017,Kuwait,Iraq,328
+2017,Kuwait,Somalia,227
+2017,Kuwait,Syrian Arab Rep.,44
+2017,Lebanon,Afghanistan,22
+2017,Lebanon,Bahrain,27
+2017,Lebanon,Dem. Rep. of the Congo,5
+2017,Lebanon,Egypt,66
+2017,Lebanon,Eritrea,20
+2017,Lebanon,Ethiopia,30
+2017,Lebanon,Iran (Islamic Rep. of),33
+2017,Lebanon,Iraq,5695
+2017,Lebanon,Jordan,32
+2017,Lebanon,Libya,12
+2017,Lebanon,Saudi Arabia,10
+2017,Lebanon,Sudan,705
+2017,Lebanon,Somalia,19
+2017,Lebanon,South Sudan,39
+2017,Lebanon,Syrian Arab Rep.,992127
+2017,Lebanon,Tunisia,11
+2017,Lebanon,Turkey,8
+2017,Lebanon,Yemen,15
+2017,Liberia,Côte d'Ivoire,11063
+2017,Liberia,Dem. Rep. of the Congo,10
+2017,Liberia,Mali,19
+2017,Liberia,Sudan,5
+2017,Liberia,Syrian Arab Rep.,7
+2017,Liberia,Togo,5
+2017,Libya,Dem. Rep. of the Congo,14
+2017,Libya,Eritrea,471
+2017,Libya,Ethiopia,24
+2017,Libya,Iraq,2459
+2017,Libya,Liberia,22
+2017,Libya,Palestinian,5303
+2017,Libya,Sudan,629
+2017,Libya,Somalia,143
+2017,Libya,Syrian Arab Rep.,257
+2017,Libya,Chad,20
+2017,Liechtenstein,Armenia,8
+2017,Liechtenstein,China,27
+2017,Liechtenstein,Eritrea,11
+2017,Liechtenstein,Iraq,7
+2017,Liechtenstein,Somalia,28
+2017,Liechtenstein,Serbia and Kosovo (S/RES/1244 (1999)),36
+2017,Liechtenstein,Syrian Arab Rep.,32
+2017,Liechtenstein,Ukraine,5
+2017,Sri Lanka,Afghanistan,133
+2017,Sri Lanka,Iran (Islamic Rep. of),8
+2017,Sri Lanka,Maldives,8
+2017,Sri Lanka,Myanmar,35
+2017,Sri Lanka,Pakistan,600
+2017,Sri Lanka,Palestinian,10
+2017,Sri Lanka,Syrian Arab Rep.,14
+2017,Sri Lanka,Yemen,12
+2017,Lesotho,Dem. Rep. of the Congo,27
+2017,Lesotho,Eritrea,5
+2017,Lesotho,Ethiopia,12
+2017,Lesotho,Uganda,6
+2017,Lithuania,Afghanistan,212
+2017,Lithuania,Azerbaijan,12
+2017,Lithuania,Belarus,35
+2017,Lithuania,Cameroon,5
+2017,Lithuania,Eritrea,38
+2017,Lithuania,Iran (Islamic Rep. of),6
+2017,Lithuania,Iraq,57
+2017,Lithuania,Sri Lanka,10
+2017,Lithuania,Nigeria,5
+2017,Lithuania,Pakistan,5
+2017,Lithuania,Russian Federation,636
+2017,Lithuania,Somalia,22
+2017,Lithuania,Syrian Arab Rep.,362
+2017,Lithuania,Tajikistan,24
+2017,Lithuania,Turkey,14
+2017,Lithuania,Ukraine,63
+2017,Lithuania,Uzbekistan,16
+2017,Lithuania,Stateless,35
+2017,Luxembourg,Afghanistan,43
+2017,Luxembourg,Angola,15
+2017,Luxembourg,Albania,82
+2017,Luxembourg,Armenia,6
+2017,Luxembourg,Azerbaijan,15
+2017,Luxembourg,Bosnia and Herzegovina,7
+2017,Luxembourg,Belarus,7
+2017,Luxembourg,Côte d'Ivoire,6
+2017,Luxembourg,Cameroon,12
+2017,Luxembourg,Dem. Rep. of the Congo,38
+2017,Luxembourg,Congo,5
+2017,Luxembourg,Egypt,5
+2017,Luxembourg,Eritrea,79
+2017,Luxembourg,Ethiopia,43
+2017,Luxembourg,Guinea,10
+2017,Luxembourg,Gambia,6
+2017,Luxembourg,Iran (Islamic Rep. of),148
+2017,Luxembourg,Iraq,280
+2017,Luxembourg,Libya,5
+2017,Luxembourg,Sri Lanka,5
+2017,Luxembourg,Mexico,5
+2017,Luxembourg,Montenegro,18
+2017,Luxembourg,Nigeria,10
+2017,Luxembourg,Dem. People's Rep. of Korea,12
+2017,Luxembourg,Russian Federation,33
+2017,Luxembourg,Rwanda,19
+2017,Luxembourg,Somalia,44
+2017,Luxembourg,Serbia and Kosovo (S/RES/1244 (1999)),265
+2017,Luxembourg,Syrian Arab Rep.,686
+2017,Luxembourg,Togo,5
+2017,Luxembourg,Turkmenistan,5
+2017,Luxembourg,Turkey,24
+2017,Luxembourg,Ukraine,6
+2017,Luxembourg,Stateless,46
+2017,Latvia,Afghanistan,58
+2017,Latvia,Azerbaijan,6
+2017,Latvia,Belarus,7
+2017,Latvia,Egypt,5
+2017,Latvia,Eritrea,30
+2017,Latvia,Iran (Islamic Rep. of),23
+2017,Latvia,Iraq,34
+2017,Latvia,Kazakhstan,5
+2017,Latvia,Kyrgyzstan,10
+2017,Latvia,Palestinian,5
+2017,Latvia,Russian Federation,24
+2017,Latvia,Somalia,7
+2017,Latvia,Syrian Arab Rep.,393
+2017,Latvia,Tajikistan,5
+2017,Latvia,Turkey,14
+2017,Latvia,Uzbekistan,12
+2017,Morocco,Central African Rep.,243
+2017,Morocco,Côte d'Ivoire,311
+2017,Morocco,Cameroon,79
+2017,Morocco,Dem. Rep. of the Congo,178
+2017,Morocco,Congo,16
+2017,Morocco,Algeria,5
+2017,Morocco,Guinea,31
+2017,Morocco,Iraq,150
+2017,Morocco,Libya,32
+2017,Morocco,Mali,16
+2017,Morocco,Nigeria,9
+2017,Morocco,Pakistan,5
+2017,Morocco,Palestinian,71
+2017,Morocco,Sudan,5
+2017,Morocco,Senegal,57
+2017,Morocco,Syrian Arab Rep.,2953
+2017,Morocco,Yemen,517
+2017,Rep. of Moldova,Afghanistan,18
+2017,Rep. of Moldova,Armenia,19
+2017,Rep. of Moldova,Iraq,24
+2017,Rep. of Moldova,Kyrgyzstan,11
+2017,Rep. of Moldova,Palestinian,5
+2017,Rep. of Moldova,Sudan,9
+2017,Rep. of Moldova,Syrian Arab Rep.,204
+2017,Rep. of Moldova,Tajikistan,7
+2017,Rep. of Moldova,Ukraine,60
+2017,Rep. of Moldova,Uzbekistan,9
+2017,Rep. of Moldova,Yemen,5
+2017,Madagascar,Pakistan,12
+2017,Madagascar,Yemen,22
+2017,Mexico,Albania,8
+2017,Mexico,China,5
+2017,Mexico,Cameroon,18
+2017,Mexico,Dem. Rep. of the Congo,68
+2017,Mexico,Congo,19
+2017,Mexico,Colombia,284
+2017,Mexico,Cuba,69
+2017,Mexico,Dominican Rep.,9
+2017,Mexico,Eritrea,7
+2017,Mexico,Ethiopia,7
+2017,Mexico,Ghana,7
+2017,Mexico,Guatemala,627
+2017,Mexico,Honduras,2895
+2017,Mexico,Haiti,179
+2017,Mexico,India,11
+2017,Mexico,Iran (Islamic Rep. of),36
+2017,Mexico,Iraq,42
+2017,Mexico,Sri Lanka,19
+2017,Mexico,Nigeria,25
+2017,Mexico,Nicaragua,28
+2017,Mexico,Pakistan,7
+2017,Mexico,Peru,11
+2017,Mexico,Romania,7
+2017,Mexico,Russian Federation,19
+2017,Mexico,El Salvador,3332
+2017,Mexico,Syrian Arab Rep.,23
+2017,Mexico,Turkey,7
+2017,Mexico,Ukraine,9
+2017,Mexico,Venezuela (Bolivarian Republic of),1185
+2017,The former Yugoslav Republic of Macedonia,Serbia and Kosovo (S/RES/1244 (1999)),394
+2017,The former Yugoslav Republic of Macedonia,Syrian Arab Rep.,15
+2017,Mali,Burundi,7
+2017,Mali,Central African Rep.,809
+2017,Mali,Côte d'Ivoire,614
+2017,Mali,Dem. Rep. of the Congo,233
+2017,Mali,Congo,24
+2017,Mali,Mauritania,15319
+2017,Mali,Rwanda,7
+2017,Mali,Syrian Arab Rep.,9
+2017,Mali,Togo,14
+2017,Malta,Bangladesh,8
+2017,Malta,Belarus,9
+2017,Malta,China,15
+2017,Malta,Côte d'Ivoire,10
+2017,Malta,Cameroon,9
+2017,Malta,Egypt,74
+2017,Malta,Eritrea,782
+2017,Malta,Ethiopia,161
+2017,Malta,Ghana,5
+2017,Malta,Gambia,23
+2017,Malta,Iran (Islamic Rep. of),28
+2017,Malta,Iraq,72
+2017,Malta,Liberia,6
+2017,Malta,Libya,2459
+2017,Malta,Sri Lanka,7
+2017,Malta,Morocco,27
+2017,Malta,Mali,17
+2017,Malta,Nigeria,107
+2017,Malta,Pakistan,51
+2017,Malta,Palestinian,68
+2017,Malta,Russian Federation,12
+2017,Malta,Sudan,187
+2017,Malta,Somalia,1730
+2017,Malta,Serbia and Kosovo (S/RES/1244 (1999)),7
+2017,Malta,South Sudan,22
+2017,Malta,Syrian Arab Rep.,1289
+2017,Malta,Chad,6
+2017,Malta,Tunisia,12
+2017,Malta,Ukraine,120
+2017,Malta,Stateless,11
+2017,Montenegro,Bosnia and Herzegovina,29
+2017,Montenegro,Cuba,7
+2017,Montenegro,Croatia,14
+2017,Montenegro,Serbia and Kosovo (S/RES/1244 (1999)),729
+2017,Montenegro,Yemen,10
+2017,Mozambique,Burundi,982
+2017,Mozambique,Dem. Rep. of the Congo,2940
+2017,Mozambique,Congo,12
+2017,Mozambique,Rwanda,766
+2017,Mozambique,Somalia,159
+2017,Mozambique,Uganda,7
+2017,Mauritania,Central African Rep.,555
+2017,Mauritania,Côte d'Ivoire,269
+2017,Mauritania,Dem. Rep. of the Congo,47
+2017,Mauritania,Congo,9
+2017,Mauritania,Western Sahara,26001
+2017,Mauritania,Ethiopia,6
+2017,Mauritania,Guinea,8
+2017,Mauritania,Iraq,38
+2017,Mauritania,Mali,49829
+2017,Mauritania,Nigeria,17
+2017,Mauritania,Palestinian,40
+2017,Mauritania,Sudan,12
+2017,Mauritania,Senegal,70
+2017,Mauritania,Somalia,5
+2017,Mauritania,Syrian Arab Rep.,464
+2017,Mauritania,Togo,30
+2017,Malawi,Burundi,1649
+2017,Malawi,Dem. Rep. of the Congo,5334
+2017,Malawi,Ethiopia,5
+2017,Malawi,Rwanda,1943
+2017,Malawi,Somalia,46
+2017,Malaysia,Afghanistan,389
+2017,Malaysia,Bangladesh,27
+2017,Malaysia,China,15
+2017,Malaysia,Ethiopia,8
+2017,Malaysia,United Kingdom,5
+2017,Malaysia,Indonesia,883
+2017,Malaysia,Iran (Islamic Rep. of),187
+2017,Malaysia,Iraq,452
+2017,Malaysia,Jordan,5
+2017,Malaysia,Cambodia,71
+2017,Malaysia,Lebanon,6
+2017,Malaysia,Liberia,10
+2017,Malaysia,Sri Lanka,974
+2017,Malaysia,Myanmar,98041
+2017,Malaysia,Nepal,9
+2017,Malaysia,Pakistan,1092
+2017,Malaysia,Philippines,18
+2017,Malaysia,Palestinian,236
+2017,Malaysia,Sudan,68
+2017,Malaysia,Somalia,816
+2017,Malaysia,Syrian Arab Rep.,372
+2017,Malaysia,Thailand,24
+2017,Malaysia,United States of America,8
+2017,Malaysia,Yemen,76
+2017,Namibia,Burundi,275
+2017,Namibia,Cameroon,6
+2017,Namibia,Dem. Rep. of the Congo,1666
+2017,Namibia,Ethiopia,7
+2017,Namibia,Rwanda,145
+2017,Namibia,Somalia,9
+2017,Namibia,Uganda,5
+2017,Namibia,Zimbabwe,64
+2017,Niger,Central African Rep.,65
+2017,Niger,Côte d'Ivoire,51
+2017,Niger,Dem. Rep. of the Congo,75
+2017,Niger,Iraq,6
+2017,Niger,Libya,6
+2017,Niger,Mali,56838
+2017,Niger,Nigeria,108470
+2017,Niger,Rwanda,18
+2017,Niger,Sudan,9
+2017,Niger,Somalia,9
+2017,Niger,Syrian Arab Rep.,7
+2017,Niger,Chad,165
+2017,Nigeria,Afghanistan,5
+2017,Nigeria,Central African Rep.,403
+2017,Nigeria,Côte d'Ivoire,122
+2017,Nigeria,Cameroon,95
+2017,Nigeria,Dem. Rep. of the Congo,599
+2017,Nigeria,Eritrea,25
+2017,Nigeria,Ethiopia,6
+2017,Nigeria,Guinea,17
+2017,Nigeria,Guinea-Bissau,5
+2017,Nigeria,Liberia,9
+2017,Nigeria,Mali,137
+2017,Nigeria,Palestinian,8
+2017,Nigeria,Sudan,48
+2017,Nigeria,Sierra Leone,21
+2017,Nigeria,Syrian Arab Rep.,154
+2017,Nigeria,Chad,87
+2017,Nigeria,Togo,20
+2017,Nigeria,Turkey,139
+2017,Nicaragua,Colombia,6
+2017,Nicaragua,Cuba,15
+2017,Nicaragua,Guatemala,10
+2017,Nicaragua,Honduras,74
+2017,Nicaragua,El Salvador,217
+2017,Netherlands,Afghanistan,6205
+2017,Netherlands,Angola,58
+2017,Netherlands,Albania,8
+2017,Netherlands,Argentina,5
+2017,Netherlands,Armenia,416
+2017,Netherlands,Azerbaijan,253
+2017,Netherlands,Burundi,236
+2017,Netherlands,Benin,6
+2017,Netherlands,Burkina Faso,14
+2017,Netherlands,Bangladesh,40
+2017,Netherlands,Bosnia and Herzegovina,5
+2017,Netherlands,Belarus,61
+2017,Netherlands,Bhutan,185
+2017,Netherlands,Central African Rep.,7
+2017,Netherlands,China,1153
+2017,Netherlands,Côte d'Ivoire,314
+2017,Netherlands,Cameroon,80
+2017,Netherlands,Dem. Rep. of the Congo,271
+2017,Netherlands,Congo,484
+2017,Netherlands,Colombia,45
+2017,Netherlands,Cuba,14
+2017,Netherlands,Algeria,18
+2017,Netherlands,Ecuador,8
+2017,Netherlands,Egypt,218
+2017,Netherlands,Eritrea,14713
+2017,Netherlands,Ethiopia,597
+2017,Netherlands,Georgia,44
+2017,Netherlands,Ghana,6
+2017,Netherlands,Guinea,719
+2017,Netherlands,Gambia,38
+2017,Netherlands,Honduras,7
+2017,Netherlands,India,6
+2017,Netherlands,Iran (Islamic Rep. of),4757
+2017,Netherlands,Iraq,11369
+2017,Netherlands,Jamaica,182
+2017,Netherlands,Jordan,18
+2017,Netherlands,Kazakhstan,41
+2017,Netherlands,Kenya,39
+2017,Netherlands,Kyrgyzstan,21
+2017,Netherlands,Cambodia,17
+2017,Netherlands,Kuwait,5
+2017,Netherlands,Lao People's Dem. Rep.,33
+2017,Netherlands,Lebanon,33
+2017,Netherlands,Liberia,78
+2017,Netherlands,Libya,295
+2017,Netherlands,Sri Lanka,689
+2017,Netherlands,Morocco,44
+2017,Netherlands,Mali,16
+2017,Netherlands,Myanmar,732
+2017,Netherlands,Mongolia,40
+2017,Netherlands,Mauritania,7
+2017,Netherlands,Malaysia,7
+2017,Netherlands,Niger,6
+2017,Netherlands,Nigeria,303
+2017,Netherlands,Nepal,294
+2017,Netherlands,Pakistan,428
+2017,Netherlands,Peru,9
+2017,Netherlands,Dem. People's Rep. of Korea,48
+2017,Netherlands,Palestinian,168
+2017,Netherlands,Russian Federation,274
+2017,Netherlands,Rwanda,67
+2017,Netherlands,Saudi Arabia,13
+2017,Netherlands,Sudan,790
+2017,Netherlands,Senegal,30
+2017,Netherlands,Sierra Leone,516
+2017,Netherlands,Somalia,15478
+2017,Netherlands,Serbia and Kosovo (S/RES/1244 (1999)),30
+2017,Netherlands,Syrian Arab Rep.,30851
+2017,Netherlands,Chad,5
+2017,Netherlands,Togo,37
+2017,Netherlands,Tajikistan,34
+2017,Netherlands,Trinidad and Tobago,56
+2017,Netherlands,Tunisia,18
+2017,Netherlands,Turkey,520
+2017,Netherlands,United Rep. of Tanzania,6
+2017,Netherlands,Uganda,526
+2017,Netherlands,Ukraine,23
+2017,Netherlands,Uzbekistan,64
+2017,Netherlands,Stateless,5423
+2017,Netherlands,Yemen,250
+2017,Netherlands,Zambia,8
+2017,Netherlands,Zimbabwe,36
+2017,Norway,Afghanistan,6490
+2017,Norway,Angola,35
+2017,Norway,Albania,27
+2017,Norway,Azerbaijan,46
+2017,Norway,Burundi,74
+2017,Norway,Burkina Faso,5
+2017,Norway,Bangladesh,10
+2017,Norway,Bulgaria,13
+2017,Norway,Bosnia and Herzegovina,7
+2017,Norway,Belarus,6
+2017,Norway,Central African Rep.,7
+2017,Norway,China,607
+2017,Norway,Côte d'Ivoire,23
+2017,Norway,Cameroon,26
+2017,Norway,Dem. Rep. of the Congo,212
+2017,Norway,Congo,7
+2017,Norway,Colombia,17
+2017,Norway,Cuba,7
+2017,Norway,Algeria,12
+2017,Norway,Egypt,58
+2017,Norway,Eritrea,15456
+2017,Norway,Ethiopia,2125
+2017,Norway,Ghana,8
+2017,Norway,Guinea,54
+2017,Norway,Gambia,15
+2017,Norway,Guatemala,7
+2017,Norway,Honduras,5
+2017,Norway,Iran (Islamic Rep. of),2036
+2017,Norway,Iraq,2564
+2017,Norway,Israel,11
+2017,Norway,Jordan,9
+2017,Norway,Kazakhstan,13
+2017,Norway,Kenya,9
+2017,Norway,Kyrgyzstan,19
+2017,Norway,Kuwait,8
+2017,Norway,Lebanon,34
+2017,Norway,Liberia,16
+2017,Norway,Libya,62
+2017,Norway,Sri Lanka,218
+2017,Norway,Morocco,29
+2017,Norway,Mali,8
+2017,Norway,Myanmar,130
+2017,Norway,Nigeria,178
+2017,Norway,Nepal,10
+2017,Norway,Pakistan,99
+2017,Norway,Philippines,6
+2017,Norway,Dem. People's Rep. of Korea,5
+2017,Norway,Russian Federation,998
+2017,Norway,Rwanda,45
+2017,Norway,Sudan,1961
+2017,Norway,Sierra Leone,15
+2017,Norway,Somalia,7527
+2017,Norway,Serbia and Kosovo (S/RES/1244 (1999)),1990
+2017,Norway,South Sudan,13
+2017,Norway,Syrian Arab Rep.,11498
+2017,Norway,Tajikistan,11
+2017,Norway,Turkmenistan,8
+2017,Norway,Turkey,200
+2017,Norway,Uganda,119
+2017,Norway,Ukraine,9
+2017,Norway,Uzbekistan,240
+2017,Norway,Viet Nam,45
+2017,Norway,Stateless,3367
+2017,Norway,Yemen,231
+2017,Norway,Zimbabwe,14
+2017,Nepal,Afghanistan,57
+2017,Nepal,Bangladesh,12
+2017,Nepal,Bhutan,7422
+2017,Nepal,Iran (Islamic Rep. of),5
+2017,Nepal,Sri Lanka,20
+2017,Nepal,Myanmar,190
+2017,Nepal,Pakistan,228
+2017,Nepal,Somalia,24
+2017,Nepal,Tibetan,13509
+2017,Nauru,Afghanistan,81
+2017,Nauru,Bangladesh,9
+2017,Nauru,India,11
+2017,Nauru,Iran (Islamic Rep. of),316
+2017,Nauru,Iraq,43
+2017,Nauru,Lebanon,14
+2017,Nauru,Sri Lanka,101
+2017,Nauru,Myanmar,115
+2017,Nauru,Pakistan,120
+2017,Nauru,Sudan,13
+2017,Nauru,Somalia,56
+2017,Nauru,Stateless,65
+2017,New Zealand,Afghanistan,42
+2017,New Zealand,Bangladesh,7
+2017,New Zealand,Bahrain,24
+2017,New Zealand,China,153
+2017,New Zealand,Colombia,24
+2017,New Zealand,Czech Rep.,17
+2017,New Zealand,Algeria,6
+2017,New Zealand,Egypt,28
+2017,New Zealand,Eritrea,7
+2017,New Zealand,Ethiopia,9
+2017,New Zealand,Fiji,29
+2017,New Zealand,Hungary,8
+2017,New Zealand,Indonesia,5
+2017,New Zealand,India,6
+2017,New Zealand,Iran (Islamic Rep. of),159
+2017,New Zealand,Iraq,132
+2017,New Zealand,Jordan,8
+2017,New Zealand,Kuwait,7
+2017,New Zealand,Libya,22
+2017,New Zealand,Sri Lanka,81
+2017,New Zealand,Myanmar,12
+2017,New Zealand,Malaysia,5
+2017,New Zealand,Nepal,5
+2017,New Zealand,Pakistan,57
+2017,New Zealand,Palestinian,15
+2017,New Zealand,Russian Federation,6
+2017,New Zealand,Saudi Arabia,59
+2017,New Zealand,Sudan,7
+2017,New Zealand,Somalia,17
+2017,New Zealand,Syrian Arab Rep.,65
+2017,New Zealand,Turkey,43
+2017,New Zealand,Viet Nam,8
+2017,New Zealand,South Africa,10
+2017,New Zealand,Zimbabwe,32
+2017,Oman,Iraq,301
+2017,Oman,Syrian Arab Rep.,7
+2017,Pakistan,Afghanistan,1392610
+2017,Pakistan,Algeria,17
+2017,Pakistan,Iran (Islamic Rep. of),48
+2017,Pakistan,Iraq,21
+2017,Pakistan,Myanmar,21
+2017,Pakistan,Palestinian,22
+2017,Pakistan,Russian Federation,7
+2017,Pakistan,Somalia,232
+2017,Pakistan,Syrian Arab Rep.,29
+2017,Pakistan,Tajikistan,6
+2017,Pakistan,Turkey,6
+2017,Pakistan,Yemen,113
+2017,Panama,Belarus,7
+2017,Panama,Cameroon,8
+2017,Panama,Dem. Rep. of the Congo,5
+2017,Panama,Colombia,1660
+2017,Panama,Cuba,120
+2017,Panama,Guatemala,12
+2017,Panama,Haiti,19
+2017,Panama,Nigeria,10
+2017,Panama,Nicaragua,173
+2017,Panama,Peru,23
+2017,Panama,El Salvador,302
+2017,Panama,Venezuela (Bolivarian Republic of),33
+2017,Peru,Bangladesh,20
+2017,Peru,Bosnia and Herzegovina,5
+2017,Peru,Bolivia (Plurinational State of),9
+2017,Peru,Dem. Rep. of the Congo,5
+2017,Peru,Colombia,604
+2017,Peru,Cuba,577
+2017,Peru,Dominican Rep.,13
+2017,Peru,Ecuador,5
+2017,Peru,Haiti,48
+2017,Peru,Hungary,6
+2017,Peru,India,6
+2017,Peru,Iran (Islamic Rep. of),10
+2017,Peru,Iraq,17
+2017,Peru,Nigeria,16
+2017,Peru,Palestinian,35
+2017,Peru,Russian Federation,16
+2017,Peru,Serbia and Kosovo (S/RES/1244 (1999)),64
+2017,Peru,Syrian Arab Rep.,38
+2017,Peru,Ukraine,15
+2017,Peru,Venezuela (Bolivarian Republic of),249
+2017,Philippines,Afghanistan,13
+2017,Philippines,Burundi,10
+2017,Philippines,Côte d'Ivoire,18
+2017,Philippines,Dem. Rep. of the Congo,5
+2017,Philippines,Eritrea,16
+2017,Philippines,Iran (Islamic Rep. of),66
+2017,Philippines,Iraq,46
+2017,Philippines,Liberia,5
+2017,Philippines,Sri Lanka,20
+2017,Philippines,Myanmar,10
+2017,Philippines,Pakistan,77
+2017,Philippines,Palestinian,48
+2017,Philippines,Rwanda,19
+2017,Philippines,Sudan,5
+2017,Philippines,Somalia,25
+2017,Philippines,Syrian Arab Rep.,74
+2017,Philippines,Turkey,10
+2017,Philippines,Viet Nam,15
+2017,Papua New Guinea,Afghanistan,117
+2017,Papua New Guinea,Bangladesh,20
+2017,Papua New Guinea,Indonesia,9368
+2017,Papua New Guinea,Iran (Islamic Rep. of),156
+2017,Papua New Guinea,Iraq,47
+2017,Papua New Guinea,Sri Lanka,21
+2017,Papua New Guinea,Pakistan,96
+2017,Papua New Guinea,Sudan,75
+2017,Papua New Guinea,Somalia,39
+2017,Papua New Guinea,Stateless,79
+2017,Poland,Afghanistan,99
+2017,Poland,Armenia,78
+2017,Poland,Bangladesh,7
+2017,Poland,Belarus,187
+2017,Poland,China,18
+2017,Poland,Cameroon,10
+2017,Poland,Dem. Rep. of the Congo,5
+2017,Poland,Congo,6
+2017,Poland,Cuba,17
+2017,Poland,Egypt,56
+2017,Poland,Eritrea,30
+2017,Poland,Georgia,72
+2017,Poland,Iran (Islamic Rep. of),26
+2017,Poland,Iraq,229
+2017,Poland,Kazakhstan,52
+2017,Poland,Kenya,5
+2017,Poland,Kyrgyzstan,45
+2017,Poland,Libya,22
+2017,Poland,Sri Lanka,49
+2017,Poland,Mongolia,19
+2017,Poland,Nigeria,10
+2017,Poland,Nepal,7
+2017,Poland,Pakistan,18
+2017,Poland,Palestinian,16
+2017,Poland,Russian Federation,9950
+2017,Poland,Rwanda,5
+2017,Poland,Somalia,46
+2017,Poland,Syrian Arab Rep.,512
+2017,Poland,Tajikistan,49
+2017,Poland,Turkmenistan,32
+2017,Poland,Turkey,17
+2017,Poland,Uganda,6
+2017,Poland,Ukraine,369
+2017,Poland,Uzbekistan,14
+2017,Poland,Viet Nam,15
+2017,Poland,Stateless,87
+2017,Poland,Yemen,5
+2017,Portugal,Afghanistan,18
+2017,Portugal,Bosnia and Herzegovina,11
+2017,Portugal,Belarus,17
+2017,Portugal,Central African Rep.,8
+2017,Portugal,Côte d'Ivoire,33
+2017,Portugal,Cameroon,13
+2017,Portugal,Dem. Rep. of the Congo,63
+2017,Portugal,Congo,7
+2017,Portugal,Colombia,71
+2017,Portugal,Cuba,6
+2017,Portugal,Eritrea,140
+2017,Portugal,Guinea,103
+2017,Portugal,Gambia,5
+2017,Portugal,Guinea-Bissau,13
+2017,Portugal,Iran (Islamic Rep. of),38
+2017,Portugal,Iraq,57
+2017,Portugal,Kenya,6
+2017,Portugal,Libya,14
+2017,Portugal,Sri Lanka,48
+2017,Portugal,Morocco,9
+2017,Portugal,Mali,13
+2017,Portugal,Nigeria,27
+2017,Portugal,Pakistan,60
+2017,Portugal,Russian Federation,18
+2017,Portugal,Senegal,7
+2017,Portugal,Sierra Leone,27
+2017,Portugal,Somalia,51
+2017,Portugal,Syrian Arab Rep.,307
+2017,Portugal,Togo,6
+2017,Portugal,Ukraine,373
+2017,Paraguay,Bolivia (Plurinational State of),17
+2017,Paraguay,Colombia,35
+2017,Paraguay,Cuba,65
+2017,Paraguay,Iraq,6
+2017,Paraguay,Russian Federation,8
+2017,Paraguay,Syrian Arab Rep.,53
+2017,Paraguay,Venezuela (Bolivarian Republic of),5
+2017,Paraguay,Viet Nam,6
+2017,Qatar,Egypt,9
+2017,Qatar,Iraq,137
+2017,Qatar,Somalia,8
+2017,Qatar,Syrian Arab Rep.,34
+2017,Romania,Afghanistan,152
+2017,Romania,Angola,5
+2017,Romania,Burundi,6
+2017,Romania,Central African Rep.,10
+2017,Romania,Cameroon,24
+2017,Romania,Dem. Rep. of the Congo,23
+2017,Romania,Congo,7
+2017,Romania,Egypt,19
+2017,Romania,Eritrea,53
+2017,Romania,Ethiopia,5
+2017,Romania,Guinea,7
+2017,Romania,Iran (Islamic Rep. of),66
+2017,Romania,Iraq,806
+2017,Romania,Jordan,7
+2017,Romania,Lebanon,6
+2017,Romania,Libya,6
+2017,Romania,Myanmar,29
+2017,Romania,Nigeria,5
+2017,Romania,Pakistan,40
+2017,Romania,Palestinian,42
+2017,Romania,Rwanda,8
+2017,Romania,Sudan,15
+2017,Romania,Somalia,43
+2017,Romania,Syrian Arab Rep.,2282
+2017,Romania,Turkey,25
+2017,Romania,Ukraine,37
+2017,Romania,Stateless,113
+2017,Romania,Yemen,27
+2017,Romania,Zimbabwe,8
+2017,Russian Federation,Afghanistan,661
+2017,Russian Federation,Azerbaijan,15
+2017,Russian Federation,Bangladesh,5
+2017,Russian Federation,Dem. Rep. of the Congo,5
+2017,Russian Federation,Germany,10
+2017,Russian Federation,Georgia,198
+2017,Russian Federation,Iran (Islamic Rep. of),6
+2017,Russian Federation,Iraq,24
+2017,Russian Federation,Kazakhstan,5
+2017,Russian Federation,Kyrgyzstan,25
+2017,Russian Federation,Lebanon,6
+2017,Russian Federation,Lithuania,5
+2017,Russian Federation,Rep. of Moldova,21
+2017,Russian Federation,Dem. People's Rep. of Korea,77
+2017,Russian Federation,Palestinian,9
+2017,Russian Federation,Sudan,6
+2017,Russian Federation,Syrian Arab Rep.,1130
+2017,Russian Federation,Tajikistan,23
+2017,Russian Federation,Turkmenistan,5
+2017,Russian Federation,Ukraine,123600
+2017,Russian Federation,Uzbekistan,79
+2017,Russian Federation,Stateless,17
+2017,Russian Federation,Yemen,54
+2017,Rwanda,Angola,5
+2017,Rwanda,Burundi,88209
+2017,Rwanda,Dem. Rep. of the Congo,82750
+2017,Rwanda,Eritrea,5
+2017,Rwanda,Chad,7
+2017,Saudi Arabia,China,14
+2017,Saudi Arabia,Eritrea,32
+2017,Saudi Arabia,Iraq,32
+2017,Saudi Arabia,Liberia,7
+2017,Saudi Arabia,Palestinian,9
+2017,Saudi Arabia,Somalia,16
+2017,Saudi Arabia,Syrian Arab Rep.,14
+2017,Saudi Arabia,Chad,9
+2017,Saudi Arabia,Tunisia,6
+2017,Saudi Arabia,Yemen,9
+2017,Sudan,Burundi,15
+2017,Sudan,Central African Rep.,2277
+2017,Sudan,Cameroon,7
+2017,Sudan,Dem. Rep. of the Congo,59
+2017,Sudan,Egypt,7
+2017,Sudan,Eritrea,108243
+2017,Sudan,Ethiopia,4273
+2017,Sudan,Iraq,16
+2017,Sudan,Palestinian,59
+2017,Sudan,Somalia,208
+2017,Sudan,South Sudan,772715
+2017,Sudan,Syrian Arab Rep.,11240
+2017,Sudan,Chad,7458
+2017,Senegal,Burundi,55
+2017,Senegal,Central African Rep.,289
+2017,Senegal,Côte d'Ivoire,39
+2017,Senegal,Cameroon,12
+2017,Senegal,Dem. Rep. of the Congo,30
+2017,Senegal,Congo,19
+2017,Senegal,Algeria,9
+2017,Senegal,Guinea,10
+2017,Senegal,Gambia,44
+2017,Senegal,Liberia,61
+2017,Senegal,Mauritania,13779
+2017,Senegal,Nigeria,7
+2017,Senegal,Rwanda,274
+2017,Senegal,Chad,18
+2017,Sierra Leone,Côte d'Ivoire,17
+2017,Sierra Leone,Liberia,653
+2017,Sierra Leone,Sudan,8
+2017,El Salvador,Honduras,14
+2017,El Salvador,Iraq,5
+2017,El Salvador,Nicaragua,6
+2017,El Salvador,Syrian Arab Rep.,5
+2017,Somalia,Bangladesh,6
+2017,Somalia,Eritrea,49
+2017,Somalia,Ethiopia,3608
+2017,Somalia,Palestinian,15
+2017,Somalia,Syrian Arab Rep.,172
+2017,Somalia,Yemen,10705
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Afghanistan,2182
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Bosnia and Herzegovina,8764
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Cuba,5
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Croatia,5
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Croatia,19038
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Iran (Islamic Rep. of),377
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Iraq,513
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Libya,32
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Sudan,5
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Syrian Arab Rep.,73
+2017,Serbia and Kosovo (S/RES/1244 (1999)),Ukraine,15
+2017,South Sudan,Central African Rep.,1869
+2017,South Sudan,Dem. Rep. of the Congo,14961
+2017,South Sudan,Eritrea,32
+2017,South Sudan,Ethiopia,4555
+2017,South Sudan,Sudan,261983
+2017,Suriname,Cuba,29
+2017,Slovakia,Afghanistan,246
+2017,Slovakia,Angola,24
+2017,Slovakia,Armenia,34
+2017,Slovakia,Bulgaria,8
+2017,Slovakia,Bosnia and Herzegovina,36
+2017,Slovakia,China,5
+2017,Slovakia,Cameroon,7
+2017,Slovakia,Dem. Rep. of the Congo,16
+2017,Slovakia,Cuba,40
+2017,Slovakia,Egypt,5
+2017,Slovakia,Iran (Islamic Rep. of),28
+2017,Slovakia,Iraq,209
+2017,Slovakia,Pakistan,6
+2017,Slovakia,Palestinian,7
+2017,Slovakia,Romania,37
+2017,Slovakia,Russian Federation,37
+2017,Slovakia,Somalia,31
+2017,Slovakia,Serbia and Kosovo (S/RES/1244 (1999)),46
+2017,Slovakia,Syrian Arab Rep.,17
+2017,Slovakia,Ukraine,23
+2017,Slovakia,Viet Nam,16
+2017,Slovakia,Stateless,9
+2017,Slovenia,Afghanistan,41
+2017,Slovenia,Bosnia and Herzegovina,8
+2017,Slovenia,Dem. Rep. of the Congo,8
+2017,Slovenia,Eritrea,56
+2017,Slovenia,Iran (Islamic Rep. of),60
+2017,Slovenia,Iraq,39
+2017,Slovenia,Kazakhstan,19
+2017,Slovenia,Palestinian,11
+2017,Slovenia,Russian Federation,15
+2017,Slovenia,Sudan,6
+2017,Slovenia,Somalia,48
+2017,Slovenia,Serbia and Kosovo (S/RES/1244 (1999)),65
+2017,Slovenia,Syrian Arab Rep.,215
+2017,Sweden,Afghanistan,25645
+2017,Sweden,Angola,38
+2017,Sweden,Albania,329
+2017,Sweden,Armenia,474
+2017,Sweden,Azerbaijan,685
+2017,Sweden,Burundi,200
+2017,Sweden,Benin,5
+2017,Sweden,Bangladesh,229
+2017,Sweden,Bulgaria,16
+2017,Sweden,Bahrain,15
+2017,Sweden,Bosnia and Herzegovina,160
+2017,Sweden,Belarus,134
+2017,Sweden,Bolivia (Plurinational State of),64
+2017,Sweden,Brazil,8
+2017,Sweden,Bhutan,8
+2017,Sweden,Chile,19
+2017,Sweden,China,282
+2017,Sweden,Côte d'Ivoire,61
+2017,Sweden,Cameroon,152
+2017,Sweden,Dem. Rep. of the Congo,324
+2017,Sweden,Congo,50
+2017,Sweden,Colombia,30
+2017,Sweden,Cuba,60
+2017,Sweden,Germany,5
+2017,Sweden,Djibouti,21
+2017,Sweden,Algeria,66
+2017,Sweden,Ecuador,8
+2017,Sweden,Egypt,347
+2017,Sweden,Eritrea,27153
+2017,Sweden,Ethiopia,2005
+2017,Sweden,United Kingdom,7
+2017,Sweden,Georgia,133
+2017,Sweden,Ghana,56
+2017,Sweden,Guinea,80
+2017,Sweden,Gambia,147
+2017,Sweden,Guinea-Bissau,7
+2017,Sweden,Greece,18
+2017,Sweden,Guatemala,9
+2017,Sweden,Honduras,11
+2017,Sweden,Indonesia,15
+2017,Sweden,India,29
+2017,Sweden,Iran (Islamic Rep. of),5867
+2017,Sweden,Iraq,15524
+2017,Sweden,Israel,33
+2017,Sweden,Jordan,344
+2017,Sweden,Kazakhstan,266
+2017,Sweden,Kenya,93
+2017,Sweden,Kyrgyzstan,177
+2017,Sweden,Rep. of Korea,6
+2017,Sweden,Kuwait,23
+2017,Sweden,Lebanon,534
+2017,Sweden,Liberia,13
+2017,Sweden,Libya,404
+2017,Sweden,Sri Lanka,48
+2017,Sweden,Latvia,8
+2017,Sweden,Morocco,230
+2017,Sweden,Rep. of Moldova,8
+2017,Sweden,The former Yugoslav Republic of Macedonia,55
+2017,Sweden,Mali,24
+2017,Sweden,Myanmar,16
+2017,Sweden,Montenegro,40
+2017,Sweden,Mongolia,315
+2017,Sweden,Mauritania,12
+2017,Sweden,Malaysia,8
+2017,Sweden,Nigeria,510
+2017,Sweden,Nicaragua,9
+2017,Sweden,Nepal,19
+2017,Sweden,Pakistan,461
+2017,Sweden,Peru,11
+2017,Sweden,Philippines,7
+2017,Sweden,Dem. People's Rep. of Korea,5
+2017,Sweden,Palestinian,983
+2017,Sweden,Romania,63
+2017,Sweden,Russian Federation,1628
+2017,Sweden,Rwanda,38
+2017,Sweden,Saudi Arabia,46
+2017,Sweden,Sudan,841
+2017,Sweden,Senegal,45
+2017,Sweden,Sierra Leone,69
+2017,Sweden,El Salvador,78
+2017,Sweden,Somalia,21973
+2017,Sweden,Serbia and Kosovo (S/RES/1244 (1999)),1455
+2017,Sweden,Slovakia,6
+2017,Sweden,Syrian Arab Rep.,103614
+2017,Sweden,Chad,19
+2017,Sweden,Togo,7
+2017,Sweden,Thailand,8
+2017,Sweden,Tajikistan,58
+2017,Sweden,Turkmenistan,13
+2017,Sweden,Tunisia,55
+2017,Sweden,Turkey,270
+2017,Sweden,United Rep. of Tanzania,40
+2017,Sweden,Uganda,669
+2017,Sweden,Ukraine,208
+2017,Sweden,United States of America,20
+2017,Sweden,Uzbekistan,616
+2017,Sweden,Venezuela (Bolivarian Republic of),6
+2017,Sweden,Viet Nam,68
+2017,Sweden,Stateless,22072
+2017,Sweden,Yemen,1099
+2017,Sweden,Zambia,11
+2017,Sweden,Zimbabwe,24
+2017,Swaziland,Angola,11
+2017,Swaziland,Burundi,160
+2017,Swaziland,Dem. Rep. of the Congo,355
+2017,Swaziland,Rwanda,153
+2017,Swaziland,Somalia,73
+2017,Swaziland,Uganda,6
+2017,Swaziland,Zimbabwe,7
+2017,Sint Maarten (Dutch part),Iran (Islamic Rep. of),5
+2017,Syrian Arab Rep.,Afghanistan,1221
+2017,Syrian Arab Rep.,Algeria,5
+2017,Syrian Arab Rep.,Egypt,35
+2017,Syrian Arab Rep.,Eritrea,23
+2017,Syrian Arab Rep.,Ethiopia,19
+2017,Syrian Arab Rep.,Guinea,51
+2017,Syrian Arab Rep.,Iran (Islamic Rep. of),45
+2017,Syrian Arab Rep.,Iraq,16325
+2017,Syrian Arab Rep.,Jordan,25
+2017,Syrian Arab Rep.,Kuwait,5
+2017,Syrian Arab Rep.,Lebanon,24
+2017,Syrian Arab Rep.,Libya,14
+2017,Syrian Arab Rep.,Morocco,6
+2017,Syrian Arab Rep.,Pakistan,173
+2017,Syrian Arab Rep.,Saudi Arabia,11
+2017,Syrian Arab Rep.,Sudan,762
+2017,Syrian Arab Rep.,Sierra Leone,19
+2017,Syrian Arab Rep.,Somalia,404
+2017,Syrian Arab Rep.,South Sudan,110
+2017,Syrian Arab Rep.,Chad,8
+2017,Syrian Arab Rep.,Turkey,7
+2017,Syrian Arab Rep.,Yemen,123
+2017,Chad,Central African Rep.,76653
+2017,Chad,Cameroon,11
+2017,Chad,Dem. Rep. of the Congo,316
+2017,Chad,Congo,9
+2017,Chad,Eritrea,6
+2017,Chad,Ethiopia,13
+2017,Chad,Libya,9
+2017,Chad,Niger,495
+2017,Chad,Nigeria,9541
+2017,Chad,Rwanda,17
+2017,Chad,Sudan,324327
+2017,Chad,Somalia,10
+2017,Chad,South Sudan,8
+2017,Chad,Syrian Arab Rep.,39
+2017,Chad,Turkey,6
+2017,Togo,Central African Rep.,349
+2017,Togo,Côte d'Ivoire,1991
+2017,Togo,Dem. Rep. of the Congo,99
+2017,Togo,Congo,27
+2017,Togo,Ghana,9695
+2017,Togo,Iraq,5
+2017,Togo,Mali,91
+2017,Togo,Nigeria,8
+2017,Togo,Rwanda,137
+2017,Togo,Chad,18
+2017,Thailand,Afghanistan,88
+2017,Thailand,China,179
+2017,Thailand,Côte d'Ivoire,16
+2017,Thailand,Dem. Rep. of the Congo,33
+2017,Thailand,Egypt,16
+2017,Thailand,Eritrea,8
+2017,Thailand,Ethiopia,13
+2017,Thailand,Iran (Islamic Rep. of),57
+2017,Thailand,Iraq,305
+2017,Thailand,Cambodia,166
+2017,Thailand,Sri Lanka,156
+2017,Thailand,Myanmar,99982
+2017,Thailand,Nepal,11
+2017,Thailand,Pakistan,2075
+2017,Thailand,Palestinian,413
+2017,Thailand,Sudan,14
+2017,Thailand,Somalia,223
+2017,Thailand,Syrian Arab Rep.,327
+2017,Thailand,Togo,5
+2017,Thailand,Viet Nam,450
+2017,Thailand,Yemen,40
+2017,Thailand,Zimbabwe,8
+2017,Tajikistan,Afghanistan,2516
+2017,Turkmenistan,Afghanistan,14
+2017,Turkmenistan,Azerbaijan,8
+2017,Trinidad and Tobago,Bangladesh,10
+2017,Trinidad and Tobago,Colombia,14
+2017,Trinidad and Tobago,Cuba,108
+2017,Trinidad and Tobago,Jamaica,19
+2017,Trinidad and Tobago,Mexico,6
+2017,Trinidad and Tobago,Pakistan,10
+2017,Trinidad and Tobago,Syrian Arab Rep.,53
+2017,Trinidad and Tobago,Venezuela (Bolivarian Republic of),47
+2017,Tunisia,Algeria,7
+2017,Tunisia,Iran (Islamic Rep. of),6
+2017,Tunisia,Iraq,15
+2017,Tunisia,Palestinian,29
+2017,Tunisia,Rwanda,6
+2017,Tunisia,Sudan,26
+2017,Tunisia,Somalia,9
+2017,Tunisia,Syrian Arab Rep.,603
+2017,Turkey,Afghanistan,5603
+2017,Turkey,United Arab Emirates,6
+2017,Turkey,Burundi,6
+2017,Turkey,China,13
+2017,Turkey,Côte d'Ivoire,15
+2017,Turkey,Cameroon,11
+2017,Turkey,Dem. Rep. of the Congo,51
+2017,Turkey,Congo,6
+2017,Turkey,Egypt,51
+2017,Turkey,Eritrea,75
+2017,Turkey,Ethiopia,95
+2017,Turkey,Guinea,12
+2017,Turkey,Iran (Islamic Rep. of),8308
+2017,Turkey,Iraq,37319
+2017,Turkey,Jordan,35
+2017,Turkey,Kyrgyzstan,190
+2017,Turkey,Lebanon,13
+2017,Turkey,Libya,23
+2017,Turkey,Sri Lanka,15
+2017,Turkey,Morocco,31
+2017,Turkey,Mauritania,8
+2017,Turkey,Nigeria,11
+2017,Turkey,Pakistan,56
+2017,Turkey,Palestinian,1147
+2017,Turkey,Russian Federation,5
+2017,Turkey,Sudan,274
+2017,Turkey,Sierra Leone,5
+2017,Turkey,Somalia,2219
+2017,Turkey,Syrian Arab Rep.,3424237
+2017,Turkey,Tajikistan,8
+2017,Turkey,Turkmenistan,6
+2017,Turkey,Tunisia,14
+2017,Turkey,Uganda,24
+2017,Turkey,Uzbekistan,51
+2017,Turkey,Stateless,206
+2017,Turkey,Yemen,161
+2017,United Rep. of Tanzania,Burundi,251227
+2017,United Rep. of Tanzania,Dem. Rep. of the Congo,56906
+2017,United Rep. of Tanzania,Somalia,150
+2017,Uganda,Burundi,38245
+2017,Uganda,Central African Rep.,21
+2017,Uganda,Dem. Rep. of the Congo,226192
+2017,Uganda,Eritrea,4566
+2017,Uganda,Ethiopia,1944
+2017,Uganda,Kenya,193
+2017,Uganda,Pakistan,224
+2017,Uganda,Rwanda,14282
+2017,Uganda,Sudan,2355
+2017,Uganda,Senegal,5
+2017,Uganda,Somalia,25011
+2017,Uganda,South Sudan,1037412
+2017,Uganda,Syrian Arab Rep.,7
+2017,Uganda,Chad,5
+2017,Uganda,Yemen,33
+2017,Ukraine,Afghanistan,1410
+2017,Ukraine,Angola,26
+2017,Ukraine,Armenia,192
+2017,Ukraine,Azerbaijan,149
+2017,Ukraine,Burundi,6
+2017,Ukraine,Belarus,26
+2017,Ukraine,Dem. Rep. of the Congo,68
+2017,Ukraine,Congo,20
+2017,Ukraine,Eritrea,16
+2017,Ukraine,Ethiopia,20
+2017,Ukraine,Georgia,48
+2017,Ukraine,Guinea,7
+2017,Ukraine,Iran (Islamic Rep. of),58
+2017,Ukraine,Iraq,91
+2017,Ukraine,Kazakhstan,11
+2017,Ukraine,Kyrgyzstan,12
+2017,Ukraine,Lebanon,9
+2017,Ukraine,Sri Lanka,8
+2017,Ukraine,Nigeria,5
+2017,Ukraine,Pakistan,9
+2017,Ukraine,Palestinian,37
+2017,Ukraine,Russian Federation,150
+2017,Ukraine,Sudan,60
+2017,Ukraine,Sierra Leone,5
+2017,Ukraine,Somalia,132
+2017,Ukraine,Syrian Arab Rep.,483
+2017,Ukraine,Chad,7
+2017,Ukraine,Tajikistan,16
+2017,Ukraine,Turkmenistan,5
+2017,Ukraine,Turkey,14
+2017,Ukraine,Uzbekistan,60
+2017,Ukraine,Stateless,51
+2017,Uruguay,Cameroon,8
+2017,Uruguay,Colombia,141
+2017,Uruguay,Cuba,12
+2017,Uruguay,Ecuador,7
+2017,Uruguay,Latvia,5
+2017,Uruguay,Mexico,5
+2017,Uruguay,Nigeria,13
+2017,Uruguay,Peru,6
+2017,Uruguay,Russian Federation,12
+2017,Uruguay,El Salvador,18
+2017,Uruguay,Syrian Arab Rep.,61
+2017,Uruguay,Ukraine,11
+2017,Uruguay,Venezuela (Bolivarian Republic of),5
+2017,United States of America,Afghanistan,1564
+2017,United States of America,Angola,157
+2017,United States of America,Albania,1527
+2017,United States of America,United Arab Emirates,39
+2017,United States of America,Argentina,55
+2017,United States of America,Armenia,1663
+2017,United States of America,Azerbaijan,298
+2017,United States of America,Burundi,747
+2017,United States of America,Belgium,32
+2017,United States of America,Benin,97
+2017,United States of America,Burkina Faso,1163
+2017,United States of America,Bangladesh,1248
+2017,United States of America,Bulgaria,352
+2017,United States of America,Bahrain,45
+2017,United States of America,Bahamas,179
+2017,United States of America,Bosnia and Herzegovina,101
+2017,United States of America,Belarus,1537
+2017,United States of America,Belize,43
+2017,United States of America,Bolivia (Plurinational State of),113
+2017,United States of America,Brazil,593
+2017,United States of America,Bhutan,43
+2017,United States of America,Central African Rep.,210
+2017,United States of America,Canada,42
+2017,United States of America,Chile,27
+2017,United States of America,China,74476
+2017,United States of America,Côte d'Ivoire,1263
+2017,United States of America,Cameroon,3992
+2017,United States of America,Dem. Rep. of the Congo,939
+2017,United States of America,Congo,1331
+2017,United States of America,Colombia,4264
+2017,United States of America,Costa Rica,170
+2017,United States of America,Cuba,431
+2017,United States of America,Curaçao,35
+2017,United States of America,Cayman Islands,6
+2017,United States of America,Czech Rep.,18
+2017,United States of America,Germany,40
+2017,United States of America,Djibouti,282
+2017,United States of America,Dominica,10
+2017,United States of America,Dominican Rep.,179
+2017,United States of America,Algeria,131
+2017,United States of America,Ecuador,948
+2017,United States of America,Egypt,11926
+2017,United States of America,Eritrea,5145
+2017,United States of America,Spain,11
+2017,United States of America,Estonia,266
+2017,United States of America,Ethiopia,9987
+2017,United States of America,Fiji,231
+2017,United States of America,France,24
+2017,United States of America,Gabon,40
+2017,United States of America,United Kingdom,39
+2017,United States of America,Georgia,382
+2017,United States of America,Ghana,399
+2017,United States of America,Guinea,2305
+2017,United States of America,Gambia,1503
+2017,United States of America,Guinea-Bissau,24
+2017,United States of America,Equatorial Guinea,9
+2017,United States of America,Greece,15
+2017,United States of America,Grenada,24
+2017,United States of America,Guatemala,14971
+2017,United States of America,Guyana,75
+2017,United States of America,Honduras,10107
+2017,United States of America,Croatia,34
+2017,United States of America,Haiti,17055
+2017,United States of America,Hungary,18
+2017,United States of America,Indonesia,1834
+2017,United States of America,India,4836
+2017,United States of America,Iran (Islamic Rep. of),5536
+2017,United States of America,Iraq,6130
+2017,United States of America,Israel,138
+2017,United States of America,Italy,20
+2017,United States of America,Jamaica,697
+2017,United States of America,Jordan,428
+2017,United States of America,Japan,6
+2017,United States of America,Kazakhstan,707
+2017,United States of America,Kenya,2087
+2017,United States of America,Kyrgyzstan,1270
+2017,United States of America,Cambodia,139
+2017,United States of America,Rep. of Korea,29
+2017,United States of America,Kuwait,130
+2017,United States of America,Lao People's Dem. Rep.,108
+2017,United States of America,Lebanon,378
+2017,United States of America,Liberia,1179
+2017,United States of America,Libya,280
+2017,United States of America,Saint Lucia,9
+2017,United States of America,Sri Lanka,1270
+2017,United States of America,Lesotho,6
+2017,United States of America,Lithuania,20
+2017,United States of America,Latvia,19
+2017,United States of America,Morocco,114
+2017,United States of America,Rep. of Moldova,1400
+2017,United States of America,Madagascar,17
+2017,United States of America,Maldives,6
+2017,United States of America,Mexico,7709
+2017,United States of America,Marshall Islands,7
+2017,United States of America,The former Yugoslav Republic of Macedonia,108
+2017,United States of America,Mali,1191
+2017,United States of America,Myanmar,1623
+2017,United States of America,Montenegro,109
+2017,United States of America,Mongolia,766
+2017,United States of America,Mauritania,944
+2017,United States of America,Mauritius,31
+2017,United States of America,Malawi,33
+2017,United States of America,Malaysia,93
+2017,United States of America,Namibia,45
+2017,United States of America,Niger,138
+2017,United States of America,Nigeria,1154
+2017,United States of America,Nicaragua,563
+2017,United States of America,Niue,19
+2017,United States of America,Netherlands,13
+2017,United States of America,Nepal,6907
+2017,United States of America,Pakistan,3308
+2017,United States of America,Panama,15
+2017,United States of America,Peru,528
+2017,United States of America,Philippines,145
+2017,United States of America,Poland,23
+2017,United States of America,Dem. People's Rep. of Korea,12
+2017,United States of America,Paraguay,19
+2017,United States of America,Qatar,13
+2017,United States of America,Romania,371
+2017,United States of America,Russian Federation,5463
+2017,United States of America,Rwanda,1079
+2017,United States of America,Saudi Arabia,391
+2017,United States of America,Sudan,1382
+2017,United States of America,Senegal,388
+2017,United States of America,Singapore,15
+2017,United States of America,Sierra Leone,523
+2017,United States of America,El Salvador,18763
+2017,United States of America,Somalia,2297
+2017,United States of America,Serbia and Kosovo (S/RES/1244 (1999)),1039
+2017,United States of America,South Sudan,7
+2017,United States of America,Suriname,9
+2017,United States of America,Slovakia,10
+2017,United States of America,Sweden,8
+2017,United States of America,Syrian Arab Rep.,7282
+2017,United States of America,Turks and Caicos Islands,14
+2017,United States of America,Chad,335
+2017,United States of America,Togo,604
+2017,United States of America,Thailand,29
+2017,United States of America,Tajikistan,283
+2017,United States of America,Turkmenistan,159
+2017,United States of America,Trinidad and Tobago,55
+2017,United States of America,Tunisia,54
+2017,United States of America,Turkey,428
+2017,United States of America,United Rep. of Tanzania,133
+2017,United States of America,Uganda,1301
+2017,United States of America,Ukraine,1812
+2017,United States of America,Uzbekistan,1210
+2017,United States of America,Saint Vincent and the Grenadines,31
+2017,United States of America,Venezuela (Bolivarian Republic of),5402
+2017,United States of America,Viet Nam,256
+2017,United States of America,Stateless,455
+2017,United States of America,Yemen,549
+2017,United States of America,South Africa,40
+2017,United States of America,Zambia,44
+2017,United States of America,Zimbabwe,1049
+2017,Uzbekistan,Afghanistan,20
+2017,Venezuela (Bolivarian Republic of),Afghanistan,10
+2017,Venezuela (Bolivarian Republic of),Chile,10
+2017,Venezuela (Bolivarian Republic of),Colombia,122677
+2017,Venezuela (Bolivarian Republic of),Western Sahara,11
+2017,Venezuela (Bolivarian Republic of),Haiti,7
+2017,Venezuela (Bolivarian Republic of),Iraq,18
+2017,Venezuela (Bolivarian Republic of),Lebanon,12
+2017,Venezuela (Bolivarian Republic of),Liberia,9
+2017,Venezuela (Bolivarian Republic of),Nigeria,7
+2017,Venezuela (Bolivarian Republic of),Palestinian,7
+2017,Venezuela (Bolivarian Republic of),Turkey,6
+2017,Yemen,Egypt,16
+2017,Yemen,Eritrea,1370
+2017,Yemen,Ethiopia,6205
+2017,Yemen,Iraq,3351
+2017,Yemen,Jordan,12
+2017,Yemen,Palestinian,625
+2017,Yemen,Sudan,124
+2017,Yemen,Somalia,255894
+2017,Yemen,Syrian Arab Rep.,3286
+2017,Yemen,Viet Nam,15
+2017,South Africa,Angola,25
+2017,South Africa,Burundi,3000
+2017,South Africa,Bangladesh,319
+2017,South Africa,Côte d'Ivoire,41
+2017,South Africa,Cameroon,392
+2017,South Africa,Dem. Rep. of the Congo,26043
+2017,South Africa,Congo,5261
+2017,South Africa,Eritrea,1924
+2017,South Africa,Ethiopia,17562
+2017,South Africa,Kenya,155
+2017,South Africa,Liberia,60
+2017,South Africa,Palestinian,38
+2017,South Africa,Rwanda,1295
+2017,South Africa,Sudan,112
+2017,South Africa,Somalia,26977
+2017,South Africa,Syrian Arab Rep.,45
+2017,South Africa,United Rep. of Tanzania,37
+2017,South Africa,Uganda,549
+2017,South Africa,Zambia,64
+2017,South Africa,Zimbabwe,4558
+2017,Zambia,Burundi,3267
+2017,Zambia,Dem. Rep. of the Congo,34928
+2017,Zambia,Eritrea,8
+2017,Zambia,Ethiopia,18
+2017,Zambia,Liberia,6
+2017,Zambia,Palestinian,10
+2017,Zambia,Rwanda,715
+2017,Zambia,Sudan,24
+2017,Zambia,Somalia,2174
+2017,Zambia,Turkey,12
+2017,Zambia,Uganda,21
+2017,Zambia,South Africa,7
+2017,Zambia,Zimbabwe,5
+2017,Zimbabwe,Burundi,622
+2017,Zimbabwe,Côte d'Ivoire,10
+2017,Zimbabwe,Dem. Rep. of the Congo,6296
+2017,Zimbabwe,Congo,13
+2017,Zimbabwe,Egypt,5
+2017,Zimbabwe,Eritrea,20
+2017,Zimbabwe,Ethiopia,68
+2017,Zimbabwe,Rwanda,500
+2017,Zimbabwe,Sudan,5
+2017,Zimbabwe,Somalia,19
+2017,Zimbabwe,Uganda,8

@@ -1,0 +1,212 @@
+country,total_number,continent
+Afghanistan,131621367,Asia
+Iraq,26890069,Asia
+Syrian Arab Rep.,24046584,Asia
+Ethiopia,23094128,Africa
+Somalia,19981191,Africa
+Sudan,15851297,Africa
+Viet Nam,15154642,Asia
+Angola,13017118,Africa
+Rwanda,12859697,Africa
+Burundi,12649097,Africa
+Dem. Rep. of the Congo,11072889,South America
+Mozambique,8718777,Africa
+Eritrea,8503985,Africa
+Liberia,8433916,Africa
+Bosnia and Herzegovina,8379957,Europe
+Myanmar,7824535,Asia
+Western Sahara,5690093,Africa
+South Sudan,5472996,Africa
+Palestinian,4682821,Asia
+Colombia,4396238,South America
+Croatia,4191620,Europe
+Azerbaijan,4065936,Europe
+Sierra Leone,4011778,Africa
+China,3851097,Asia
+Serbia and Kosovo (S/RES/1244 (1999)),3613451,Oceania
+Sri Lanka,3604413,Asia
+Russian Federation,3569957,Asia
+Central African Rep.,3300957,Africa
+Chad,3290278,Africa
+Iran (Islamic Rep. of),3012502,Asia
+Uganda,2747154,Africa
+Turkey,2666373,Asia
+Lao People's Dem. Rep.,2313562,Oceania
+El Salvador,2247796,North America
+Bhutan,2135187,Asia
+Cambodia,2126735,Asia
+Armenia,1834685,Europe
+Ukraine,1592573,Europe
+Mali,1435256,Africa
+Philippines,1433792,Asia
+Mauritania,1369199,Africa
+Pakistan,1335768,Asia
+Nigeria,991980,Africa
+Guinea,987991,Africa
+Guatemala,984998,North America
+Nicaragua,971361,North America
+Tajikistan,889860,Asia
+Togo,865224,Africa
+Côte d'Ivoire,809840,Africa
+Namibia,797277,Africa
+Zimbabwe,772079,Africa
+Tibetan,687972,Europe
+Haiti,549283,North America
+Senegal,524545,Africa
+Equatorial Guinea,513181,Africa
+Bangladesh,504382,Asia
+Indonesia,468982,Asia
+Cuba,466639,North America
+Yemen,463346,Asia
+Lebanon,441944,Asia
+Ghana,427881,Africa
+Congo,421566,Africa
+Timor-Leste,386781,Asia
+Uzbekistan,384261,Asia
+Romania,371518,Europe
+Georgia,363976,Europe
+South Africa,361116,Africa
+Poland,307077,Europe
+India,300207,Asia
+Albania,278477,Europe
+Guinea-Bissau,208388,Africa
+Cameroon,191158,Africa
+Egypt,185149,Africa
+Kazakhstan,182521,Asia
+Chile,180975,South America
+Algeria,177098,Africa
+Kenya,169205,Africa
+The former Yugoslav Republic of Macedonia,150270,Europe
+Peru,139138,South America
+Rep. of Moldova,126847,Europe
+Mexico,112062,North America
+Niger,105707,Africa
+Belarus,103612,Europe
+Venezuela (Bolivarian Republic of),93263,South America
+Kyrgyzstan,90706,Asia
+Hungary,85335,Europe
+Nepal,84746,Asia
+Czech Rep.,84001,North America
+Djibouti,82026,Africa
+Bulgaria,78125,Europe
+Slovenia,77863,Europe
+Libya,70213,Africa
+Gambia,64609,Africa
+Honduras,61380,North America
+Tunisia,41435,Africa
+Morocco,41171,Africa
+Malawi,39052,Africa
+United States of America,37728,North America
+Jordan,35591,Asia
+Suriname,27827,South America
+United Rep. of Tanzania,25946,Africa
+Latvia,25371,Europe
+Fiji,24165,Oceania
+Mongolia,23387,Asia
+Israel,21711,Asia
+Burkina Faso,21359,Africa
+Kuwait,20376,Asia
+Turkmenistan,19879,Asia
+Montenegro,18776,Europe
+Ecuador,18040,South America
+Jamaica,17590,North America
+Brazil,15099,South America
+Argentina,14980,South America
+Zambia,14727,Africa
+Saint Vincent and the Grenadines,14610,North America
+Thailand,13395,Asia
+Estonia,13321,Europe
+Dem. People's Rep. of Korea,13274,Asia
+Lithuania,12887,Europe
+Saudi Arabia,11432,Asia
+Bolivia (Plurinational State of),10476,South America
+Germany,9476,Europe
+Rep. of Korea,9146,Asia
+Slovakia,8658,Europe
+Guyana,8636,South America
+Uruguay,8503,South America
+Malaysia,8080,Asia
+Papua New Guinea,7353,Oceania
+Saint Lucia,7157,North America
+Benin,7139,Africa
+Greece,7068,Europe
+Costa Rica,5461,North America
+Spain,5385,Europe
+Panama,5385,North America
+Comoros,5237,Africa
+Dominican Rep.,4363,North America
+Madagascar,4325,Africa
+Bahrain,3942,Asia
+Grenada,3845,North America
+Trinidad and Tobago,3737,North America
+United Arab Emirates,3463,Asia
+United Kingdom,3106,Europe
+Gabon,2354,Africa
+Italy,2325,Europe
+Japan,2293,Asia
+Seychelles,2084,Africa
+France,2035,Europe
+Canada,1971,North America
+Bahamas,1775,North America
+Botswana,1765,Africa
+Paraguay,1514,South America
+Swaziland,1401,Africa
+Netherlands,1351,Europe
+Singapore,1197,Asia
+Solomon Islands,1188,Oceania
+Belgium,1126,Europe
+Portugal,1121,Europe
+Mauritius,1117,Africa
+Lesotho,1111,Africa
+"China, Hong Kong SAR",925,Asia
+Cyprus,924,Europe
+Barbados,899,North America
+Qatar,892,Asia
+Sao Tome and Principe,837,Africa
+Austria,785,Europe
+Switzerland,771,Europe
+Oman,673,Asia
+Dominica,634,North America
+Sweden,587,Europe
+Antigua and Barbuda,586,North America
+Belize,488,North America
+Australia,470,Oceania
+Maldives,387,Asia
+Kiribati,359,Oceania
+Cabo Verde,346,Africa
+Denmark,324,Europe
+Saint Kitts and Nevis,236,North America
+Malta,227,Europe
+Tonga,220,Oceania
+New Zealand,219,Oceania
+Curaçao,175,South America
+"China, Macao SAR",149,Asia
+Norway,139,Europe
+Ireland,137,Europe
+Iceland,128,Europe
+Andorra,117,Europe
+Finland,113,Europe
+Turks and Caicos Islands,107,North America
+Niue,105,Oceania
+Brunei Darussalam,68,Asia
+Tuvalu,47,Oceania
+French Guiana,41,South America
+Puerto Rico,36,North America
+San Marino,35,Europe
+Cayman Islands,34,North America
+Monaco,30,Europe
+Samoa,22,Oceania
+Marshall Islands,21,Oceania
+Nauru,18,Oceania
+Gibraltar,16,Europe
+Luxembourg,13,Europe
+Cook Islands,8,Oceania
+Palau,8,Oceania
+Vanuatu,8,Oceania
+Bermuda,7,North America
+Anguilla,3,North America
+Martinique,3,North America
+Norfolk Island,3,Oceania
+Holy See (the),2,Europe
+French Polynesia,2,Oceania
+Saint-Pierre-et-Miquelon,1,North America

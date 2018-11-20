@@ -1,0 +1,243 @@
+Year,continent,number
+1975,Africa,149.684
+1975,Asia,1.89
+1975,Europe,0.98
+1975,North America,0.074
+1975,Oceania,5.705
+1975,South America,2.051
+1976,Africa,169.759
+1976,Asia,9.548
+1976,Europe,0.106
+1976,South America,0.389
+1977,Africa,206.496
+1977,Asia,26.358
+1977,Europe,0.355
+1977,South America,0.3
+1978,Africa,237.738
+1978,Asia,67.648
+1978,Europe,0.75
+1978,North America,14.515
+1978,South America,0.313
+1979,Africa,312.894
+1979,Asia,122.132
+1979,Europe,0.267
+1979,North America,2.346
+1979,South America,0.313
+1980,Africa,422.24
+1980,Asia,253.464
+1980,Europe,0.536
+1980,North America,9.883
+1980,South America,0.174
+1981,Africa,304.352
+1981,Asia,459.603
+1981,Europe,0.532
+1981,North America,31.692
+1981,South America,0.21
+1982,Africa,295.222
+1982,Asia,526.066
+1982,Europe,0.632
+1982,North America,30.351
+1982,South America,0.44
+1983,Africa,288.186
+1983,Asia,548.767
+1983,Europe,0.621
+1983,North America,31.608
+1983,South America,0.187
+1984,Africa,347.058
+1984,Asia,517.791
+1984,Europe,0.535
+1984,North America,33.27
+1984,South America,0.176
+1985,Africa,379.776
+1985,Asia,583.114
+1985,Europe,0.754
+1985,North America,29.412
+1985,South America,0.284
+1986,Africa,359.515
+1986,Asia,633.624
+1986,Europe,0.377
+1986,North America,29.804
+1986,South America,0.259
+1987,Africa,397.826
+1987,Asia,658.327
+1987,Europe,0.466
+1987,North America,29.576
+1987,South America,0.204
+1988,Africa,459.352
+1988,Asia,709.991
+1988,Europe,5.472
+1988,North America,31.534
+1988,South America,0.073
+1989,Africa,482.49
+1989,Asia,715.297
+1989,Europe,8.055
+1989,North America,19.41
+1989,South America,0.824
+1990,Africa,591.269
+1990,Asia,861.177
+1990,Europe,9.433
+1990,North America,14.689
+1990,Oceania,0.0
+1990,South America,2.386
+1991,Africa,533.546
+1991,Asia,894.887
+1991,Europe,11.016
+1991,North America,15.258
+1991,Oceania,0.0
+1991,South America,2.206
+1992,Africa,557.718
+1992,Asia,767.518
+1992,Europe,124.556
+1992,North America,15.354
+1992,Oceania,0.002
+1992,South America,1.88
+1993,Africa,649.24
+1993,Asia,596.087
+1993,Europe,144.798
+1993,North America,13.687
+1993,Oceania,0.009
+1993,South America,1.969
+1994,Africa,693.53
+1994,Asia,531.008
+1994,Europe,150.854
+1994,North America,14.468
+1994,Oceania,0.016
+1994,South America,2.382
+1995,Africa,581.151
+1995,Asia,514.915
+1995,Europe,158.459
+1995,North America,13.144
+1995,Oceania,0.226
+1995,South America,2.452
+1996,Africa,454.364
+1996,Asia,525.688
+1996,Europe,196.802
+1996,North America,12.571
+1996,Oceania,0.235
+1996,South America,2.398
+1997,Africa,372.224
+1997,Asia,520.963
+1997,Europe,185.251
+1997,North America,11.985
+1997,Oceania,0.118
+1997,South America,2.083
+1998,Africa,359.34
+1998,Asia,499.008
+1998,Europe,169.3
+1998,North America,10.63
+1998,Oceania,0.056
+1998,South America,1.979
+1999,Africa,379.892
+1999,Asia,482.258
+1999,Europe,170.502
+1999,North America,9.6
+1999,Oceania,0.038
+1999,South America,1.569
+2000,Africa,395.119
+2000,Asia,561.781
+2000,Europe,135.072
+2000,North America,6.392
+2000,Oceania,0.046
+2000,South America,1.967
+2001,Africa,364.685
+2001,Asia,603.057
+2001,Europe,124.655
+2001,North America,5.759
+2001,Oceania,0.079
+2001,South America,2.779
+2002,Africa,371.555
+2002,Asia,500.971
+2002,Europe,146.79
+2002,North America,5.37
+2002,Oceania,0.117
+2002,South America,4.179
+2003,Africa,350.159
+2003,Asia,438.41
+2003,Europe,128.035
+2003,North America,4.344
+2003,Oceania,0.122
+2003,South America,4.812
+2004,Africa,340.972
+2004,Asia,458.972
+2004,Europe,111.093
+2004,North America,3.935
+2004,Oceania,0.142
+2004,South America,5.717
+2005,Africa,321.352
+2005,Asia,427.876
+2005,Europe,85.021
+2005,North America,4.678
+2005,Oceania,0.152
+2005,South America,7.17
+2006,Africa,315.613
+2006,Asia,553.598
+2006,Europe,76.026
+2006,North America,7.712
+2006,Oceania,0.185
+2006,South America,8.815
+2007,Africa,289.131
+2007,Asia,719.633
+2007,Europe,46.636
+2007,North America,5.651
+2007,Oceania,0.204
+2007,South America,57.114
+2008,Africa,276.91
+2008,Asia,658.293
+2008,Europe,48.165
+2008,North America,5.649
+2008,Oceania,0.207
+2008,South America,39.27
+2009,Africa,280.516
+2009,Asia,645.268
+2009,Europe,46.876
+2009,North America,5.75
+2009,Oceania,0.21
+2009,South America,40.778
+2010,Africa,294.781
+2010,Asia,650.886
+2010,Europe,43.307
+2010,North America,6.049
+2010,Oceania,0.211
+2010,South America,41.332
+2011,Africa,351.164
+2011,Asia,583.973
+2011,Europe,40.037
+2011,North America,7.36
+2011,Oceania,0.189
+2011,South America,41.436
+2012,Africa,367.78
+2012,Asia,578.317
+2012,Europe,38.698
+2012,North America,8.309
+2012,Oceania,0.168
+2012,South America,41.276
+2013,Africa,384.25
+2013,Asia,703.76
+2013,Europe,18.882
+2013,North America,8.719
+2013,Oceania,0.15
+2013,South America,41.425
+2014,Africa,462.364
+2014,Asia,876.04
+2014,Europe,40.296
+2014,North America,9.099
+2014,Oceania,0.138
+2014,South America,37.69
+2015,Africa,538.229
+2015,Asia,964.914
+2015,Europe,46.785
+2015,North America,9.792
+2015,Oceania,0.139
+2015,South America,35.516
+2016,Africa,616.509
+2016,Asia,1003.577
+2016,Europe,37.662
+2016,North America,9.653
+2016,Oceania,0.136
+2016,South America,32.465
+2017,Africa,737.342
+2017,Asia,1171.502
+2017,Europe,27.527
+2017,North America,11.009
+2017,Oceania,0.128
+2017,South America,20.698
